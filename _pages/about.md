@@ -9,15 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hangzhou, Zhejiang, China</p>
+    <p>Hangzhou, China</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a 2nd year Ph.D. student in Zhejiang University, and expected to get the Ph.D. degree in 2027. I'm co-advised by  [Prof. Wei Dong（董玮）](https://dongw.emnets.cn/) and [Prof. Yi Gao（高艺）](https://person.zju.edu.cn/gaoyi). My research interests mainly focus on _IoT Security & Systems_, _Mobile OTA_, and _Deduplication System_. 
+I'm a 2nd year Ph.D. student in Zhejiang University, and expected to get the Ph.D. degree in 2027. I'm co-advised by  [Prof. Wei Dong（董玮）](https://dongw.emnets.cn/) and [Prof. Yi Gao（高艺）](https://person.zju.edu.cn/gaoyi). Prior to that, I received the B.E. degree from Hangzhou Dianzi University in 2022, supervised by [Prof. Long Chen（陈龙）](https://elec.hdu.edu.cn/2017/1205/c1827a57681/page.htm). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests mainly focus on _IoT Security & System_, _Mobile OTA_, and _Deduplication System_. 
