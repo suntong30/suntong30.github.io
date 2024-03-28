@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.zju.edu.cn/'>Zhejiang University</a>. tongsun[at]zju[dot]edu[dot]cn
 
 profile:
   align: right
