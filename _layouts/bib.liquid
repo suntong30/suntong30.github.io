@@ -35,7 +35,7 @@
           <abbr class="badge">{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
-      {% elsif entry.abbr2 %}
+      {% if entry.abbr2 %}
         {% if site.data.venues[entry.abbr2] %}
           {% assign venue_style2 = null %}
           {% if site.data.venues[entry.abbr2].color != blank %}
