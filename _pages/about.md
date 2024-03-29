@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.zju.edu.cn/'>Zhejiang University</a>. tongsun[at]zju[dot]edu[dot]cn
+subtitle: <a href='https://www.zju.edu.cn/'>Zhejiang University</a>. E-mail: tongsun [at] zju [dot] edu [dot] cn
 
 profile:
   align: right
