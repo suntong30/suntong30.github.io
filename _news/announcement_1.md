@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to ACM/IEEE IPSN 2024 🥳
+Our work **dTEE** is accepted to ACM/IEEE **IPSN 2024** 🥳
