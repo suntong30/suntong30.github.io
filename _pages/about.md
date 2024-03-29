@@ -16,6 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a 2nd year Ph.D. student in Zhejiang University, and expected to get the Ph.D. degree in 2027. I'm co-advised by  [Prof. Wei Dong（董玮）](https://dongw.emnets.cn/) and [Prof. Yi Gao（高艺）](https://person.zju.edu.cn/gaoyi). Prior to that, I received the B.E. degree from Hangzhou Dianzi University in 2022, supervised by [Prof. Long Chen（陈龙）](https://elec.hdu.edu.cn/2017/1205/c1827a57681/page.htm). 
+Hi, I'm currently a 2nd year PhD student in the [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) at Zhejiang University, and expected to get the PhD degree in 2027. I'm co-advised by  [Prof. Wei Dong（董玮）](https://dongw.emnets.cn/) and [Prof. Yi Gao（高艺）](https://person.zju.edu.cn/gaoyi). Prior to that, I received my B.E. degree from Hangzhou Dianzi University in 2022, supervised by [Prof. Long Chen（陈龙）](https://elec.hdu.edu.cn/2017/1205/c1827a57681/page.htm). 
 
-My research interests mainly focus on _IoT Security & System_, _Mobile OTA_, and _Deduplication System_. 
+My research interests mainly focus on **_IoT Security & System_**, **_Mobile OTA_**, and **_Deduplication_**. 
