@@ -2,18 +2,15 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Tong Sun (孙桐)
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Student
+      institution: Zhejiang University, Hangzhou, China
+      year: 2022-current
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +18,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor
+      institution: Hangzhou Dianzi University, Hangzhou, China
+      year: 2018-2022
       description:
         - Description 1.
         - Description 2.
