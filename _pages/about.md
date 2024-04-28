@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.zju.edu.cn/'>Zhejiang University</a>.
+subtitle: <a href='https://www.zju.edu.cn/'>Zhejiang University</a>
 
 profile:
   align: right
@@ -22,4 +22,4 @@ My research interests mainly focus on _IoT Security & System_, _Mobile/Edge Comp
 
 **E-mail:** tongsun [at] zju [dot] edu [dot] cn
 
-**Our Lab:** [**EmNets**](https://www.emnets.cn/en/)
+**Our Lab:** <font color='orange'>[**EmNets**](https://www.emnets.cn/en/) </font>
