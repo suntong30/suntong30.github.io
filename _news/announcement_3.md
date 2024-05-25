@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work **SimEnc** is accepted to USENIX **ATC 2024** 🥳
+Our work **SimEnc** is accepted to **USENIX ATC 2024** 🥳
