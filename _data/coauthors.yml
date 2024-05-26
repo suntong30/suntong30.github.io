@@ -33,6 +33,22 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
 
+"Dong":
+  - firstname: ["Wei"]
+    url: https://www.emnets.cn/dongw/
+
+"Gao":
+  - firstname: ["Yi"]
+    url: https://scholar.google.com/citations?user=oyKWoTkAAAAJ&hl=en&oi=ao
+
+"Li":
+  - firstname: ["Borui"]
+    url: https://www.liborui.cn/
+
+"Lv":
+  - firstname: ["Jiamei"]
+    url: https://lvjiamei.github.io/
+
 
 
 
