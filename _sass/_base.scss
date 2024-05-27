@@ -699,11 +699,12 @@ footer.sticky-bottom {
       }
 
       .abbr {
-        font-weight: bolder;
+        font-weight: 900;
         height: 2rem;
         margin-bottom: 0.5rem;
 
         abbr {
+          font-weight: 900;
           display: inline-block;
           background-color: var(--global-mytheme-color);
           padding-left: 1rem;
@@ -719,18 +720,19 @@ footer.sticky-bottom {
         }
 
         .award {
-          font-weight: bolder;
+          font-weight: 900;
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
         }
       }
 
       .abbr2 {
-        font-weight: bolder;
+        font-weight: 900;
         height: 2rem;
         margin-bottom: 0.5rem;
 
         abbr {
+          font-weight: 900;
           display: inline-block;
           background-color: var(--global-abbr2-color);
           padding-left: 1rem;
@@ -758,29 +760,32 @@ footer.sticky-bottom {
       }
 
       .author {
-        font-weight: 500;
+        font-weight: 450;
         a {
-          font-weight: 500;
+          font-weight: 450;
           border-bottom: 1px dashed var(--global-theme-color);
 
           &:hover {
-            font-weight: 500;
+            font-weight: 450;
             border-bottom-style: solid;
             text-decoration: none;
           }
         }
 
         > em {
+          font-weight: 450;
           border-bottom: 1px solid;
           font-style: bold;
         }
 
         > span.more-authors {
+          font-weight: 450;
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
           cursor: pointer;
 
           &:hover {
+            font-weight: 450;
             color: var(--global-text-color);
             border-bottom: 1px dashed var(--global-text-color);
           }
@@ -788,6 +793,7 @@ footer.sticky-bottom {
       }
 
       .links {
+        font-weight: 450;
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
@@ -805,6 +811,7 @@ footer.sticky-bottom {
       }
 
       .badges {
+        font-weight: 450;
         padding-bottom: 0.5rem;
         span {
           display: inline-block;
