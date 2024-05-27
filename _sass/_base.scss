@@ -690,7 +690,6 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      font-weight: 500;
       margin-bottom: 1rem;
 
       .preview {
@@ -700,7 +699,7 @@ footer.sticky-bottom {
       }
 
       .abbr {
-        font-weight: bold;
+        font-weight: bolder;
         height: 2rem;
         margin-bottom: 0.5rem;
 
@@ -720,14 +719,14 @@ footer.sticky-bottom {
         }
 
         .award {
-          font-weight: bold;
+          font-weight: bolder;
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
         }
       }
 
       .abbr2 {
-        font-weight: bold;
+        font-weight: bolder;
         height: 2rem;
         margin-bottom: 0.5rem;
 
@@ -747,7 +746,7 @@ footer.sticky-bottom {
         }
 
         .award {
-          font-weight: bold;
+          font-weight: bolder;
           color: var(--global-abbr2-color) !important;
           border: 1px solid var(--global-abbr2-color);
         }
@@ -759,32 +758,29 @@ footer.sticky-bottom {
       }
 
       .author {
-        font-weight: 600;
+        font-weight: 500;
         a {
-          font-weight: 600;
+          font-weight: 500;
           border-bottom: 1px dashed var(--global-theme-color);
 
           &:hover {
-            font-weight: 600;
+            font-weight: 500;
             border-bottom-style: solid;
             text-decoration: none;
           }
         }
 
         > em {
-          font-weight: 600;
           border-bottom: 1px solid;
           font-style: bold;
         }
 
         > span.more-authors {
-          font-weight: 600;
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
           cursor: pointer;
 
           &:hover {
-            font-weight: 600;
             color: var(--global-text-color);
             border-bottom: 1px dashed var(--global-text-color);
           }
@@ -792,7 +788,6 @@ footer.sticky-bottom {
       }
 
       .links {
-        font-style: 600;
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
@@ -810,7 +805,6 @@ footer.sticky-bottom {
       }
 
       .badges {
-        font-weight: 600;
         padding-bottom: 0.5rem;
         span {
           display: inline-block;
