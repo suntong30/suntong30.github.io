@@ -103,6 +103,7 @@
             {% endif %}
           {% endfor %}
         {%- endif -%}
+        <strong>{{ author.first }}</strong> <strong>{{ author_last_name }}</strong>
 
         {%- if forloop.length > 1 -%}
           {% if forloop.first == false %},&nbsp;{% endif %}
