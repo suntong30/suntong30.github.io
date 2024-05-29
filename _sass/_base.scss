@@ -660,6 +660,8 @@ footer.sticky-bottom {
   margin-top: 2rem;
 
   h1 {
+    font-weight: 350;
+
     color: var(--global-theme-color);
     font-size: 2rem;
     text-align: center;
@@ -668,6 +670,8 @@ footer.sticky-bottom {
   }
 
   h2 {
+    font-weight: 350;
+
     margin-bottom: 1rem;
 
     span {
@@ -676,6 +680,7 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
+    font-weight: 350;
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
