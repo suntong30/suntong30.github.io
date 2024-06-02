@@ -22,4 +22,4 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 
 **E-mail:** tongsun 🤯 zju [dot] edu [dot] cn
 
-**Our Lab:**  [ <font color='orange'>**EmNets** research group</font>](https://www.emnets.cn/) 
+**Our Lab:**  [ <font color='orange'> EmNets research group</font>](https://www.emnets.cn/) 
