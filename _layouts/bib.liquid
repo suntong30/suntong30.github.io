@@ -25,14 +25,14 @@
             {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
           {% endif %}
           <abbr
-            class="badge"
+            class="badge badge-warning"
             {% if venue_style %}
               {{ venue_style }}
             {% endif %}
             ><a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a></abbr
           >
         {% else %}
-          <abbr class="badge">{{ entry.abbr }}</abbr>
+          <abbr class="badge badge-warning">{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
       {% if entry.abbr2 %}
@@ -42,14 +42,14 @@
             {% assign venue_style2 = site.data.venues[entry.abbr2].color | prepend: 'style="background-color:' | append: '"' %}
           {% endif %}
           <abbr
-            class="badge badge-warning"
+            class="badge badge-info"
             {% if venue_style2 %}
               {{ venue_style2 }}
             {% endif %}
             ><a href="{{site.data.venues[entry.abbr2].url}}">{{ entry.abbr2 }}</a></abbr
           >
         {% else %}
-          <abbr class="badge badge-warning">{{ entry.abbr2 }}</abbr>
+          <abbr class="badge badge-info">{{ entry.abbr2 }}</abbr>
         {% endif %}
       {% endif %}
       {% if entry.abbr3 %}
@@ -59,14 +59,14 @@
             {% assign venue_style3 = site.data.venues[entry.abbr3].color | prepend: 'style="background-color:' | append: '"' %}
           {% endif %}
           <abbr
-            class="badge badge-warning"
+            class="badge badge-info"
             {% if venue_style3 %}
               {{ venue_style3 }}
             {% endif %}
             ><a href="{{site.data.venues[entry.abbr3].url}}">{{ entry.abbr3 }}</a></abbr
           >
         {% else %}
-          <abbr class="badge badge-warning">{{ entry.abbr3 }}</abbr>
+          <abbr class="badge badge-info">{{ entry.abbr3 }}</abbr>
         {% endif %}
       {% endif %}
     </div>
