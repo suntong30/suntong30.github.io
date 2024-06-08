@@ -716,7 +716,7 @@ footer.sticky-bottom {
           padding-right: 1rem;
 
           a {
-            color: black;
+            color: var(--global-text-color);
 
             &:hover {
               text-decoration: none;
@@ -744,7 +744,7 @@ footer.sticky-bottom {
           padding-right: 1rem;
 
           a {
-            color: white;
+            color: var(--global-text-color);
 
             &:hover {
               text-decoration: none;
