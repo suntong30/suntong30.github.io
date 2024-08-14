@@ -21,11 +21,11 @@ Hi, I'm currently a 2nd year PhD student in the [College of Computer Science and
 My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_, and _Deduplication/Incremental Updates_. 
 
 **Research Overview:**
-- ** IoT Security **
-    - Programming methods for TEE-enabled IoT devices: <font color=red>[IPSN'24]</font> [dTEE](https://ieeexplore.ieee.org/document/10577323)
-- ** OTA/Incremental Updates **
-    - Deduplication: <font color=red>[ATC'24]</font> [SimEnc](https://www.usenix.org/conference/atc24/presentation/sun)
-    - Mobile application updates: <font color=red>[TMC'24]</font> [sdiff](https://ieeexplore.ieee.org/document/10543054), <font color=red>[INFOCOM'24]</font> [MDiffPatch](https://www.emnets.cn/zh/publication/infocom-24-mdiffpatch/mdiffpatch.pdf)
+- **IoT Security**
+    - **Programming methods for TEE-enabled IoT devices:** <font color=red>[**IPSN'24**]</font> [dTEE](https://ieeexplore.ieee.org/document/10577323)
+- **OTA/Incremental Updates**
+    - **Deduplication:** <font color=red>[**ATC'24**]</font> [SimEnc](https://www.usenix.org/conference/atc24/presentation/sun)
+    - **Mobile application updates:** <font color=red>[**TMC**]</font> [sdiff](https://ieeexplore.ieee.org/document/10543054), <font color=red>[**INFOCOM'24**]</font> [MDiffPatch](https://www.emnets.cn/zh/publication/infocom-24-mdiffpatch/mdiffpatch.pdf)
 
 **E-mail:** tongsun 🤯 zju [dot] edu [dot] cn
 
