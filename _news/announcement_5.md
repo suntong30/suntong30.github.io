@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to be the reviewer of **Transactions on Knowledge and Data Engineering** 😃
+Invited to be the reviewer of **IEEE Transactions on Knowledge and Data Engineering** 😃
