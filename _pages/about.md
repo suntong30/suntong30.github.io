@@ -24,7 +24,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - **IoT Security**
     - **Programming methods for TEE-enabled IoT devices:** [IPSN'24] [dTEE](https://ieeexplore.ieee.org/document/10577323)
 - **OTA/Incremental Updates**
-    - **Deduplication:** [ATC'24] [SimEnc](https://www.usenix.org/conference/atc24/presentation/sun)
+    - **Deduplication:** [ATC'24] [ToS] [SimEnc](https://www.usenix.org/conference/atc24/presentation/sun)
     - **Mobile application updates:** [TMC] [sdiff](https://ieeexplore.ieee.org/document/10543054), [INFOCOM'24] [MDiffPatch](https://www.emnets.cn/zh/publication/infocom-24-mdiffpatch/mdiffpatch.pdf)
 
 **E-mail:** tongsun 🤯 zju [dot] edu [dot] cn
