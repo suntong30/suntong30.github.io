@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received the **20254 National Scholarship** 🏆
+Received the **2024 National Scholarship** 🏆
