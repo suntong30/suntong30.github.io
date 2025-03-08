@@ -49,7 +49,10 @@
         - Meritorious Winner @ Mathematical Contest In Modeling (MCM/ICM 2020)
     - year: 2020
       items: 
-        - 1st Prize @ 15th National Undergraduate Smart Car Contest, 1st Prize @ 2020 Zhejiang Province Undergraduate Smart Car Contest
+        - 1st Prize @ 15th National Undergraduate Smart Car Contest
+    - year: 2020
+      items: 
+        - 1st Prize @ 2020 Zhejiang Province Undergraduate Smart Car Contest
     - year: 2020
       items: 
         - 2nd Prize @ 2020 Zhejiang Province Undergraduate Electronic Design Contest
@@ -70,10 +73,15 @@
     - title: Conference Reviewer
       items:
         - IEEE HPCC - 2024 
-
+    - title: External Reviewer
+      items:
+        - Chinese Journal of Computers - 2023
+        - IEEE MASS - 2023, 2024
+        - ACM The Web Conference (WWW) - 2024
+        - IEEE Transactions on Parallel and Distributed Systems (TPDS) - 2024
 - title: Projects & Internships
   type: time_table
   contents:
     - year: 2022.09 - 2023.09
       items: 
-        - Huawei. “Over-The-Air Differencing Algorithm Technology (差分OTA优化技术)”, Excellent Completion(优秀结题).
+        - Huawei. “Over-The-Air Differencing Algorithm Optimization Technology (差分OTA优化技术)”, Excellent Completion(优秀结题).
