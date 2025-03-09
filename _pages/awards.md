@@ -26,7 +26,7 @@ nav_order: 3
 
 - 1st Prize in the "9th National Undergraduate Smart Car Contest" (第九届浙江省大学生智能汽车竞赛一等奖), 2020
 
-- 1st Prize in the "2020 Zhejiang Province Undergraduate Electronic Design Contest" (浙江省电子设计竞赛二等奖), 2020
+- 2nd Prize in the "2020 Zhejiang Province Undergraduate Electronic Design Contest" (浙江省电子设计竞赛二等奖), 2020
 
 - Zhejiang Province Government Scholarship (浙江省政府奖学金), 2020
 
