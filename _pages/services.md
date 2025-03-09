@@ -8,7 +8,7 @@ nav_order: 4
 
 - Journal Reviewer
     - IEEE Transactions on Knowledge and Data Engineering (TKDE) - 2024
-    - The Journal of Supercomputing - 2024
+    - The Journal of Supercomputing - 2025
 
 - Conference Reviewer
     - IEEE HPCC - 2024
