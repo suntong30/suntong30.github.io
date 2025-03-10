@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-- National Scholarship (博士生国家奖学金), 2024
+- National Scholarship (博士生国家奖学金), Ministry of Education, China, 2024
 
 - Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部)，2024
 
@@ -16,7 +16,7 @@ nav_order: 3
 
 - Hangzhou Dianzi University Outstanding Graduate Award (杭州电子科技大学优秀毕业生), 2022
 
-- National Scholarship (本科生国家奖学金), 2021
+- National Scholarship (本科生国家奖学金), Ministry of Education, China, 2021
 
 - 1st Prize in the "10th Zhejiang Province Undergraduate Smart Car Contest" (第十届浙江省大学生智能汽车竞赛一等奖), 2021
 
