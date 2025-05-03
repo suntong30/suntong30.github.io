@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tong Sun"
+title                    : "Tong Sun (孙桐)"
 description              : "College of Computer Science and Technology, Zhejiang University"
 repository               : "suntong30/suntong30.github.io"
 google_scholar_stats_use_cdn : true
