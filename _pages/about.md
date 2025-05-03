@@ -8,6 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.pubtitle{
+    background: #BD666D;
+    color: white;
+    font-size: 13.5px;
+    padding: 1px 5px 1px 5px;
+    border-radius: 10px;
+    float: left;
+    font-weight: bold;
+}
+.font-bold{
+    font-weight:bold;
+}
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
