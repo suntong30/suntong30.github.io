@@ -34,14 +34,14 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 
 # 🔥 News
 - *2025.04*: &nbsp;Invited to serve on the AEC of **<a href="https://www.usenix.org/conference/osdi25">USENIX OSDI 2025</a>** and **<a href="https://www.usenix.org/conference/atc25">USENIX ATC 2025</a>** 😃
-- *2025.03*: &nbsp;🎉🎉Our work **SimEnc** is selected as one of the best storage related papers of USENIX ATC'24 for fast-track publication in **ACM Transactions on Storage**! 🥳
+- *2025.03*: &nbsp;🎉🎉 Our work **SimEnc** is selected as one of the best storage related papers of USENIX ATC'24 for fast-track publication in **ACM Transactions on Storage**! 🥳
 - *2025.02*: &nbsp;Invited to be the reviewer of **The Journal of Supercomputing** 😃
-- *2024.11*: &nbsp;🎉🎉Received the **2024 National Scholarship** 🏆
+- *2024.11*: &nbsp;🎉🎉 Received the **2024 National Scholarship** 🏆
 - *2024.09*: &nbsp;Invited to be the reviewer of **IEEE HPCC 2024** 😃
 - *2024.09*: &nbsp;Invited to be the reviewer of **IEEE Transactions on Knowledge and Data Engineering** 😃
-- *2024.05*: &nbsp;🎉🎉Our work **sdiff** is accepted to **IEEE Transactions on Mobile Computing** 🥳
-- *2024.05*: &nbsp;🎉🎉Our work **SimEnc** is accepted to **<a href="https://www.usenix.org/conference/atc24">USENIX ATC 2024</a>** 🥳
-- *2024.01*: &nbsp;🎉🎉Our work **dTEE** is accepted to **<a href="https://ipsn.acm.org/2024/">ACM/IEEE IPSN 2024</a>** 🥳
+- *2024.05*: &nbsp;🎉🎉 Our work **sdiff** is accepted to **IEEE Transactions on Mobile Computing** 🥳
+- *2024.05*: &nbsp;🎉🎉 Our work **SimEnc** is accepted to **<a href="https://www.usenix.org/conference/atc24">USENIX ATC 2024</a>** 🥳
+- *2024.01*: &nbsp;🎉🎉 Our work **dTEE** is accepted to **<a href="https://ipsn.acm.org/2024/">ACM/IEEE IPSN 2024</a>** 🥳
 - *2023.12*: &nbsp;Our work **MDiffPatch** is accepted to **<a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM 2024</a>** 😃
   
 # 📝 Publications 
@@ -52,6 +52,8 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+- <div class="pubtitle">WWW'23</div> &nbsp; <b>[To Store or Not? Online Data Selection for Federated Learning with Limited Storage](https://dl.acm.org/doi/10.1145/3543507.3583426).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>ACM International World Wide Web Conference</i>. Acceptance rate = 19.2% (365/1900). <b>CCF-A.</b> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Paper.pdf) | [code](https://github.com/gongchenooo/WWW23-ODE) | [slides](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Slides.pdf) | [video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
