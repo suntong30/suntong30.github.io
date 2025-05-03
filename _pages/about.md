@@ -60,22 +60,9 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2023.12*: &nbsp;Our work **MDiffPatch** is accepted to **<a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM 2024</a>** 😃
   
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-- <div class="pubtitle">WWW'23</div> &nbsp; <b>[To Store or Not? Online Data Selection for Federated Learning with Limited Storage](https://dl.acm.org/doi/10.1145/3543507.3583426).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>ACM International World Wide Web Conference</i>. Acceptance rate = 19.2% (365/1900). <b>CCF-A.</b> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Paper.pdf) | [code](https://github.com/gongchenooo/WWW23-ODE) | [slides](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Slides.pdf) | [video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
+- <div class="pubtitle">TOS'25</div> &nbsp; <b>[Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images](https://dl.acm.org/doi/10.1145/3725220).</b> <br /> <u><b>Tong Sun</b></u>, Bowen Jiang, Borui Li, Jiamei Lv, Yi Gao*, and Wei Dong*. <br /> <i>ACM Transactions on Storage (TOS)</i>. One of the best storage-related papers of USENIX ATC 2024 selected for fast-track publication in ACM Trans. on Storage. <b>CCF-A.</b> <b>THCPL-A.</b> <br /> [[paper](https://suntong30.github.io/assets/pdf/TOS25_Exploiting_Multiple_Similarity_Spaces_for_Deduplication_of_Encrypted_Container_Images.pdf) | [code](https://github.com/suntong30/SimEnc)]
+- <div class="pubtitle">TMC'24</div> &nbsp; <b>[Understanding Differencing Algorithms for Mobile Application Updates](https://ieeexplore.ieee.org/document/10543054).</b> <br /> <u><b>Tong Sun</b></u>, Bowen Jiang, Lewei Jin, Wenzhao Zhang, Yi Gao, Zhendong Li, and Wei Dong*. <br /> <i>IEEE Transactions on Mobile Computing (TMC)</i>. <b>CCF-A.</b> <b>THCPL-A.</b> <br /> [[paper](https://suntong30.github.io/assets/pdf/TMC24_sdiff.pdf) | [code](https://github.com/suntong30/sdiff)]
+- <div class="pubtitle">TMC'24</div> &nbsp; <b>[Understanding Differencing Algorithms for Mobile Application Updates](https://ieeexplore.ieee.org/document/10543054).</b> <br /> <u><b>Tong Sun</b></u>, Bowen Jiang, Lewei Jin, Wenzhao Zhang, Yi Gao, Zhendong Li, and Wei Dong*. <br /> <i>IEEE Transactions on Mobile Computing (TMC)</i>. <b>CCF-A.</b> <b>THCPL-A.</b> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Paper.pdf) | [code](https://github.com/gongchenooo/WWW23-ODE) | [slides](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Slides.pdf) | [video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
