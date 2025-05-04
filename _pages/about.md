@@ -77,7 +77,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2021.05* Meritorious Winner in the "Mathematical Contest In Modeling (MCM/ICM 2021)" (美国大学生数学建模竞赛M奖)
 - *2020.10* 2nd Prize in the "2020 Zhejiang Province Undergraduate Electronic Design Contest" (浙江省电子设计竞赛二等奖)
 - *2020.08* 1st Prize in the "15th National Undergraduate Smart Car Contest" (第十五届全国大学生智能汽车竞赛一等奖)
-- *2020.07* 1st Prize in the "9th National Undergraduate Smart Car Contest" (第九届浙江省大学生智能汽车竞赛一等奖)
+- *2020.07* 1st Prize in the "9th Zhejiang Province Undergraduate Smart Car Contest" (第九届浙江省大学生智能汽车竞赛一等奖)
 - *2020.11* Zhejiang Province Government Scholarship (浙江省政府奖学金)
 - *2019.11* Zhejiang Province Government Scholarship (浙江省政府奖学金)
 
