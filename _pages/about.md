@@ -66,7 +66,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - <div class="pubtitle">ACM/IEEE IPSN'24</div> &nbsp; <b>[dTEE: A Declarative Approach to Secure IoT Applications Using TrustZone](https://ieeexplore.ieee.org/document/10577323).</b> <br /> <u><b>Tong Sun</b></u>, Borui Li, Yixiao Teng, Yi Gao, and Wei Dong*. <br /> <i>Proceedings of the 23rd ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN), Hong Kong, China. May 13-16</i>. Acceptance Rate: 21.5% (20 out of 93). <b><font color="#BD666D">CCF-B.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper](https://suntong30.github.io/assets/pdf/IPSN24_dTEE.pdf)]
 - <div class="pubtitle">IEEE INFOCOM'24</div> &nbsp; <b>[Exploiting Multiple Similarity Spaces for Efficient and Flexible Incremental Update of Mobile Apps](https://ieeexplore.ieee.org/document/10621326).</b> <br /> Lewei Jin, Wei Dong*, Bowen Jiang, <u><b>Tong Sun</b></u>, and Yi Gao*. <br /> <i>Proceedings of IEEE Conference on Computer Communications (INFOCOM), Vancouver, Canada. May 20-23</i>. Acceptance Rate: 19.6% (256 out of 1307). <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper](https://suntong30.github.io/assets/pdf/INFOCOM24_MDiffPatch.pdf)]
 
-# 🔍 Professional Services
+# 🔍 Academic Services
 #### Committee Member
 - USENIX Symposium on Operating Systems Design and Implementation (OSDI) - 2025 (AE)
 - USENIX Annual Technical Conference (ATC) - 2025 (AE)
@@ -107,4 +107,4 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2024.05*, [ACM/IEEE IPSN'24 - Privacy/Security Session] dTEE: A Declarative Approach to Secure IoT Applications Using TrustZone, Hong Kong, China.
 
 # 💻 Internships
-- *2022.09 - 2021.09*, Huawei. “Over-The-Air Differencing Algorithm Optimization Technology (差分OTA优化技术)”, Excellent Completion(优秀结题).
+- *2022.09 - 2023.09*, Huawei. “Over-The-Air Differencing Algorithm Optimization Technology (差分OTA优化技术)”, Excellent Completion(优秀结题).
