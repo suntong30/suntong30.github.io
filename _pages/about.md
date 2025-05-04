@@ -66,6 +66,23 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - <div class="pubtitle">ACM/IEEE IPSN'24</div> &nbsp; <b>[dTEE: A Declarative Approach to Secure IoT Applications Using TrustZone](https://ieeexplore.ieee.org/document/10577323).</b> <br /> <u><b>Tong Sun</b></u>, Borui Li, Yixiao Teng, Yi Gao, and Wei Dong*. <br /> <i>Proceedings of the 23rd ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN), Hong Kong, China. May 13-16</i>. Acceptance Rate: 21.5% (20 out of 93). <b><font color="#BD666D">CCF-B.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper](https://suntong30.github.io/assets/pdf/IPSN24_dTEE.pdf)]
 - <div class="pubtitle">IEEE INFOCOM'24</div> &nbsp; <b>[Exploiting Multiple Similarity Spaces for Efficient and Flexible Incremental Update of Mobile Apps](https://ieeexplore.ieee.org/document/10621326).</b> <br /> Lewei Jin, Wei Dong*, Bowen Jiang, <u><b>Tong Sun</b></u>, and Yi Gao*. <br /> <i>Proceedings of IEEE Conference on Computer Communications (INFOCOM), Vancouver, Canada. May 20-23</i>. Acceptance Rate: 19.6% (256 out of 1307). <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper](https://suntong30.github.io/assets/pdf/INFOCOM24_MDiffPatch.pdf)]
 
+# 🔍 Professional Services
+#### Committee Member
+- USENIX Symposium on Operating Systems Design and Implementation (OSDI) - 2025 (AE)
+- USENIX Annual Technical Conference (ATC) - 2025 (AE)
+
+#### Reviewer 
+- Journal Reviewer
+    - IEEE Transactions on Knowledge and Data Engineering (TKDE) - 2024
+    - The Journal of Supercomputing - 2025
+- Conference Reviewer
+    - IEEE HPCC - 2024
+- External Reviewer
+    - Chinese Journal of Computers - 2023
+    - IEEE MASS - 2023, 2024
+    - ACM The Web Conference (WWW) - 2024
+    - IEEE Transactions on Parallel and Distributed Systems (TPDS) - 2024
+
 # 🎖 Honors and Awards
 - *2024.11* National Scholarship (博士生国家奖学金), Ministry of Education, China
 - *2024.11* Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部)
@@ -84,22 +101,6 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 # 📖 Educations
 - *2022.06 - Now*, Ph.D. Student, College of Computer Science and Technology, Zhejiang University. 
 - *2018.09 - 2022.06*, Bachelor - School of Electronics and Information Engineering, Hangzhou Dianzi University.
-
-# 🔍 Professional Services
-#### Committee Member
-- USENIX Symposium on Operating Systems Design and Implementation (OSDI) - 2025 (AE)
-- USENIX Annual Technical Conference (ATC) - 2025 (AE)
-#### Reviewer 
-- Journal Reviewer
-    - IEEE Transactions on Knowledge and Data Engineering (TKDE) - 2024
-    - The Journal of Supercomputing - 2025
-- Conference Reviewer
-    - IEEE HPCC - 2024
-- External Reviewer
-    - Chinese Journal of Computers - 2023
-    - IEEE MASS - 2023, 2024
-    - ACM The Web Conference (WWW) - 2024
-    - IEEE Transactions on Parallel and Distributed Systems (TPDS) - 2024
 
 # 💬 Invited Talks
 - *2024.07*, [USENIX ATC'24 - Security 1 Session] SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images, Santa Clara, USA. \| [\[video\]](https://www.youtube.com/watch?v=o6YZbeAey0k)
