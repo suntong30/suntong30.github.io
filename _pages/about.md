@@ -85,9 +85,25 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2022.06 - Now*, Ph.D. Student, College of Computer Science and Technology, Zhejiang University. 
 - *2018.09 - 2022.06*, Bachelor - School of Electronics and Information Engineering, Hangzhou Dianzi University.
 
+# 🔍 Professional Services
+#### Committee Member
+- USENIX Symposium on Operating Systems Design and Implementation (OSDI) - 2025 (AE)
+- USENIX Annual Technical Conference (ATC) - 2025 (AE)
+#### Reviewer 
+- Journal Reviewer
+    - IEEE Transactions on Knowledge and Data Engineering (TKDE) - 2024
+    - The Journal of Supercomputing - 2025
+- Conference Reviewer
+    - IEEE HPCC - 2024
+- External Reviewer
+    - Chinese Journal of Computers - 2023
+    - IEEE MASS - 2023, 2024
+    - ACM The Web Conference (WWW) - 2024
+    - IEEE Transactions on Parallel and Distributed Systems (TPDS) - 2024
+
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.07*, [USENIX ATC'24 - Security 1 Session] SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images, Santa Clara, USA. \| [\[video\]](https://www.youtube.com/watch?v=o6YZbeAey0k)
+- *2024.05*, [ACM/IEEE IPSN'24 - Privacy/Security Session] dTEE: A Declarative Approach to Secure IoT Applications Using TrustZone, Hong Kong, China.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - 2021.09*, Huawei. “Over-The-Air Differencing Algorithm Optimization Technology (差分OTA优化技术)”, Excellent Completion(优秀结题).
