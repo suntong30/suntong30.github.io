@@ -67,12 +67,23 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - <div class="pubtitle">IEEE INFOCOM'24</div> &nbsp; <b>[Exploiting Multiple Similarity Spaces for Efficient and Flexible Incremental Update of Mobile Apps](https://ieeexplore.ieee.org/document/10621326).</b> <br /> Lewei Jin, Wei Dong*, Bowen Jiang, <u><b>Tong Sun</b></u>, and Yi Gao*. <br /> <i>Proceedings of IEEE Conference on Computer Communications (INFOCOM), Vancouver, Canada. May 20-23</i>. Acceptance Rate: 19.6% (256 out of 1307). <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper](https://suntong30.github.io/assets/pdf/INFOCOM24_MDiffPatch.pdf)]
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* National Scholarship (博士生国家奖学金), Ministry of Education, China
+- *2024.11* Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部)
+- *2023.11* Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部)，2023
+- *2022.06* Zhejiang Province Outstanding Graduate Award (浙江省优秀毕业生)
+- *2022.06* Hangzhou Dianzi University Outstanding Graduate Award (杭州电子科技大学优秀毕业生)
+- *2022.11* National Scholarship (本科生国家奖学金), Ministry of Education, China
+- *2021.07* 1st Prize in the "10th Zhejiang Province Undergraduate Smart Car Contest" (第十届浙江省大学生智能汽车竞赛一等奖)
+- *2021.05* Meritorious Winner in the "Mathematical Contest In Modeling (MCM/ICM 2021)" (美国大学生数学建模竞赛M奖)
+- *2020.10* 2nd Prize in the "2020 Zhejiang Province Undergraduate Electronic Design Contest" (浙江省电子设计竞赛二等奖)
+- *2020.08* 1st Prize in the "15th National Undergraduate Smart Car Contest" (第十五届全国大学生智能汽车竞赛一等奖)
+- *2020.07* 1st Prize in the "9th National Undergraduate Smart Car Contest" (第九届浙江省大学生智能汽车竞赛一等奖)
+- *2020.11* Zhejiang Province Government Scholarship (浙江省政府奖学金)
+- *2019.11* Zhejiang Province Government Scholarship (浙江省政府奖学金)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06 - Now*, Ph.D. Student, College of Computer Science and Technology, Zhejiang University. 
+- *2018.09 - 2022.06*, Bachelor - School of Electronics and Information Engineering, Hangzhou Dianzi University.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
