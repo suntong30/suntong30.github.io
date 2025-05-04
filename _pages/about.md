@@ -113,4 +113,10 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 -   🏠 Room 301, Zetong Building, Yuquan Campus, Zhejiang University, Hangzhou, China.
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=120.11624515056612%2C30.2606055287791%2C120.11893004179002%2C30.26239403363078&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3y6JfgqRtjaYaWt_ROdd3eSqtVxa4o-vyuLhcqGVfC8&cl=ffffff&w=a"></script>
+<div style="width: 200px; height: 150px; overflow: hidden;">
+  <div style="transform: scale(0.5); transform-origin: top left;">
+    <script type="text/javascript" id="clustrmaps" 
+      src="//clustrmaps.com/map_v2.js?d=3y6JfgqRtjaYaWt_ROdd3eSqtVxa4o-vyuLhcqGVfC8&cl=ffffff&w=a">
+    </script>
+  </div>
+</div>
