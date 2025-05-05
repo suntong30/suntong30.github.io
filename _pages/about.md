@@ -60,6 +60,10 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2023.12*: &nbsp;Our work **MDiffPatch** is accepted to **<a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM 2024</a>** 😃
   
 # 📝 Publications 
+<div>
+(*Corresponging Author)
+</div>
+
 ## 2025
 - <div class="pubtitle">ACM TOS'25</div> &nbsp; <b>[Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images](https://dl.acm.org/doi/10.1145/3725220).</b> <br /> <u><b>Tong Sun</b></u>, Bowen Jiang, Borui Li, Jiamei Lv, Yi Gao*, and Wei Dong*. <br /> <i>ACM Transactions on Storage (TOS)</i>. <br /> One of the best storage-related papers of USENIX ATC 2024 selected for fast-track publication in ACM Trans. on Storage. <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper](https://suntong30.github.io/assets/pdf/TOS25_Exploiting_Multiple_Similarity_Spaces_for_Deduplication_of_Encrypted_Container_Images.pdf) | [code](https://github.com/suntong30/SimEnc)][![](https://img.shields.io/github/stars/suntong30/SimEnc?style=social&label=Code+Stars)](https://github.com/suntong30/SimEnc)
 
