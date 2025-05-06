@@ -117,8 +117,12 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2024.07*, [USENIX ATC'24 - Security 1 Session] SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images, Santa Clara, USA. \| [\[video\]](https://www.youtube.com/watch?v=o6YZbeAey0k)
 - *2024.05*, [ACM/IEEE IPSN'24 - Privacy/Security Session] dTEE: A Declarative Approach to Secure IoT Applications Using TrustZone, Hong Kong, China.
 
+# 🧱 Patents
+- 李震东, 董玮, 金乐伟, **孙桐**, 常佳. 数据更新的方法、装置、设备及计算机可读存储介质[P]. 中国专利: CN2023108756139. 2025.01.14. (已公开)
+- 董玮, 姜博文, 高艺, **孙桐**. 一种面向容器仓库中加密镜像的文件去重方法和装置[P]. 中国专利: CN2024103753035. 2024.06.11. (已公开)
+
 # 💻 Internships
-- *2022.09 - 2023.09*, Huawei. “Over-The-Air Differencing Algorithm Optimization Technology (差分OTA优化技术)”, Excellent Completion(优秀结题).
+- *2022.09 - 2023.10*, Huawei. “Over-The-Air Differencing Algorithm Optimization Technology (差分OTA优化技术)”, <b><font color="#BD666D">Excellent Completion(优秀结题)</b>.
 
 # 📞 Contact
 - ✉️ <tongsun 🤯 zju [dot] edu [dot] cn> & <asckw30 🤯 gmail [dot] com>
