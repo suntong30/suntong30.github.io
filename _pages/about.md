@@ -32,7 +32,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm currently a third-year PhD student in the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) at [Zhejiang University (ZJU)](https://www.zju.edu.cn), and expected to get the PhD degree in 2027. I'm co-advised by [Prof. Wei Dong (董玮)](https://dongw.emnets.cn/) and [Prof. Yi Gao (高艺)](https://person.zju.edu.cn/gaoyi). Prior to that, I received my B.E. degree from the [School of Electronics and Information Engineering](https://elec.hdu.edu.cn/ele_en/main.htm) in [Hangzhou Dianzi University (HDU)](https://en.hdu.edu.cn/main.htm), Hangzhou, 2022, advised by [Prof. Long Chen (陈龙)](https://elec.hdu.edu.cn/2017/1205/c1827a57681/page.htm). 
+Hi, I'm currently a third-year PhD student in the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) at [Zhejiang University (ZJU)](https://www.zju.edu.cn), and expected to get the PhD degree in 2027. I'm co-advised by [Prof. Wei Dong (董玮)](https://dongw.emnets.cn/) and [Prof. Yi Gao (高艺)](https://person.zju.edu.cn/gaoyi). I work closely with [Prof. Borui Li (李博睿)](https://www.liborui.cn/)  and [Prof. Jiamei Lv (吕嘉美)](https://lvjiamei.github.io/). Prior to that, I received my B.E. degree from the [School of Electronics and Information Engineering](https://elec.hdu.edu.cn/ele_en/main.htm) in [Hangzhou Dianzi University (HDU)](https://en.hdu.edu.cn/main.htm), Hangzhou, 2022, advised by [Prof. Long Chen (陈龙)](https://elec.hdu.edu.cn/2017/1205/c1827a57681/page.htm). 
 
 My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_, and _Deduplication/Incremental Updates_. 
 
@@ -43,14 +43,14 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
     - **Deduplication:** [ATC'24] [ToS'25] [SimEnc](https://www.usenix.org/conference/atc24/presentation/sun)
     - **Mobile application updates:** [TMC'24] [sdiff](https://ieeexplore.ieee.org/document/10543054), [INFOCOM'24] [MDiffPatch](https://www.emnets.cn/zh/publication/infocom-24-mdiffpatch/mdiffpatch.pdf)
 
-**E-mail:** tongsun 🤯 zju [dot] edu [dot] cn
+**E-mail:** <tongsun 🤯 zju [dot] edu [dot] cn> & <asckw30 🤯 gmail [dot] com>
 
 **Our Lab:**  [ <font color='orange'> EmNets research group</font>](https://www.emnets.cn/) 
 
 # 🔥 News
-- *2025.05*: &nbsp;Invited to serve on the TPC of **<a href="https://hpcn.exeter.ac.uk/dikw2025/index.php">IEEE DIKW 2025</a>** 😃
+- *2025.05*: &nbsp;Invited to serve on the **TPC** of **<a href="https://hpcn.exeter.ac.uk/dikw2025/index.php">IEEE DIKW 2025</a>** 😃
 - *2025.05*: &nbsp;Invited to be the reviewer of **International Journal of Data Science and Analytics** 😃
-- *2025.04*: &nbsp;Invited to serve on the AEC of **<a href="https://www.usenix.org/conference/osdi25">USENIX OSDI 2025</a>** and **<a href="https://www.usenix.org/conference/atc25">USENIX ATC 2025</a>** 😃
+- *2025.04*: &nbsp;Invited to serve on the **AEC** of **<a href="https://www.usenix.org/conference/osdi25">USENIX OSDI 2025</a>** and **<a href="https://www.usenix.org/conference/atc25">USENIX ATC 2025</a>** 😃
 - *2025.03*: &nbsp;🎉🎉 Our work **SimEnc** is selected as one of the best storage related papers of USENIX ATC'24 for fast-track publication in **ACM Transactions on Storage**! 🥳
 - *2025.02*: &nbsp;Invited to be the reviewer of **The Journal of Supercomputing** 😃
 - *2024.11*: &nbsp;🎉🎉 Received the **2024 National Scholarship** 🏆
@@ -121,7 +121,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2022.09 - 2023.09*, Huawei. “Over-The-Air Differencing Algorithm Optimization Technology (差分OTA优化技术)”, Excellent Completion(优秀结题).
 
 # 📞 Contact
-- ✉️ <tongsun🤯zju.edu.cn> & <asckw30🤯gmail.com>
+- ✉️ <tongsun 🤯 zju [dot] edu [dot] cn> & <asckw30 🤯 gmail [dot] com>
 - 💬 WeChat ID: suntong30
 - 🏠 Room 301, Zetong Building, Yuquan Campus, Zhejiang University, Hangzhou, China.
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=120.11624515056612%2C30.2606055287791%2C120.11893004179002%2C30.26239403363078&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/>
