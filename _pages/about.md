@@ -48,6 +48,8 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 **Our Lab:**  [ <font color='orange'> EmNets research group</font>](https://www.emnets.cn/) 
 
 # 🔥 News
+- *2025.05*: &nbsp;Invited to serve on the TPC of **<a href="https://hpcn.exeter.ac.uk/dikw2025/index.php">IEEE DIKW 2025</a>** 😃
+- *2025.05*: &nbsp;Invited to be the reviewer of **International Journal of Data Science and Analytics** 😃
 - *2025.04*: &nbsp;Invited to serve on the AEC of **<a href="https://www.usenix.org/conference/osdi25">USENIX OSDI 2025</a>** and **<a href="https://www.usenix.org/conference/atc25">USENIX ATC 2025</a>** 😃
 - *2025.03*: &nbsp;🎉🎉 Our work **SimEnc** is selected as one of the best storage related papers of USENIX ATC'24 for fast-track publication in **ACM Transactions on Storage**! 🥳
 - *2025.02*: &nbsp;Invited to be the reviewer of **The Journal of Supercomputing** 😃
@@ -77,17 +79,19 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 #### Committee Member
 - USENIX Symposium on Operating Systems Design and Implementation (OSDI) - 2025 (AE)
 - USENIX Annual Technical Conference (ATC) - 2025 (AE)
+- IEEE DIKW - 2025 (TPC)
 
 #### Reviewer 
 - Journal Reviewer
     - IEEE Transactions on Knowledge and Data Engineering (TKDE) - 2024
     - The Journal of Supercomputing - 2025
+    - International Journal of Data Science and Analytics - 2025
 - Conference Reviewer
     - IEEE HPCC - 2024
 - External Reviewer
     - Chinese Journal of Computers - 2023
     - IEEE MASS - 2023, 2024
-    - ACM The Web Conference (WWW) - 2024
+    - ACM The Web Conference (TheWebConf/WWW) - 2024
     - IEEE Transactions on Parallel and Distributed Systems (TPDS) - 2024
 
 # 🎖 Honors and Awards
