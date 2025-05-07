@@ -51,15 +51,15 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2025.05*: &nbsp;Invited to serve on the <b><font color="blue">TPC</font></b> of **<a href="https://hpcn.exeter.ac.uk/dikw2025/index.php">IEEE DIKW 2025</a>** 😃
 - *2025.05*: &nbsp;Invited to be the reviewer of **International Journal of Data Science and Analytics** 😃
 - *2025.04*: &nbsp;Invited to serve on the <b><font color="blue">AEC</font></b> of **<a href="https://www.usenix.org/conference/osdi25">USENIX OSDI 2025</a>** and **<a href="https://www.usenix.org/conference/atc25">USENIX ATC 2025</a>** 😃
-- *2025.03*: &nbsp;🎉🎉 Our work **SimEnc** is <font color="#4E9D2C">selected</font> as one of the best storage related papers of USENIX ATC'24 for fast-track publication in **ACM Transactions on Storage**! 🥳
+- *2025.03*: &nbsp;🎉🎉 Our work **SimEnc** is <b><font color="#4E9D2C">selected</font></b> as one of the best storage related papers of USENIX ATC'24 for fast-track publication in **ACM Transactions on Storage**! 🥳
 - *2025.02*: &nbsp;Invited to be the reviewer of **The Journal of Supercomputing** 😃
 - *2024.11*: &nbsp;🎉🎉 Received the **2024 National Scholarship** 🏆
 - *2024.09*: &nbsp;Invited to be the reviewer of **IEEE HPCC 2024** 😃
 - *2024.09*: &nbsp;Invited to be the reviewer of **IEEE Transactions on Knowledge and Data Engineering** 😃
-- *2024.05*: &nbsp;🎉🎉 Our work **sdiff** (<font color="#8F3632">rejected</font> by ICSE'23😔) is <font color="#4E9D2C">accepted</font> to **IEEE Transactions on Mobile Computing** 🥳
-- *2024.05*: &nbsp;🎉🎉 Our work **SimEnc** is <font color="#4E9D2C">accepted</font> to **<a href="https://www.usenix.org/conference/atc24">USENIX ATC 2024</a>** 🥳
-- *2024.01*: &nbsp;🎉🎉 Our work **dTEE** (<font color="#8F3632">rejected</font> by INFOCOM'23 and CCS'23😔) is <font color="#4E9D2C">accepted</font> to **<a href="https://ipsn.acm.org/2024/">ACM/IEEE IPSN 2024</a>** 🥳
-- *2023.12*: &nbsp;Our work **MDiffPatch** is <font color="#4E9D2C">accepted</font> to **<a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM 2024</a>** 😃
+- *2024.05*: &nbsp;🎉🎉 Our work **sdiff** (<font color="#8F3632">rejected</font> by ICSE'23😔) is <b><font color="#4E9D2C">accepted</font></b> to **IEEE Transactions on Mobile Computing** 🥳
+- *2024.05*: &nbsp;🎉🎉 Our work **SimEnc** is <b><font color="#4E9D2C">accepted</font></b> to **<a href="https://www.usenix.org/conference/atc24">USENIX ATC 2024</a>** 🥳
+- *2024.01*: &nbsp;🎉🎉 Our work **dTEE** (<font color="#8F3632">rejected</font> by INFOCOM'23 and CCS'23😔) is <b><font color="#4E9D2C">accepted</font></b> to **<a href="https://ipsn.acm.org/2024/">ACM/IEEE IPSN 2024</a>** 🥳
+- *2023.12*: &nbsp;Our work **MDiffPatch** is <b><font color="#4E9D2C">accepted</font></b> to **<a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM 2024</a>** 😃
   
 # 📝 Publications 
 <div>
