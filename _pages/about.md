@@ -110,8 +110,8 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2019.11*: &nbsp;Zhejiang Province Government Scholarship (浙江省政府奖学金)
 
 # 📖 Educations
-- *2022.06 - Now*, Ph.D. Student, College of Computer Science and Technology, Zhejiang University![](/images/zju_logo.png){:height="22px" width="22px"}. 
-- *2018.09 - 2022.06*, Bachelor - School of Electronics and Information Engineering, Hangzhou Dianzi University![](/images/hdu_logo.png){:height="22px" width="22px"}.
+- ![](/images/zju_logo.png){:height="22px" width="22px"} *2022.06 - Now*, Ph.D. Student, College of Computer Science and Technology, Zhejiang University. 
+- ![](/images/hdu_logo.png){:height="22px" width="22px"} *2018.09 - 2022.06*, Bachelor - School of Electronics and Information Engineering, Hangzhou Dianzi University.
 
 # 💬 Invited Talks
 - *2024.07*, [USENIX ATC'24 - Security 1 Session] SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images, Santa Clara, USA. \| [\[video\]](https://www.youtube.com/watch?v=o6YZbeAey0k)
