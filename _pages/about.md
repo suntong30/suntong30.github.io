@@ -122,7 +122,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - Wei Dong, Bowen Jiang, Yi Gao, **Tong Sun**. 一种面向容器仓库中加密镜像的文件去重方法和装置[P]. 中国专利: CN2024103753035. 2024.06.11. (已公开)
 
 # 💻 Internships
-- *2022.09 - 2023.10*, Huawei. “Over-The-Air Differencing Algorithm Optimization Technology(差分OTA优化技术)”, <font color="#BD666D">Excellent Completion(优秀结题)</font>.
+- *2022.09 - 2023.11*, Huawei. “Over-The-Air Differencing Algorithm Optimization Technology(差分OTA优化技术)”, <font color="#BD666D">Excellent Completion(优秀结题)</font>.
 
 # 📞 Contact
 - ✉️ <tongsun 🤯 zju [dot] edu [dot] cn> & <asckw30 🤯 gmail [dot] com>
