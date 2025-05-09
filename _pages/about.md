@@ -78,8 +78,6 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
   <b><font color="#BD666D">CCF-A.</font></b>
   <b><font color="#BD666D">THCPL-A.</font></b>
   <b><font color="#BD666D">CORE A*.</font></b>
-</div>
-<div>
   <a href="https://suntong30.github.io/assets/pdf/INFOCOM24_MDiffPatch.pdf">[paper]</a> |
   <a href="https://ieeexplore.ieee.org/document/10621326">[web]</a>
 </div>
