@@ -15,8 +15,9 @@ redirect_from:
     font-size: 13.5px;
     padding: 1px 5px 1px 5px;
     border-radius: 10px;
-    float: left;
+/*     float: left; */
     font-weight: bold;
+    display: inline-block;
 }
 .font-bold{
     font-weight:bold;
