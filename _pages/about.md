@@ -64,7 +64,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
   
 # 📝 Publications 
 <div>
-(*Corresponging Author)
+(*Corresponding Author)
 </div>
 
 ## 2025
