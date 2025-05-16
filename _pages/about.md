@@ -49,6 +49,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 **Our Lab:**  [ <font color='orange'> EmNets research group</font>](https://www.emnets.cn/) 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 One paper is <b><font color="#4E9D2C">accepted</font></b> to **<a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS 2025</a>** 🥳
 - *2025.05*: &nbsp;Invited to serve on the <b><font color="blue">TPC</font></b> of **<a href="https://hpcn.exeter.ac.uk/dikw2025/index.php">IEEE DIKW 2025</a>** 😃
 - *2025.05*: &nbsp;Invited to be the reviewer of **International Journal of Data Science and Analytics** 😃
 - *2025.04*: &nbsp;Invited to serve on the <b><font color="blue">AEC</font></b> of **<a href="https://www.usenix.org/conference/osdi25">USENIX OSDI 2025</a>** and **<a href="https://www.usenix.org/conference/atc25">USENIX ATC 2025</a>** 😃
@@ -68,7 +69,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 </div>
 
 ## 2025
-- <div class="pubtitle">ACM TOS'25</div> &nbsp; <b>[Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images](https://dl.acm.org/doi/10.1145/3725220).</b> <br /> <u><b>Tong Sun</b></u>, Bowen Jiang, Borui Li, Jiamei Lv, Yi Gao\*, and Wei Dong\*. <br /> <i>ACM Transactions on Storage (TOS)</i>. <br /> One of the best storage-related papers of USENIX ATC 2024 selected for fast-track publication in ACM Trans. on Storage. <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper](https://suntong30.github.io/assets/pdf/TOS25_Exploiting_Multiple_Similarity_Spaces_for_Deduplication_of_Encrypted_Container_Images.pdf) | [web](https://dl.acm.org/doi/10.1145/3725220) | [code](https://github.com/suntong30/SimEnc)][![](https://img.shields.io/github/stars/suntong30/SimEnc?style=social&label=Code+Stars)](https://github.com/suntong30/SimEnc)
+- <div class="pubtitle">ACM TOS'25</div> &nbsp; <b>[Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images](https://dl.acm.org/doi/10.1145/3725220).</b> <br /> <u><b>Tong Sun</b></u>, Bowen Jiang, Borui Li, Jiamei Lv, Yi Gao\*, and Wei Dong\*. <br /> <i>ACM Transactions on Storage (TOS)</i>. <br /> One of the best storage-related papers of USENIX ATC 2024 selected for fast-track publication in ACM Trans. Storage. <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper](https://suntong30.github.io/assets/pdf/TOS25_Exploiting_Multiple_Similarity_Spaces_for_Deduplication_of_Encrypted_Container_Images.pdf) | [web](https://dl.acm.org/doi/10.1145/3725220) | [code](https://github.com/suntong30/SimEnc)][![](https://img.shields.io/github/stars/suntong30/SimEnc?style=social&label=Code+Stars)](https://github.com/suntong30/SimEnc)
 
 ## 2024
 - <div class="pubtitle">IEEE TMC'24</div> &nbsp; <b>[Understanding Differencing Algorithms for Mobile Application Updates](https://ieeexplore.ieee.org/document/10543054).</b> <br /> <u><b>Tong Sun</b></u>, Bowen Jiang, Lewei Jin, Wenzhao Zhang, Yi Gao, Zhendong Li, and Wei Dong\*. <br /> <i>IEEE Transactions on Mobile Computing (TMC)</i>. <br /> IF=7.7, CAS Q1, JCR Q1.<br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper](https://suntong30.github.io/assets/pdf/TMC24_sdiff.pdf) | [web](https://ieeexplore.ieee.org/document/10543054) | [code](https://github.com/suntong30/sdiff)][![](https://img.shields.io/github/stars/suntong30/sdiff?style=social&label=Code+Stars)](https://github.com/suntong30/sdiff)
@@ -98,6 +99,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 # 🎖 Honors and Awards
 - *2024.11*: &nbsp;National Scholarship (博士生国家奖学金), Ministry of Education, China
 - *2024.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部)
+- *2024.08*: &nbsp;One of the best storage papers of USENIX ATC'24
 - *2023.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部)，2023
 - *2022.06*: &nbsp;Zhejiang Province Outstanding Graduate Award (浙江省优秀毕业生)
 - *2022.06*: &nbsp;Hangzhou Dianzi University Outstanding Graduate Award (杭州电子科技大学优秀毕业生)
