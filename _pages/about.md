@@ -49,7 +49,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 **Our Lab:**  [ <font color='orange'> EmNets research group</font>](https://www.emnets.cn/) 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper is <b><font color="#4E9D2C">accepted</font></b> to **<a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS 2025</a>** 🥳
+- *2025.05*: &nbsp;🎉🎉 One paper is <b><font color="#4E9D2C">accepted</font></b> to **<a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS 2025</a>** 🥳
 - *2025.05*: &nbsp;Invited to serve on the <b><font color="blue">TPC</font></b> of **<a href="https://hpcn.exeter.ac.uk/dikw2025/index.php">IEEE DIKW 2025</a>** 😃
 - *2025.05*: &nbsp;Invited to be the reviewer of **International Journal of Data Science and Analytics** 😃
 - *2025.04*: &nbsp;Invited to serve on the <b><font color="blue">AEC</font></b> of **<a href="https://www.usenix.org/conference/osdi25">USENIX OSDI 2025</a>** and **<a href="https://www.usenix.org/conference/atc25">USENIX ATC 2025</a>** 😃
