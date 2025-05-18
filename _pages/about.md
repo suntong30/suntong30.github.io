@@ -79,24 +79,11 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - <div class="pubtitle">IEEE INFOCOM'24</div> &nbsp; <b>[Exploiting Multiple Similarity Spaces for Efficient and Flexible Incremental Update of Mobile Apps](https://ieeexplore.ieee.org/document/10621326).</b> <br /> Lewei Jin, Wei Dong\*, Bowen Jiang, <u><b>Tong Sun</b></u>, and Yi Gao\*. <br /> <i>Proceedings of IEEE Conference on Computer Communications (INFOCOM), Vancouver, Canada. May 20-23</i>. <br />Acceptance Rate: 19.6% (256 out of 1307).<br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <b><font color="#BD666D">CORE A*.</font></b> <br /> [[paper](https://suntong30.github.io/assets/pdf/INFOCOM24_MDiffPatch.pdf) | [web](https://ieeexplore.ieee.org/document/10621326)]
 
 # 🔍 Academic Services
-#### Committee Member
-- USENIX Symposium on Operating Systems Design and Implementation (OSDI) - 2025 (AE)
-- USENIX Annual Technical Conference (ATC) - 2025 (AE)
-- USENIX Conference on File and Storage Technologies (FAST) - 2026 (AE)
-- IEEE DIKW - 2025 (TPC)
-
-#### Reviewer 
-- Journal Reviewer
-    - IEEE Transactions on Knowledge and Data Engineering (TKDE) - 2024
-    - The Journal of Supercomputing - 2025
-    - International Journal of Data Science and Analytics - 2025
-- Conference Reviewer
-    - IEEE HPCC - 2024
-- External Reviewer
-    - Chinese Journal of Computers - 2023
-    - IEEE MASS - 2023, 2024
-    - ACM The Web Conference (TheWebConf/WWW) - 2024
-    - IEEE Transactions on Parallel and Distributed Systems (TPDS) - 2024
+- **Technical Program Committee**: IEEE DIKW 2025
+- **Program Committee for Artifact Evaluation**: USENIX OSDI 2025, USENIX ATC 2025, USENIX FAST 2026
+- **Journal Reviewer**: IEEE TKDE 2024, TJS 2025, IJDSA 2025
+- **Conference Reviewer**: IEEE HPCC 2024
+- **External Reviewer**: IEEE TPDS 2024, ACM TheWebConf/WWW 2024, Chinese Journal of Computers 2023, IEEE MASS 2023-2024
 
 # 🎖 Honors and Awards
 - *2024.11*: &nbsp;2024 <b><font color="#BD666D">National Scholarship</font></b> (博士生国家奖学金), Ministry of Education, China
