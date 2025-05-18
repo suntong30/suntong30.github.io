@@ -49,7 +49,8 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 **Our Lab:**  [ <font color='orange'> EmNets research group</font>](https://www.emnets.cn/) 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper is <b><font color="#4E9D2C">accepted</font></b> to **<a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS 2025</a>** 🥳
+- *2025.05*: &nbsp;🎉🎉 One paper is <b><font color="blue">accepted</font></b> to **<a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS 2025</a>** 🥳
+- *2025.05*: &nbsp;Invited to serve on the <b><font color="blue">AEC</font></b> of **<a href="https://www.usenix.org/conference/fast26">USENIX FAST 2026</a>** 😃
 - *2025.05*: &nbsp;Invited to serve on the <b><font color="blue">TPC</font></b> of **<a href="https://hpcn.exeter.ac.uk/dikw2025/index.php">IEEE DIKW 2025</a>** 😃
 - *2025.05*: &nbsp;Invited to be the reviewer of **International Journal of Data Science and Analytics** 😃
 - *2025.04*: &nbsp;Invited to serve on the <b><font color="blue">AEC</font></b> of **<a href="https://www.usenix.org/conference/osdi25">USENIX OSDI 2025</a>** and **<a href="https://www.usenix.org/conference/atc25">USENIX ATC 2025</a>** 😃
@@ -58,10 +59,10 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2024.11*: &nbsp;🎉🎉 Received the **2024 National Scholarship** 🏆
 - *2024.09*: &nbsp;Invited to be the reviewer of **IEEE HPCC 2024** 😃
 - *2024.09*: &nbsp;Invited to be the reviewer of **IEEE Transactions on Knowledge and Data Engineering** 😃
-- *2024.05*: &nbsp;🎉🎉 Our work **sdiff** is <b><font color="#4E9D2C">accepted</font></b> to **IEEE Transactions on Mobile Computing** 🥳
-- *2024.05*: &nbsp;🎉🎉 Our work **SimEnc** is <b><font color="#4E9D2C">accepted</font></b> to **<a href="https://www.usenix.org/conference/atc24">USENIX ATC 2024</a>** 🥳
-- *2024.01*: &nbsp;🎉🎉 Our work **dTEE** is <b><font color="#4E9D2C">accepted</font></b> to **<a href="https://ipsn.acm.org/2024/">ACM/IEEE IPSN 2024</a>** 🥳
-- *2023.12*: &nbsp;Our work **MDiffPatch** is <b><font color="#4E9D2C">accepted</font></b> to **<a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM 2024</a>** 😃
+- *2024.05*: &nbsp;🎉🎉 Our work **sdiff** is <b><font color="blue">accepted</font></b> to **IEEE Transactions on Mobile Computing** 🥳
+- *2024.05*: &nbsp;🎉🎉 Our work **SimEnc** is <b><font color="blue">accepted</font></b> to **<a href="https://www.usenix.org/conference/atc24">USENIX ATC 2024</a>** 🥳
+- *2024.01*: &nbsp;🎉🎉 Our work **dTEE** is <b><font color="blue">accepted</font></b> to **<a href="https://ipsn.acm.org/2024/">ACM/IEEE IPSN 2024</a>** 🥳
+- *2023.12*: &nbsp;Our work **MDiffPatch** is <b><font color="blue">accepted</font></b> to **<a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM 2024</a>** 😃
   
 # 📝 Publications 
 <div>
@@ -81,6 +82,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 #### Committee Member
 - USENIX Symposium on Operating Systems Design and Implementation (OSDI) - 2025 (AE)
 - USENIX Annual Technical Conference (ATC) - 2025 (AE)
+- USENIX Conference on File and Storage Technologies (FAST) - 2026 (AE)
 - IEEE DIKW - 2025 (TPC)
 
 #### Reviewer 
@@ -97,20 +99,20 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
     - IEEE Transactions on Parallel and Distributed Systems (TPDS) - 2024
 
 # 🎖 Honors and Awards
-- *2024.11*: &nbsp;National Scholarship (博士生国家奖学金), Ministry of Education, China
+- *2024.11*: &nbsp;2024 <b><font color="#BD666D">National Scholarship</font></b> (博士生国家奖学金), Ministry of Education, China
 - *2024.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部)
-- *2024.08*: &nbsp;One of the best storage papers of USENIX ATC'24
+- *2024.08*: &nbsp;<b><font color="#BD666D">One of the best storage papers</font></b> of USENIX ATC'24
 - *2023.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部)，2023
-- *2022.06*: &nbsp;Zhejiang Province Outstanding Graduate Award (浙江省优秀毕业生)
+- *2022.06*: &nbsp;Zhejiang Province <b><font color="blue">Outstanding Graduate Award</font></b> (浙江省优秀毕业生)
 - *2022.06*: &nbsp;Hangzhou Dianzi University Outstanding Graduate Award (杭州电子科技大学优秀毕业生)
-- *2022.11*: &nbsp;National Scholarship (本科生国家奖学金), Ministry of Education, China
-- *2021.07*: &nbsp;1st Prize in the "10th Zhejiang Province Undergraduate Smart Car Contest" (第十届浙江省大学生智能汽车竞赛一等奖)
-- *2021.05*: &nbsp;Meritorious Winner in the "Mathematical Contest In Modeling (MCM/ICM 2021)" (美国大学生数学建模竞赛M奖)
-- *2020.10*: &nbsp;2nd Prize in the "2020 Zhejiang Province Undergraduate Electronic Design Contest" (浙江省电子设计竞赛二等奖)
-- *2020.08*: &nbsp;1st Prize in the "15th National Undergraduate Smart Car Contest" (第十五届全国大学生智能汽车竞赛一等奖)
-- *2020.07*: &nbsp;1st Prize in the "9th Zhejiang Province Undergraduate Smart Car Contest" (第九届浙江省大学生智能汽车竞赛一等奖)
-- *2020.11*: &nbsp;Zhejiang Province Government Scholarship (浙江省政府奖学金)
-- *2019.11*: &nbsp;Zhejiang Province Government Scholarship (浙江省政府奖学金)
+- *2021.11*: &nbsp;2021 <b><font color="#BD666D">National Scholarship</font></b> (本科生国家奖学金), Ministry of Education, China
+- *2021.07*: &nbsp;<b><font color="blue">1st Prize</font></b> in the "10th Zhejiang Province Undergraduate Smart Car Contest" (第十届浙江省大学生智能汽车竞赛一等奖)
+- *2021.05*: &nbsp;<b><font color="blue">Meritorious Winner</font></b> in the "Mathematical Contest In Modeling (MCM/ICM 2021)" (美国大学生数学建模竞赛M奖)
+- *2020.10*: &nbsp;<b><font color="blue">2nd Prize</font></b> in the "2020 Zhejiang Province Undergraduate Electronic Design Contest" (浙江省电子设计竞赛二等奖)
+- *2020.08*: &nbsp;<b><font color="blue">1st Prize</font></b> in the "15th National Undergraduate Smart Car Contest" (第十五届全国大学生智能汽车竞赛一等奖)
+- *2020.07*: &nbsp;<b><font color="blue">1st Prize</font></b> in the "9th Zhejiang Province Undergraduate Smart Car Contest" (第九届浙江省大学生智能汽车竞赛一等奖)
+- *2020.11*: &nbsp;2020 Zhejiang Province <b><font color="#BD666D">Government Scholarship</font></b> (浙江省政府奖学金)
+- *2019.11*: &nbsp;2019 Zhejiang Province <b><font color="#BD666D">Government Scholarship</font></b> (浙江省政府奖学金)
 
 # 📖 Educations
 - ![](/images/zju_logo.png){:height="22px" width="22px"} *2022.06 - Now*, Ph.D. Student, College of Computer Science and Technology, Zhejiang University. 
