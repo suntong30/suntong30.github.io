@@ -50,20 +50,45 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 **Our Lab:**  [ <font color='orange'> EmNets research group</font>](https://www.emnets.cn/) 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our work **TensorShield** is <b><font color="blue">accepted</font></b> to **<a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS 2025</a>** 🥳
-- *2025.05*: &nbsp;Invited to serve on the <b><font color="blue">AEC</font></b> of **<a href="https://www.usenix.org/conference/fast26">USENIX FAST 2026</a>** 😃
-- *2025.05*: &nbsp;Invited to serve on the <b><font color="blue">TPC</font></b> of **<a href="https://hpcn.exeter.ac.uk/dikw2025/index.php">IEEE DIKW 2025</a>** 😃
-- *2025.05*: &nbsp;Invited to be the reviewer of **International Journal of Data Science and Analytics** 😃
-- *2025.04*: &nbsp;Invited to serve on the <b><font color="blue">AEC</font></b> of **<a href="https://www.usenix.org/conference/osdi25">USENIX OSDI 2025</a>** and **<a href="https://www.usenix.org/conference/atc25">USENIX ATC 2025</a>** 😃
-- *2025.03*: &nbsp;🎉🎉 Our work **SimEnc** is selected as <b><font color="#C00000">one of the best storage related papers</font></b> of USENIX ATC'24 (3 out of 77 submissions) for fast-track publication in **ACM Transactions on Storage**! 🥳
-- *2025.02*: &nbsp;Invited to be the reviewer of **The Journal of Supercomputing** 😃
-- *2024.11*: &nbsp;🎉🎉 Received the **2024 National Scholarship** 🏆
-- *2024.09*: &nbsp;Invited to be the reviewer of **IEEE HPCC 2024** 😃
-- *2024.09*: &nbsp;Invited to be the reviewer of **IEEE Transactions on Knowledge and Data Engineering** 😃
-- *2024.05*: &nbsp;🎉🎉 Our work **sdiff** is <b><font color="blue">accepted</font></b> to **IEEE Transactions on Mobile Computing** 🥳
-- *2024.05*: &nbsp;🎉🎉 Our work **SimEnc** is <b><font color="blue">accepted</font></b> to **<a href="https://www.usenix.org/conference/atc24">USENIX ATC 2024</a>** 🥳
-- *2024.01*: &nbsp;🎉🎉 Our work **dTEE** is <b><font color="blue">accepted</font></b> to **<a href="https://ipsn.acm.org/2024/">ACM/IEEE IPSN 2024</a>** 🥳
-- *2023.12*: &nbsp;Our work **MDiffPatch** is <b><font color="blue">accepted</font></b> to **<a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM 2024</a>** 😃
+
+<div style="max-height: 350px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 0px 0;">
+<style>
+  div::-webkit-scrollbar {
+    width: 8px;
+  }
+  div::-webkit-scrollbar-track {
+    background: #e9ecef;
+    border-radius: 4px;
+  }
+  div::-webkit-scrollbar-thumb {
+    background: #2c3e50;
+    border-radius: 4px;
+  }
+  div::-webkit-scrollbar-thumb:hover {
+    background: #1a252f;
+  }
+  div {
+    scrollbar-width: thin;
+    scrollbar-color: #2c3e50 #e9ecef;
+  }
+</style>
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>2025.05:</em> 🎉🎉 Our work <strong>TensorShield</strong> is <b><font color="blue">accepted</font></b> to <strong><a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS 2025</a></strong> 🥳</li>
+  <li><em>2025.05:</em> Invited to serve on the <b><font color="blue">AEC</font></b> of <strong><a href="https://www.usenix.org/conference/fast26">USENIX FAST 2026</a></strong> 😃</li>
+  <li><em>2025.05:</em> Invited to serve on the <b><font color="blue">TPC</font></b> of <strong><a href="https://hpcn.exeter.ac.uk/dikw2025/index.php">IEEE DIKW 2025</a></strong> 😃</li>
+  <li><em>2025.05:</em> Invited to be the reviewer of <strong>International Journal of Data Science and Analytics</strong> 😃</li>
+  <li><em>2025.04:</em> Invited to serve on the <b><font color="blue">AEC</font></b> of <strong><a href="https://www.usenix.org/conference/osdi25">USENIX OSDI 2025</a></strong> and <strong><a href="https://www.usenix.org/conference/atc25">USENIX ATC 2025</a></strong> 😃</li>
+  <li><em>2025.03:</em> 🎉🎉 Our work <strong>SimEnc</strong> is selected as <b><font color="#C00000">one of the best storage related papers</font></b> of USENIX ATC'24 for fast-track publication in <strong>ACM Transactions on Storage</strong>! 🥳</li>
+  <li><em>2025.02:</em> Invited to be the reviewer of <strong>The Journal of Supercomputing</strong> 😃</li>
+  <li><em>2024.11:</em> 🎉🎉 Received the <strong>2024 National Scholarship</strong> 🏆</li>
+  <li><em>2024.09:</em> Invited to be the reviewer of <strong>IEEE HPCC 2024</strong> 😃</li>
+  <li><em>2024.09:</em> Invited to be the reviewer of <strong>IEEE Transactions on Knowledge and Data Engineering</strong> 😃</li>
+  <li><em>2024.05:</em> 🎉🎉 Our work <strong>sdiff</strong> is <b><font color="blue">accepted</font></b> to <strong>IEEE Transactions on Mobile Computing</strong> 🥳</li>
+  <li><em>2024.05:</em> 🎉🎉 Our work <strong>SimEnc</strong> is <b><font color="blue">accepted</font></b> to <strong><a href="https://www.usenix.org/conference/atc24">USENIX ATC 2024</a></strong> 🥳</li>
+  <li><em>2024.01:</em> 🎉🎉 Our work <strong>dTEE</strong> is <b><font color="blue">accepted</font></b> to <strong><a href="https://ipsn.acm.org/2024/">ACM/IEEE IPSN 2024</a></strong> 🥳</li>
+  <li><em>2023.12:</em> Our work <strong>MDiffPatch</strong> is <b><font color="blue">accepted</font></b> to <strong><a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM 2024</a></strong> 😃</li>
+</ul>
+</div>
   
 # 📝 Publications 
 <div>
