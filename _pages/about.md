@@ -9,6 +9,10 @@ redirect_from:
 ---
 
 <style>
+/* 全局文本颜色 */
+body {
+  color: #333; /* 主要文本颜色 */
+} 
 .pubtitle{
     background: #BD666D;
     color: white;
