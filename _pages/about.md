@@ -51,7 +51,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 
 # 🔥 News
 
-<div style="max-height: 350px; overflow-y: auto; padding: 20px; background: #E6E6FA; border-left: 4px solid #2c3e50; margin: 0px 0;">
+<div style="max-height: 350px; overflow-y: auto; padding: 20px; background: rgba(243, 232, 256, 0.4); border-left: 4px solid #2c3e50; margin: 0px 0;">
 <style>
   div::-webkit-scrollbar {
     width: 8px;
