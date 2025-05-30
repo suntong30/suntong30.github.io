@@ -119,7 +119,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 
 # 🎖 Honors and Awards
 - *2024.11*: &nbsp;2024 <b><font color="#BD666D">National Scholarship</font></b> (博士生国家奖学金), Ministry of Education, China
-- *2024.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部)
+- *2024.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部), 2024
 - *2024.08*: &nbsp;<b><font color="#BD666D">One of the best storage papers</font></b> of USENIX ATC'24
 - *2023.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部)，2023
 - *2022.06*: &nbsp;Zhejiang Province <b><font color="#BD666D">Outstanding Graduate Award</font></b> (浙江省优秀毕业生)
