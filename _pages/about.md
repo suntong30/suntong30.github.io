@@ -128,7 +128,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2021.07*: &nbsp;<b><font color="blue">1st Prize</font></b> in the "10th Zhejiang Province Undergraduate Smart Car Contest" (第十届浙江省大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛)
 - *2021.05*: &nbsp;<b><font color="blue">Meritorious Winner</font></b> in the "Mathematical Contest In Modeling (MCM/ICM 2021)" (美国大学生数学建模竞赛M奖)
 - *2020.10*: &nbsp;<b><font color="blue">2nd Prize</font></b> in the "2020 Zhejiang Province Undergraduate Electronic Design Contest" (浙江省电子设计竞赛二等奖, 教育部全国大学生A类学科竞赛)
-- *2020.08*: &nbsp;<b><font color="blue">1st Prize</font></b> in the "15th National Undergraduate Smart Car Contest" (第十五届全国大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛) \| [\[video\]](https://www.bilibili.com/video/BV1mi4y1u7Ga/?t=12245)
+- *2020.08*: &nbsp;<b><font color="blue">1st Prize</font></b> in the "15th National Undergraduate Smart Car Contest" (第十五届全国大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛) \| <font color="black">[\[video\]](https://www.bilibili.com/video/BV1mi4y1u7Ga/?t=12245)</font>
 - *2020.07*: &nbsp;<b><font color="blue">1st Prize</font></b> in the "9th Zhejiang Province Undergraduate Smart Car Contest" (第九届浙江省大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛)
 - *2020.11*: &nbsp;2020 Zhejiang Province <b><font color="#BD666D">Government Scholarship</font></b> (浙江省政府奖学金)
 - *2019.11*: &nbsp;2019 Zhejiang Province <b><font color="#BD666D">Government Scholarship</font></b> (浙江省政府奖学金)
