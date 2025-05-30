@@ -77,6 +77,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>2025.05:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>ACM CCS 2025</strong>.</li>
   <li><em>2025.05:</em> 🎉🎉 Our work <strong>TensorShield</strong> is <b><font color="blue">accepted</font></b> to <strong>ACM CCS 2025</strong>. Thanks to all collaborators! See you in Taipei.</li> 
   <li><em>2025.05:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX FAST 2026</strong>.</li>
   <li><em>2025.05:</em> 😃 Invited to serve on the <b><font color="blue">TPC</font></b> of <strong>IEEE DIKW 2025</strong>.</li>
@@ -100,7 +101,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 </div>
 
 ## 2025
-- <div class="pubtitle">ACM CCS'25</div> &nbsp; <b><a href="" style="color: black;">TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE</a></b> <br /> <u><b><font color="black">Tong Sun</font></b></u>, Bowen Jiang, Hailong Lin, Borui Li, Yixiao Teng, Yi Gao, and Wei Dong. <br /> <i>Proceedings of ACM Conference on Computer and Communications Security (CCS), October 13-17, 2025</i>. <br /> Acceptance Rate: TBD. <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <b><font color="#BD666D">CORE A*.</font></b> <br /> [[paper]() | [web]() | [code]() | [slides]()]
+- <div class="pubtitle">ACM CCS'25</div> &nbsp; <b><a href="" style="color: black;">TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE</a></b> <br /> <u><b><font color="black">Tong Sun</font></b></u>, Bowen Jiang, Hailong Lin, Borui Li, Yixiao Teng, Yi Gao, and Wei Dong. <br /> <i>Proceedings of ACM Conference on Computer and Communications Security (CCS), October 13-17, 2025</i>. <br /> Acceptance Rate: TBD. <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <b><font color="#BD666D">CORE A*.</font></b> <br /> [[paper](https://www.arxiv.org/abs/2505.22735) | [web]() | [code]() | [slides]()]
 - <div class="pubtitle">ACM TOS'25</div> &nbsp; <b><a href="https://dl.acm.org/doi/10.1145/3725220" style="color: black;">Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images</a></b> <br /> <u><b><font color="black">Tong Sun</font></b></u>, Bowen Jiang, Borui Li, Jiamei Lv, Yi Gao\*, and Wei Dong\*. <br /> <i>ACM Transactions on Storage (TOS)</i>. <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br />  [[paper](https://suntong30.github.io/assets/pdf/TOS25_Exploiting_Multiple_Similarity_Spaces_for_Deduplication_of_Encrypted_Container_Images.pdf) | [web](https://dl.acm.org/doi/10.1145/3725220) | [code](https://github.com/suntong30/SimEnc)][![](https://img.shields.io/github/stars/suntong30/SimEnc?style=social&label=Code+Stars)](https://github.com/suntong30/SimEnc)
 
 ## 2024
@@ -111,7 +112,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 
 # 🔍 Academic Services
 - **Technical Program Committee**: IEEE DIKW 2025
-- **Program Committee for Artifact Evaluation**: USENIX OSDI 2025, USENIX ATC 2025, USENIX FAST 2026
+- **Program Committee for Artifact Evaluation**: USENIX OSDI 2025, USENIX ATC 2025, USENIX FAST 2026, ACM CCS 2025
 - **Journal Reviewer**: IEEE TKDE 2024, TJS 2025, IJDSA 2025
 - **Conference Reviewer**: IEEE HPCC 2024
 - **External Reviewer**: IEEE TPDS 2024, ACM TheWebConf/WWW 2024, Chinese Journal of Computers 2023, IEEE MASS 2023-2024
