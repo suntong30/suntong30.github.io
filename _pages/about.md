@@ -128,7 +128,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2021.07*: &nbsp;<b><u><font color="#333">1st Prize</font></u></b> in the "10th Zhejiang Province Undergraduate Smart Car Contest" (第十届浙江省大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛)
 - *2021.05*: &nbsp;<b><u><font color="#333">Meritorious Winner</font></u></b> in the "Mathematical Contest In Modeling (MCM/ICM 2021)" (美国大学生数学建模竞赛M奖)
 - *2020.10*: &nbsp;<b><u><font color="#333">2nd Prize</font></u></b> in the "2020 Zhejiang Province Undergraduate Electronic Design Contest" (浙江省电子设计竞赛二等奖, 教育部全国大学生A类学科竞赛)
-- *2020.08*: &nbsp;<b><u><font color="#333">1st Prize</font></u></b> in the "15th National Undergraduate Smart Car Contest" (第十五届全国大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛) \| <b><u><a href="https://www.bilibili.com/video/BV1mi4y1u7Ga/?t=12245" style="color: #333;">\[video\]</a></u></b>
+- *2020.08*: &nbsp;<b><u><font color="#333">1st Prize</font></u></b> in the "15th National Undergraduate Smart Car Contest" (第十五届全国大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛) \| <b><a href="https://www.bilibili.com/video/BV1mi4y1u7Ga/?t=12245" style="color: #333;">\[video\]</a></b>
 - *2020.07*: &nbsp;<b><u><font color="#333">1st Prize</font></u></b> in the "9th Zhejiang Province Undergraduate Smart Car Contest" (第九届浙江省大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛)
 - *2020.11*: &nbsp;<b><u><font color="#333">Zhejiang Province Government Scholarship</font></u></b> **(Award Rate: ～3% province-wide)** (**<u>浙江省政府奖学金</u>**), 2020 
 - *2019.11*: &nbsp;<b><u><font color="#333">Zhejiang Province Government Scholarship</font></u></b> **(Award Rate: ～3% province-wide)** (**<u>浙江省政府奖学金</u>**), 2019
