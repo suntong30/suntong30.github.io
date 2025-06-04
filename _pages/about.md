@@ -118,20 +118,20 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - **External Reviewer**: IEEE TPDS 2024, ACM TheWebConf/WWW 2024, Chinese Journal of Computers 2023, IEEE MASS 2023-2024
 
 # 🎖 Honors and Awards
-- *2024.11*: &nbsp;<b><font color="#C00000">National Scholarship (Award Rate: ～0.2% nation-wide)</font></b> (博士生国家奖学金), Ministry of Education, China, 2024
+- *2024.11*: &nbsp;<b><font color="#333">National Scholarship (Award Rate: ～0.2% nation-wide)</font></b> (博士生国家奖学金), Ministry of Education, China, 2024
 - *2024.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部), 2024
-- *2024.08*: &nbsp;One of the Three <b><font color="#C00000">Best Storage Papers</font></b> in USENIX ATC 2024
+- *2024.08*: &nbsp;One of the Three <b><font color="#333">Best Storage Papers</font></b> in USENIX ATC 2024
 - *2023.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部)，2023
-- *2022.06*: &nbsp;Zhejiang Province <b><font color="#C00000">Outstanding Graduate Award</font></b> (浙江省优秀毕业生)
+- *2022.06*: &nbsp;Zhejiang Province <b><font color="#333">Outstanding Graduate Award</font></b> (浙江省优秀毕业生)
 - *2022.06*: &nbsp;Hangzhou Dianzi University Outstanding Graduate Award (杭州电子科技大学优秀毕业生)
-- *2021.11*: &nbsp;<b><font color="#C00000">National Scholarship (Award Rate: ～0.2% nation-wide)</font></b> (本科生国家奖学金), Ministry of Education, China, 2021
-- *2021.07*: &nbsp;<b><font color="blue">1st Prize</font></b> in the "10th Zhejiang Province Undergraduate Smart Car Contest" (第十届浙江省大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛)
-- *2021.05*: &nbsp;<b><font color="blue">Meritorious Winner</font></b> in the "Mathematical Contest In Modeling (MCM/ICM 2021)" (美国大学生数学建模竞赛M奖)
-- *2020.10*: &nbsp;<b><font color="blue">2nd Prize</font></b> in the "2020 Zhejiang Province Undergraduate Electronic Design Contest" (浙江省电子设计竞赛二等奖, 教育部全国大学生A类学科竞赛)
-- *2020.08*: &nbsp;<b><font color="blue">1st Prize</font></b> in the "15th National Undergraduate Smart Car Contest" (第十五届全国大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛) \| <b><a href="https://www.bilibili.com/video/BV1mi4y1u7Ga/?t=12245" style="color: blue;">\[video\]</a></b>
+- *2021.11*: &nbsp;<b><font color="#333">National Scholarship (Award Rate: ～0.2% nation-wide)</font></b> (本科生国家奖学金), Ministry of Education, China, 2021
+- *2021.07*: &nbsp;<b><font color="#333">1st Prize</font></b> in the "10th Zhejiang Province Undergraduate Smart Car Contest" (第十届浙江省大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛)
+- *2021.05*: &nbsp;<b><font color="#333">Meritorious Winner</font></b> in the "Mathematical Contest In Modeling (MCM/ICM 2021)" (美国大学生数学建模竞赛M奖)
+- *2020.10*: &nbsp;<b><font color="#333">2nd Prize</font></b> in the "2020 Zhejiang Province Undergraduate Electronic Design Contest" (浙江省电子设计竞赛二等奖, 教育部全国大学生A类学科竞赛)
+- *2020.08*: &nbsp;<b><font color="#333">1st Prize</font></b> in the "15th National Undergraduate Smart Car Contest" (第十五届全国大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛) \| <b><a href="https://www.bilibili.com/video/BV1mi4y1u7Ga/?t=12245" style="color: #333;">\[video\]</a></b>
 - *2020.07*: &nbsp;<b><font color="blue">1st Prize</font></b> in the "9th Zhejiang Province Undergraduate Smart Car Contest" (第九届浙江省大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛)
-- *2020.11*: &nbsp;Zhejiang Province <b><font color="#C00000">Government Scholarship (Award Rate: ～3% province-wide)</font></b> (浙江省政府奖学金), 2020 
-- *2019.11*: &nbsp;Zhejiang Province <b><font color="#C00000">Government Scholarship (Award Rate: ～3% province-wide)</font></b> (浙江省政府奖学金), 2019
+- *2020.11*: &nbsp;Zhejiang Province <b><font color="#333">Government Scholarship (Award Rate: ～3% province-wide)</font></b> (浙江省政府奖学金), 2020 
+- *2019.11*: &nbsp;Zhejiang Province <b><font color="#333">Government Scholarship (Award Rate: ～3% province-wide)</font></b> (浙江省政府奖学金), 2019
 
 # 📖 Educations
 - ![](/images/zju_logo.png){:height="22px" width="22px"} *2022.06 - Now*, Ph.D. Student, College of Computer Science and Technology, Zhejiang University. 
