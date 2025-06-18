@@ -133,7 +133,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - **Program Committee for Artifact Evaluation**: USENIX OSDI 2025, USENIX ATC 2025, USENIX FAST 2026, ACM CCS 2025
 - **Journal Reviewer**: IEEE TKDE 2024, TJS 2025, IJDSA 2025
 - **Conference Reviewer**: IEEE HPCC 2024
-- **External Reviewer**: IEEE TPDS 2024, ACM TheWebConf/WWW 2024, Chinese Journal of Computers 2023, IEEE MASS 2023-2024
+- **External Reviewer**: IEEE TPDS 2024, ACM TheWebConf/WWW 2024, Chinese Journal of Computers 2023, IEEE MASS 2023-2025
 
 # 🎖 Honors and Awards
 - *2024.11*: &nbsp;<b><u><font color="#333">National Scholarship</font></u></b> **(Award Rate: ～0.2% nation-wide)** (**<u>国家奖学金</u>**), Ministry of Education, China, 2024
