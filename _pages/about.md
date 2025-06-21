@@ -94,6 +94,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>2025.06:</em> 😃 Invited to serve on the <b><font color="blue">Shadow PC</font></b> of <strong>ACM EuroSys 2026</strong>.</li>
   <li><em>2025.05:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>ACM CCS 2025</strong>.</li>
   <li><em>2025.05:</em> 🎉🎉 Our work <strong>TensorShield</strong> is <b><font color="blue">accepted</font></b> to <strong>ACM CCS 2025</strong>. Thanks to all collaborators! See you in Taipei.</li> 
   <li><em>2025.05:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX FAST 2026</strong>.</li>
@@ -129,7 +130,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - <div class="pubtitle">IEEE INFOCOM'24</div> &nbsp; <b><a href="https://ieeexplore.ieee.org/document/10621326" style="color: black;">Exploiting Multiple Similarity Spaces for Efficient and Flexible Incremental Update of Mobile Apps</a></b> <br /> Lewei Jin, Wei Dong\*, Bowen Jiang, <u><b><font color="black">Tong Sun</font></b></u>, and Yi Gao\*. <br /> <i>Proceedings of IEEE Conference on Computer Communications (INFOCOM), Vancouver, Canada. May 20-23</i>. <br />Acceptance Rate: 19.6% (256 out of 1307).<br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <b><font color="#BD666D">CORE A*.</font></b> <br /> [[paper](https://suntong30.github.io/assets/pdf/INFOCOM24_MDiffPatch.pdf) | [web](https://ieeexplore.ieee.org/document/10621326)]
 
 # 🔍 Academic Services
-- **Technical Program Committee**: IEEE DIKW 2025
+- **Technical Program Committee**: ACM EuroSys 2026 (Shadow), IEEE DIKW 2025
 - **Program Committee for Artifact Evaluation**: USENIX OSDI 2025, USENIX ATC 2025, USENIX FAST 2026, ACM CCS 2025
 - **Journal Reviewer**: IEEE TKDE 2024, TJS 2025, IJDSA 2025
 - **Conference Reviewer**: IEEE HPCC 2024
