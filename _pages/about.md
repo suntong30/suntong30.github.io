@@ -153,8 +153,10 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - *2019.11*: &nbsp;<b><u><font color="#333">Zhejiang Province Government Scholarship</font></u></b> **(Award Rate: ～3% province-wide)** (**<u>浙江省政府奖学金</u>**), 2019
 
 # 📖 Educations
-- ![](/images/zju_logo.png){:height="22px" width="22px"} *2022.06 - Now*, Ph.D. Student, College of Computer Science and Technology, Zhejiang University. 
-- ![](/images/hdu_logo.png){:height="22px" width="22px"} *2018.09 - 2022.06*, Bachelor - School of Electronics and Information Engineering, Hangzhou Dianzi University.
+- ![](/images/zju_logo.png){:height="22px" width="22px"} *2022.06 - Now*, Zhejiang University
+  - Ph.D. Candidate in Computer Science (Advisor: Prof. Yi Gao and Prof. Wei Dong)
+- ![](/images/hdu_logo.png){:height="22px" width="22px"} *2018.09 - 2022.06*, Hangzhou Dianzi University
+  - B.E. in Electronic and Information Engineering (GPA: 4.63/5, Rank: 3/364)
 
 # 💬 Invited Talks
 - *2024.07*, [USENIX ATC'24 - Security 1 Session] SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images, Santa Clara, USA. \| [\[video\]](https://www.youtube.com/watch?v=o6YZbeAey0k)
