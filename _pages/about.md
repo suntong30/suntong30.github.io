@@ -132,7 +132,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 # 🔍 Academic Services
 - **Technical Program Committee**: ACM EuroSys 2026 (Shadow), IEEE DIKW 2025
 - **Program Committee for Artifact Evaluation**: USENIX OSDI 2025, USENIX ATC 2025, USENIX FAST 2026, ACM CCS 2025
-- **Journal Reviewer**: IEEE TKDE 2024, TJS 2025, IJDSA 2025
+- **Journal Reviewer**: IEEE TKDE 2024, TIOT 2025, TJS 2025, IJDSA 2025
 - **Conference Reviewer**: IEEE HPCC 2024
 - **External Reviewer**: IEEE TPDS 2024, ACM TheWebConf/WWW 2024, Chinese Journal of Computers 2023, IEEE MASS 2023-2025
 
@@ -154,7 +154,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 
 # 📖 Educations
 - ![](/images/zju_logo.png){:height="22px" width="22px"} *2022.06 - Now*, Zhejiang University
-  - Ph.D. Candidate in Computer Science (Advisor: Prof. Yi Gao and Prof. Wei Dong)
+  - Ph.D. Candidate in Computer Science
 - ![](/images/hdu_logo.png){:height="22px" width="22px"} *2018.09 - 2022.06*, Hangzhou Dianzi University
   - B.E. in Electronic and Information Engineering
 
