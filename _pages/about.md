@@ -94,6 +94,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>2025.05:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>IEEE S&P (Oakland) 2026</strong>.</li>
   <li><em>2025.06:</em> 😃 Invited to serve on the <b><font color="blue">Shadow PC</font></b> of <strong>ACM EuroSys 2026</strong>.</li>
   <li><em>2025.05:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>ACM CCS 2025</strong>.</li>
   <li><em>2025.05:</em> 🎉🎉 Our work <strong>TensorShield</strong> is <b><font color="blue">accepted</font></b> to <strong>ACM CCS 2025</strong>. Thanks to all collaborators! See you in Taipei.</li> 
