@@ -54,7 +54,7 @@ body {
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm currently a fourth-year PhD student in the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) at [Zhejiang University (ZJU)](https://www.zju.edu.cn), and expected to get the PhD degree in 2027. I'm co-advised by [Prof. Wei Dong (董玮)](https://dongw.emnets.cn/) and [Prof. Yi Gao (高艺)](https://person.zju.edu.cn/gaoyi). I work closely with [Prof. Borui Li (李博睿)](https://www.liborui.cn/)  and [Prof. Jiamei Lv (吕嘉美)](https://lvjiamei.github.io/). Prior to that, I received my B.E. degree from the [School of Electronics and Information Engineering](https://elec.hdu.edu.cn/ele_en/main.htm) in [Hangzhou Dianzi University (HDU)](https://en.hdu.edu.cn/main.htm), Hangzhou, 2022, advised by [Prof. Long Chen (陈龙)](https://elec.hdu.edu.cn/2017/1205/c1827a57681/page.htm). 
+Hi, I'm currently a fourth-year PhD student in the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) at [Zhejiang University (ZJU)](https://www.zju.edu.cn), and expected to get the PhD degree in 2027. I'm co-advised by [Prof. Wei Dong (董玮)](https://dongw.emnets.cn/) and [Prof. Yi Gao (高艺)](https://person.zju.edu.cn/gaoyi). I work closely with [Prof. Borui Li (李博睿)](https://www.liborui.cn/)  and [Prof. Jiamei Lv (吕嘉美)](https://lvjiamei.github.io/). Prior to that, I received my B.E. degree from the [School of Electronics and Information Engineering](https://elec.hdu.edu.cn/ele_en/main.htm) in [Hangzhou Dianzi University (HDU)](https://en.hdu.edu.cn/main.htm), Hangzhou, 2022, advised by [Prof. Long Chen (陈龙)](https://faculty.hdu.edu.cn/dzxxxy/cl2_17828/main.htm). 
 
 My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_, and _Deduplication/Incremental Updates_. 
 
@@ -133,9 +133,9 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 # 🔍 Academic Services
 - **Technical Program Committee**: ACM EuroSys 2026 (Shadow), IEEE DIKW 2025
 - **Program Committee for Artifact Evaluation**: USENIX OSDI 2025, USENIX ATC 2025, USENIX FAST 2026, IEEE S&P 2026, ACM CCS 2025
-- **Journal Reviewer**: IEEE TKDE 2024, TIOT 2025, TJS 2025, IJDSA 2025
+- **Journal Reviewer**: IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Internet of Things (TIOT), The Journal of Supercomputing (TJS), International Journal of Data Science and Analytics (IJDSA)
 - **Conference Reviewer**: IEEE HPCC 2024
-- **External Reviewer**: IEEE TPDS 2024, ACM TheWebConf/WWW 2024, Chinese Journal of Computers 2023, IEEE MASS 2023-2025
+- **External Reviewer**: ACM Transactions on Privacy and Security (TOPS), IEEE Transactions on Parallel and Distributed Systems (TPDS), ACM TheWebConf/WWW 2024, Chinese Journal of Computers, IEEE MASS 2023-2025
 
 # 🎖 Honors and Awards
 - *2024.11*: &nbsp;<b><u><font color="#333">National Scholarship</font></u></b> **(Award Rate: ～0.2% nation-wide)** (**<u>国家奖学金</u>**), Ministry of Education, China, 2024
