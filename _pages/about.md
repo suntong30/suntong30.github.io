@@ -138,6 +138,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 - **External Reviewer**: ACM Transactions on Privacy and Security (TOPS), IEEE Transactions on Parallel and Distributed Systems (TPDS), ACM TheWebConf/WWW 2024, Chinese Journal of Computers, IEEE MASS 2023-2025
 
 # 🎖 Honors and Awards
+- *2025.10*: &nbsp;Outstanding Graduate Student Scholarship, Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，优秀研究生干部), 2025
 - *2024.11*: &nbsp;<b><u><font color="#333">National Scholarship</font></u></b> **(Award Rate: ～0.2% nation-wide)** (**<u>国家奖学金</u>**), Ministry of Education, China, 2024
 - *2024.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部), 2024
 - *2024.08*: &nbsp;One of the Three <b><u><font color="#C00000">Best Storage Related Papers</font></u></b> in USENIX ATC 2024
