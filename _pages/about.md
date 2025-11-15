@@ -94,6 +94,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>2025.11:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX Security 2026</strong>.</li>
   <li><em>2025.08:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>IEEE S&P (Oakland) 2026</strong>.</li>
   <li><em>2025.06:</em> 😃 Invited to serve on the <b><font color="blue">Shadow PC</font></b> of <strong>ACM EuroSys 2026</strong>.</li>
   <li><em>2025.05:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>ACM CCS 2025</strong>.</li>
@@ -132,7 +133,7 @@ My research interests mainly focus on _IoT Systems & Security_, _Edge Computing_
 
 # 🔍 Academic Services
 - **Technical Program Committee**: ACM EuroSys 2026 (Shadow), IEEE DIKW 2025
-- **Program Committee for Artifact Evaluation**: USENIX OSDI 2025, USENIX ATC 2025, USENIX FAST 2026, IEEE S&P 2026, ACM CCS 2025
+- **Program Committee for Artifact Evaluation**: USENIX OSDI 2025, USENIX ATC 2025, USENIX FAST 2026, IEEE S&P 2026, ACM CCS 2025, USENIX Security 2026
 - **Journal Reviewer**: IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Internet of Things (TIOT), The Journal of Supercomputing (TJS), International Journal of Data Science and Analytics (IJDSA)
 - **Conference Reviewer**: IEEE HPCC 2024
 - **External Reviewer**: ACM Transactions on Privacy and Security (TOPS), IEEE Transactions on Parallel and Distributed Systems (TPDS), ACM TheWebConf/WWW 2024-2026, Chinese Journal of Computers, IEEE MASS 2023-2025
