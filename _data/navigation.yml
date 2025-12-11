@@ -12,6 +12,9 @@ main:
   - title: "Academic Services"
     url: "/#-academic-services"
 
+  - title: "Grants"
+    url: "/#-grants"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
