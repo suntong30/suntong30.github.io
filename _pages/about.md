@@ -143,6 +143,7 @@ My research interests mainly focus on _IoT data security_ and _AIoT_.
 - PI, Research on Efficient Confidential Inference for Large Models with Cloud-Edge Collaboration, NSFC Grant No. 625B2167, 2026.01~2027.12.
 
 # 🎖 Honors and Awards
+- *2025.10*: &nbsp;Best Presentation Award, 21st PhD Innovation Forum, College of Computer Science, Zhejiang University (浙江大学计算机学院博士生创新论坛最佳讲者), 2025
 - *2025.10*: &nbsp;Outstanding Graduate Student Scholarship, Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，优秀研究生干部), 2025
 - *2024.11*: &nbsp;<b><u><font color="#333">National Scholarship</font></u></b> **(Award Rate: ～0.2% nation-wide)** (**<u>国家奖学金</u>**), Ministry of Education, China, 2024
 - *2024.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部), 2024
