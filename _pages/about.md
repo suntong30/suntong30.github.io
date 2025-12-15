@@ -54,7 +54,7 @@ body {
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm currently a fourth-year PhD student in the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) at [Zhejiang University (ZJU)](https://www.zju.edu.cn), and expected to get the PhD degree in 2027. I'm co-advised by [Prof. Wei Dong (董玮)](https://dongw.emnets.cn/) and [Prof. Yi Gao (高艺)](https://person.zju.edu.cn/gaoyi). I work closely with [Prof. Borui Li (李博睿)](https://www.liborui.cn/)  and [Prof. Jiamei Lv (吕嘉美)](https://lvjiamei.github.io/). Prior to that, I received my B.E. degree from the [School of Electronics and Information Engineering](https://elec.hdu.edu.cn/ele_en/main.htm) in [Hangzhou Dianzi University (HDU)](https://en.hdu.edu.cn/main.htm), Hangzhou, 2022, advised by [Prof. Long Chen (陈龙)](https://faculty.hdu.edu.cn/dzxxxy/cl2_17828/main.htm). 
+Hi, I'm currently a fourth-year PhD Student in the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) at [Zhejiang University (ZJU)](https://www.zju.edu.cn), and expected to get the PhD degree in 2027. I'm co-advised by [Prof. Wei Dong (董玮)](https://dongw.emnets.cn/) and [Prof. Yi Gao (高艺)](https://person.zju.edu.cn/gaoyi). I work closely with [Prof. Borui Li (李博睿)](https://www.liborui.cn/)  and [Prof. Jiamei Lv (吕嘉美)](https://lvjiamei.github.io/). Prior to that, I received my B.E. degree from the [School of Electronics and Information Engineering](https://elec.hdu.edu.cn/ele_en/main.htm) in [Hangzhou Dianzi University (HDU)](https://en.hdu.edu.cn/main.htm), Hangzhou, 2022, advised by [Prof. Long Chen (陈龙)](https://faculty.hdu.edu.cn/dzxxxy/cl2_17828/main.htm). 
 
 My research interests mainly focus on _IoT data security_ and _AIoT_.
 
@@ -94,6 +94,7 @@ My research interests mainly focus on _IoT data security_ and _AIoT_.
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>2025.12:</em> 🏆 Selected China Association for Science and Technology (CAST) Youth Talent Support Program for Doctoral Students<b><font color="#C00000"> 国家自然科学基金青年学生基础研究项目(博士研究生)</font></b> !</li>
   <li><em>2025.12:</em> 🏆 Received funding from the National Natural Science Foundation of China (NSFC) under the Youth Student Basic Research Program<b><font color="#C00000"> 国家自然科学基金青年学生基础研究项目(博士研究生)</font></b> !</li>
   <li><em>2025.11:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX Security 2026</strong>.</li>
   <li><em>2025.08:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>IEEE S&P (Oakland) 2026</strong>.</li>
