@@ -141,7 +141,7 @@ My research interests mainly focus on _IoT data security_ and _AIoT_.
 - **External Reviewer**: ACM Transactions on Privacy and Security (TOPS), IEEE Transactions on Parallel and Distributed Systems (TPDS), ACM TheWebConf/WWW 2024-2026, Chinese Journal of Computers, IEEE MASS 2023-2025
 
 # 💰 Grants
-- PI, Research on Efficient Confidential Inference for Large Models with Cloud-Edge Collaboration, NSFC Grant No. 625B2167, 2026.01~2027.12.
+- PI, Research on Efficient Confidential Inference for Large Models with Cloud-Edge Collaboration, NSFC Grant No. 625B2167 **<u>国家自然科学基金青年学生基础研究项目(博士研究生)</u>**, 2026.01~2027.12.
 
 # 🎖 Honors and Awards
 - *2025.12*: &nbsp;China Association for Science and Technology (CAST) Young Talents Program for Doctoral Students (**<u>中国科协青年科技人才培育工程博士生专项计划</u>**), 2025
