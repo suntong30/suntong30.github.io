@@ -94,7 +94,7 @@ My research interests mainly focus on _IoT data security_ and _AIoT_.
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li><em>2025.12:</em> 🏆 Selected China Association for Science and Technology (CAST) Youth Talent Support Program for Doctoral Students<b><font color="#C00000"> 国家自然科学基金青年学生基础研究项目(博士研究生)</font></b> !</li>
+  <li><em>2025.12:</em> 🏆 Selected into the China Association for Science and Technology (CAST) Young Talents Program for Doctoral Students<b><font color="#C00000"> 2025年中国科协青年科技人才培育工程博士生专项计划</font></b> !</li>
   <li><em>2025.12:</em> 🏆 Received funding from the National Natural Science Foundation of China (NSFC) under the Youth Student Basic Research Program<b><font color="#C00000"> 国家自然科学基金青年学生基础研究项目(博士研究生)</font></b> !</li>
   <li><em>2025.11:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX Security 2026</strong>.</li>
   <li><em>2025.08:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>IEEE S&P (Oakland) 2026</strong>.</li>
