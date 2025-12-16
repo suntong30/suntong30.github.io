@@ -107,7 +107,7 @@ My research interests mainly focus on _IoT data security_ and _AIoT_.
   <li><em>2025.04:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX OSDI 2025</strong> and <strong>USENIX ATC 2025</strong>.</li>
   <li><em>2025.03:</em> 🎉🎉 Our work <strong>SimEnc</strong> is selected as one of the <b><font color="#C00000">Best Storage Related Papers (3/77≈3.9%)</font></b> of USENIX ATC'24 for fast-track publication in <strong>ACM Transactions on Storage</strong>. Thanks to all collaborators!</li>
   <li><em>2025.02:</em> 😃 Invited to be the reviewer of <strong>The Journal of Supercomputing</strong>. </li>
-  <li><em>2024.11:</em> 🏆 Received the <b><font color="#C00000">2024 National Scholarship</font></b>!</li>
+  <li><em>2024.11:</em> 🏆 Received the <b><font color="blue">2024 National Scholarship</font></b>!</li>
   <li><em>2024.09:</em> 😃 Invited to be the reviewer of <strong>IEEE HPCC 2024</strong>. </li>
   <li><em>2024.09:</em> 😃 Invited to be the reviewer of <strong>IEEE Transactions on Knowledge and Data Engineering</strong>.</li>
   <li><em>2024.05:</em> 🎉🎉 Our work <strong>sdiff</strong> is <b><font color="blue">accepted</font></b> to <strong>IEEE Transactions on Mobile Computing</strong>. Thanks to all collaborators!</li>
