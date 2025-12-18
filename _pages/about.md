@@ -136,7 +136,7 @@ My research interests mainly focus on _IoT data security_ and _AIoT_.
 # 🔍 Academic Services
 - **Technical Program Committee**: ACM EuroSys 2026 (Shadow), IEEE DIKW 2025
 - **Program Committee for Artifact Evaluation**: USENIX OSDI 2025, USENIX ATC 2025, USENIX FAST 2026, IEEE S&P 2026, ACM CCS 2025, USENIX Security 2026
-- **Journal Reviewer**: IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Internet of Things (TIOT), The Journal of Supercomputing (TJS), International Journal of Data Science and Analytics (IJDSA)
+- **Journal Reviewer**: IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Internet of Things (TIOT), The Journal of Supercomputing (TJS), International Journal of Data Science and Analytics (IJDSA), Scientific Reports
 - **Conference Reviewer**: IEEE HPCC 2024
 - **External Reviewer**: ACM Transactions on Privacy and Security (TOPS), IEEE Transactions on Parallel and Distributed Systems (TPDS), ACM TheWebConf/WWW 2024-2026, Chinese Journal of Computers, IEEE MASS 2023-2025
 
