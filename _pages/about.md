@@ -56,15 +56,22 @@ body {
 
 Hi, I'm currently a fourth-year PhD Student in the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) at [Zhejiang University (ZJU)](https://www.zju.edu.cn), and expected to get the PhD degree in 2027. I'm co-advised by [Prof. Wei Dong (董玮)](https://dongw.emnets.cn/) and [Prof. Yi Gao (高艺)](https://person.zju.edu.cn/gaoyi). I work closely with [Prof. Borui Li (李博睿)](https://www.liborui.cn/)  and [Prof. Jiamei Lv (吕嘉美)](https://lvjiamei.github.io/). Prior to that, I received my B.E. degree from the [School of Electronics and Information Engineering](https://elec.hdu.edu.cn/ele_en/main.htm) in [Hangzhou Dianzi University (HDU)](https://en.hdu.edu.cn/main.htm), Hangzhou, 2022, advised by [Prof. Long Chen (陈龙)](https://faculty.hdu.edu.cn/dzxxxy/cl2_17828/main.htm). 
 
-My research interests mainly focus on _IoT data security_ and _AIoT_.
+I work on **systems and security for AIoT**, with a focus on **system software for confidential computing in IoT**.  
 
 **Research Overview:**
-- **IoT Security**
-    - **Programming methods for TEE-enabled IoT devices:** [IPSN'24] [dTEE](https://ieeexplore.ieee.org/document/10577323)
-    - **Secure inference:** [CCS'25] [TensorShield]()
-- **OTA/Incremental Updates**
-    - **Deduplication:** [ATC'24] [ToS'25] [SimEnc](https://www.usenix.org/conference/atc24/presentation/sun)
-    - **Mobile application updates:** [TMC'24] [sdiff](https://ieeexplore.ieee.org/document/10543054), [INFOCOM'24] [MDiffPatch](https://www.emnets.cn/zh/publication/infocom-24-mdiffpatch/mdiffpatch.pdf)
+
+I’m currently working on the following directions:
+- **Generative safe OS with confidential computing support for IoT** — Toward automatically constructing a secure-by-default OS and toolchain for TEE-enabled IoT devices.
+  - **LLM-assisted secure application development:** frameworks that help developers build TEE-based secure IoT applications correctly.
+    - [IPSN'24, dTEE](https://ieeexplore.ieee.org/document/10577323)
+
+- **Real-time, cloud–edge–end collaborative confidential AI inference** — Key techniques for low-latency and privacy-preserving inference on IoT devices with TEE support.
+  - [CCS'25, TensorShield](https://dl.acm.org/doi/10.1145/3719027.3744798)
+
+I used to work on (and still build upon) the following topics:
+- **Delta compression / differencing algorithms for software updates**
+    - **Container Deduplication:** [ATC'24, SimEnc](https://www.usenix.org/conference/atc24/presentation/sun), [TOS'25, SimEnc+](https://dl.acm.org/doi/10.1145/3725220)
+    - **Mobile APP updates:** [TMC'24, sdiff](https://ieeexplore.ieee.org/document/10543054), [INFOCOM'24, MDiffPatch](https://www.emnets.cn/zh/publication/infocom-24-mdiffpatch/mdiffpatch.pdf)
 
 **E-mail:** <tongsun 🤯 zju [dot] edu [dot] cn> & <asckw30 🤯 gmail [dot] com>
 
@@ -124,7 +131,7 @@ My research interests mainly focus on _IoT data security_ and _AIoT_.
 <div><b>[CCF] <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">China Computer Federation Ranking</a>; [TH-CPL] <a href="https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf">Tsinghua-Computer Science Preferred List</a>; [CORE] <a href="https://portal.core.edu.au/conf-ranks/">CORE Conference Ranking</a></b></div>
 
 ## 2025
-- <div class="pubtitle">ACM CCS'25</div> &nbsp; [C4]<b><a href="" style="color: black;">TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE</a></b> <br /> <u><b><font color="black">Tong Sun</font></b></u>, Bowen Jiang, Hailong Lin, Borui Li, Yixiao Teng, Yi Gao, and Wei Dong\*. <br /> <i>Proceedings of ACM Conference on Computer and Communications Security (CCS), October 13-17, 2025</i>. <br /> Acceptance Rate: overall 14.5% (316 out of 2186),  Cycle A AI sec track 11.8% (24 out of 204). <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <b><font color="#BD666D">CORE A*.</font></b> <br /> [[paper](https://www.arxiv.org/abs/2505.22735) | [web](https://dl.acm.org/doi/10.1145/3719027.3744798) | [code](https://github.com/suntong30/TensorShield) | [slides]()] [![](https://img.shields.io/github/stars/suntong30/TensorShield?style=social&label=Code+Stars)](https://github.com/suntong30/TensorShield) ![](/images/available.png){:height="40px" width="40px"}  ![](/images/functional.png){:height="40px" width="40px"} ![](/images/reproduced.png){:height="40px" width="40px"}
+- <div class="pubtitle">ACM CCS'25</div> &nbsp; [C4]<b><a href="" style="color: black;">TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE</a></b> <br /> <u><b><font color="black">Tong Sun</font></b></u>, Bowen Jiang, Hailong Lin, Borui Li, Yixiao Teng, Yi Gao, and Wei Dong\*. <br /> <i>Proceedings of ACM Conference on Computer and Communications Security (CCS), October 13-17, 2025</i>. <br /> Acceptance Rate: overall 14.5% (316 out of 2186),  Cycle A AI sec track 11.8% (24 out of 204). <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <b><font color="#BD666D">CORE A*.</font></b> <br /> [[paper](https://dl.acm.org/doi/10.1145/3719027.3744798) | [web](https://dl.acm.org/doi/10.1145/3719027.3744798) | [code](https://github.com/suntong30/TensorShield) | [slides]()] [![](https://img.shields.io/github/stars/suntong30/TensorShield?style=social&label=Code+Stars)](https://github.com/suntong30/TensorShield) ![](/images/available.png){:height="40px" width="40px"}  ![](/images/functional.png){:height="40px" width="40px"} ![](/images/reproduced.png){:height="40px" width="40px"}
 - <div class="pubtitle">ACM TOS'25</div> &nbsp; [J2]<b><a href="https://dl.acm.org/doi/10.1145/3725220" style="color: black;">Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images</a></b> <br /> <u><b><font color="black">Tong Sun</font></b></u>, Bowen Jiang, Borui Li, Jiamei Lv, Yi Gao\*, and Wei Dong\*. <br /> <i>ACM Transactions on Storage (TOS)</i>. <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br />  [[paper](https://suntong30.github.io/assets/pdf/TOS25_Exploiting_Multiple_Similarity_Spaces_for_Deduplication_of_Encrypted_Container_Images.pdf) | [web](https://dl.acm.org/doi/10.1145/3725220) | [code](https://github.com/suntong30/SimEnc)][![](https://img.shields.io/github/stars/suntong30/SimEnc?style=social&label=Code+Stars)](https://github.com/suntong30/SimEnc)
 
 ## 2024
