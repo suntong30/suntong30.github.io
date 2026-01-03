@@ -70,8 +70,8 @@ I’m currently working on the following directions:
 
 I used to work on (and still build upon) the following topics:
 - **Delta compression / differencing algorithms for software updates**
-    - **Container Deduplication:** [ATC'24, SimEnc](https://www.usenix.org/conference/atc24/presentation/sun), [TOS'25, SimEnc+](https://dl.acm.org/doi/10.1145/3725220)
-    - **Mobile APP updates:** [TMC'24, sdiff](https://ieeexplore.ieee.org/document/10543054), [INFOCOM'24, MDiffPatch](https://www.emnets.cn/zh/publication/infocom-24-mdiffpatch/mdiffpatch.pdf)
+    - **Container Deduplication:** [[ATC'24, SimEnc]](https://www.usenix.org/conference/atc24/presentation/sun), [[TOS'25, SimEnc+]](https://dl.acm.org/doi/10.1145/3725220)
+    - **Mobile APP updates:** [[TMC'24, sdiff]](https://ieeexplore.ieee.org/document/10543054), [[INFOCOM'24, MDiffPatch]](https://www.emnets.cn/zh/publication/infocom-24-mdiffpatch/mdiffpatch.pdf)
 
 **E-mail:** <tongsun 🤯 zju [dot] edu [dot] cn> & <asckw30 🤯 gmail [dot] com>
 
