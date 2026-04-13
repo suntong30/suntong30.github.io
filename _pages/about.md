@@ -101,6 +101,7 @@ I used to work on (and still build upon) the following topics:
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>2026.04:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>ACM CCS 2026</strong>.</li>
   <li><em>2026.04:</em> 😃 Our work <strong>EncDiffPatch</strong> is <b><font color="blue">accepted</font></b> to <strong>IEEE Transactions on Mobile Computing</strong>, congrats to Lewei!</li>
   <li><em>2025.12:</em> 🏆 Selected into the China Association for Science and Technology (CAST) Youth Talent Support Program for PhD Students <b><font color="blue"> 中国科协青年科技人才培育工程博士生专项计划</font></b> !</li>
   <li><em>2025.12:</em> 🏆 Received funding from the National Natural Science Foundation of China (NSFC) under the Youth Student Basic Research Program<b><font color="blue"> 国家自然科学基金青年学生基础研究项目(博士研究生)</font></b> !</li>
@@ -146,7 +147,7 @@ I used to work on (and still build upon) the following topics:
 
 # 🔍 Academic Services
 - **Technical Program Committee**: ACM EuroSys 2026 (Shadow), IEEE DIKW 2025
-- **Program Committee for Artifact Evaluation**: USENIX OSDI 2025, USENIX ATC 2025, USENIX FAST 2026, IEEE S&P 2026, ACM CCS 2025, USENIX Security 2026
+- **Program Committee for Artifact Evaluation**: USENIX OSDI 2025, USENIX ATC 2025, USENIX FAST 2026, IEEE S&P 2026, ACM CCS 2025-2026, USENIX Security 2026
 - **Journal Reviewer**: IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Internet of Things (TIOT), The Journal of Supercomputing (TJS), International Journal of Data Science and Analytics (IJDSA), Scientific Reports
 - **Conference Reviewer**: IEEE HPCC 2024
 - **External Reviewer**: ICML 2026, ACM Transactions on Privacy and Security (TOPS), IEEE Transactions on Parallel and Distributed Systems (TPDS), ACM TheWebConf/WWW 2024-2026, Chinese Journal of Computers, IEEE MASS 2023-2025
