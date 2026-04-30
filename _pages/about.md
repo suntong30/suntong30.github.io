@@ -102,7 +102,7 @@ I used to work on (and still build upon) the following topics:
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li><em>2026.05:</em> 😃 Our work <strong>RTInfer</strong> is <b><font color="blue">accepted</font></b> to <strong>ICML 2026</strong>, congrats to Renjie!</li>
+  <li><em>2026.05:</em> 😃 Our work <strong>RTInfer</strong> is <b><font color="blue">accepted</font></b> to <strong>ICML 2026</strong>, congrats to Renjie! See you in Seoul.</li>
   <li><em>2026.04:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX OSDI 2026</strong>.</li>
   <li><em>2026.04:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>ACM CCS 2026</strong>.</li>
   <li><em>2026.04:</em> 😃 Our work <strong>EncDiffPatch</strong> is <b><font color="blue">accepted</font></b> to <strong>IEEE Transactions on Mobile Computing</strong>, congrats to Lewei!</li>
@@ -136,7 +136,7 @@ I used to work on (and still build upon) the following topics:
 <div><b>[CCF] <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">China Computer Federation Ranking</a>; [TH-CPL] <a href="https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf">Tsinghua-Computer Science Preferred List</a>; [CORE] <a href="https://portal.core.edu.au/conf-ranks/">CORE Conference Ranking</a></b></div>
 
 ## 2026
-- <div class="pubtitle">ICML'26</div> &nbsp; [J3]<b><a href="" style="color: black;">RTInfer: Exploiting Concurrency for Multiple Real-Time DNN Inference on Edge GPUs</a></b> <br /> Renjie Li, <u><b><font color="black">Tong Sun</font></b></u>, Yi Gao, and Wei Dong\*. <br /> <i>Forty-third International Conference on Machine Learning (ICML), July 6-11, 2026</i>. <br /> Acceptance Rate: TBD. <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper]() | [web]() | [code]()]
+- <div class="pubtitle">ICML'26</div> &nbsp; [C5]<b><a href="" style="color: black;">RTInfer: Exploiting Concurrency for Multiple Real-Time DNN Inference on Edge GPUs</a></b> <br /> Renjie Li, <u><b><font color="black">Tong Sun</font></b></u>, Yi Gao, and Wei Dong\*. <br /> <i>Forty-third International Conference on Machine Learning (ICML), Seoul, South Korea. July 6-11, 2026</i>. <br /> Acceptance Rate: TBD. <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper]() | [web]() | [code]()]
 - <div class="pubtitle">IEEE TMC'26</div> &nbsp; [J3]<b><a href="" style="color: black;">Efficient Incremental Updates for Encrypted Mobile Apps</a></b> <br /> Lewei Jin, Kui Zhang, <u><b><font color="black">Tong Sun</font></b></u>, Jiamei Lv, Yi Gao, and Wei Dong\*. <br /> <i>IEEE Transactions on Mobile Computing (TMC)</i>. <br /> IF=9.2(2025), JCR Q1.<br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper](https://ieeexplore.ieee.org/abstract/document/11482743) | [web](https://ieeexplore.ieee.org/abstract/document/11482743) ]
 
 ## 2025
