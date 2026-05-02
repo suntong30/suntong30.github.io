@@ -107,7 +107,7 @@ I used to work on (and still build upon) the following topics:
   <li><em>2026.04:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>ACM CCS 2026</strong>.</li>
   <li><em>2026.04:</em> 😃 Our work <strong>EncDiffPatch</strong> is <b><font color="blue">accepted</font></b> to <strong>IEEE Transactions on Mobile Computing</strong>, congrats to Lewei!</li>
   <li><em>2025.12:</em> 🏆 Selected into the China Association for Science and Technology (CAST) Youth Talent Support Program for PhD Students <b><font color="blue"> 中国科协青年科技人才培育工程博士生专项计划</font></b> !</li>
-  <li><em>2025.12:</em> 🏆 Received funding from the National Natural Science Foundation of China (NSFC) under the Youth Student Basic Research Program<b><font color="blue"> 国家自然科学基金青年学生基础研究项目(博士研究生)</font></b> !</li>
+  <li><em>2025.12:</em> 🏆 Received funding from the National Natural Science Foundation of China (NSFC) under the Youth Student Basic Research Program<b><font color="blue"> 国家自然科学基金博士生基金</font></b> !</li>
   <li><em>2025.11:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX Security 2026</strong>.</li>
   <li><em>2025.08:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>IEEE S&P (Oakland) 2026</strong>.</li>
   <li><em>2025.06:</em> 😃 Invited to serve on the <b><font color="blue">Shadow PC</font></b> of <strong>ACM EuroSys 2026</strong>.</li>
@@ -136,7 +136,7 @@ I used to work on (and still build upon) the following topics:
 <div><b>[CCF] <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">China Computer Federation Ranking</a>; [TH-CPL] <a href="https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf">Tsinghua-Computer Science Preferred List</a>; [CORE] <a href="https://portal.core.edu.au/conf-ranks/">CORE Conference Ranking</a></b></div>
 
 ## 2026
-- <div class="pubtitle">ICML'26</div> &nbsp; [C5]<b><a href="" style="color: black;">RTInfer: Exploiting Concurrency for Multiple Real-Time DNN Inference on Edge GPUs</a></b> <br /> Renjie Li, <u><b><font color="black">Tong Sun</font></b></u>, Yi Gao, and Wei Dong\*. <br /> <i>Forty-third International Conference on Machine Learning (ICML), Seoul, South Korea. July 6-11, 2026</i>. <br /> Acceptance Rate: TBD. <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper]() | [web]() | [code]()]
+- <div class="pubtitle">ICML'26</div> &nbsp; [C5]<b><a href="" style="color: black;">RTInfer: Exploiting Concurrency for Multiple Real-Time DNN Inference on Edge GPUs</a></b> <br /> Renjie Li, <u><b><font color="black">Tong Sun</font></b></u>, Yi Gao, and Wei Dong\*. <br /> <i>Forty-third International Conference on Machine Learning (ICML), Seoul, South Korea. July 6-11, 2026</i>. <br /> Acceptance Rate: 26.6% (6352 out of 23918). <br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper]() | [web]() | [code]()]
 - <div class="pubtitle">IEEE TMC'26</div> &nbsp; [J3]<b><a href="" style="color: black;">Efficient Incremental Updates for Encrypted Mobile Apps</a></b> <br /> Lewei Jin, Kui Zhang, <u><b><font color="black">Tong Sun</font></b></u>, Jiamei Lv, Yi Gao, and Wei Dong\*. <br /> <i>IEEE Transactions on Mobile Computing (TMC)</i>. <br /> IF=9.2(2025), JCR Q1.<br /> <b><font color="#BD666D">CCF-A.</font></b> <b><font color="#BD666D">THCPL-A.</font></b> <br /> [[paper](https://ieeexplore.ieee.org/abstract/document/11482743) | [web](https://ieeexplore.ieee.org/abstract/document/11482743) ]
 
 ## 2025
