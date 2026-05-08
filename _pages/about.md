@@ -135,7 +135,7 @@ I used to work on (and still build upon) the following topics:
 
 ## 2026
 <div class="publication-list">
-  <article class="publication-card publication-card--journal">
+  <article class="publication-card publication-card--chinese-journal">
     <div class="publication-card__header">
       <span class="publication-venue">CCCF'26</span>
       <div class="publication-links">

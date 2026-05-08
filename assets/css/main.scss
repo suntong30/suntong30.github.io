@@ -122,6 +122,8 @@ h1:before, .anchor:before {
 $publication-conference-color: #BD666D;
 $publication-journal-color: #0092ca;
 $publication-journal-dark-color: #004965;
+$publication-chinese-journal-color: #8a63d2;
+$publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 
 .publication-list {
     display: grid;
@@ -154,6 +156,11 @@ $publication-journal-dark-color: #004965;
     border-left-color: $publication-journal-color;
 }
 
+.publication-card--chinese-journal:hover {
+    border-color: rgba($publication-chinese-journal-color, .24);
+    border-left-color: $publication-chinese-journal-color;
+}
+
 .publication-card__header {
     display: flex;
     flex-wrap: wrap;
@@ -182,6 +189,12 @@ $publication-journal-dark-color: #004965;
     color: $publication-journal-dark-color;
 }
 
+.publication-card--chinese-journal .publication-venue {
+    border-color: rgba($publication-chinese-journal-color, .22);
+    background: $publication-chinese-journal-bg;
+    color: $publication-chinese-journal-color;
+}
+
 .publication-id {
     color: $publication-conference-color;
     font-size: .88em;
@@ -191,6 +204,10 @@ $publication-journal-dark-color: #004965;
 
 .publication-card--journal .publication-id {
     color: $publication-journal-color;
+}
+
+.publication-card--chinese-journal .publication-id {
+    color: $publication-chinese-journal-color;
 }
 
 .page__content .publication-title {
@@ -212,6 +229,10 @@ $publication-journal-dark-color: #004965;
 
 .page__content .publication-card--journal .publication-title a:hover {
     color: $publication-journal-color;
+}
+
+.page__content .publication-card--chinese-journal .publication-title a:hover {
+    color: $publication-chinese-journal-color;
 }
 
 .publication-authors,
@@ -252,6 +273,11 @@ $publication-journal-dark-color: #004965;
 .publication-card--journal .publication-rank {
     background: rgba($publication-journal-color, .1);
     color: $publication-journal-color;
+}
+
+.publication-card--chinese-journal .publication-rank {
+    background: $publication-chinese-journal-bg;
+    color: $publication-chinese-journal-color;
 }
 
 .publication-award {
@@ -310,6 +336,12 @@ $publication-journal-dark-color: #004965;
     border-color: rgba($publication-journal-color, .35);
     background: rgba($publication-journal-color, .08);
     color: $publication-journal-color;
+}
+
+.publication-card--chinese-journal .publication-links a:hover {
+    border-color: rgba($publication-chinese-journal-color, .35);
+    background: $publication-chinese-journal-bg;
+    color: $publication-chinese-journal-color;
 }
 
 .publication-links span {
