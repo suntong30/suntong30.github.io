@@ -221,7 +221,7 @@ I used to work on (and still build upon) the following topics:
       <div class="publication-links">
         <a href="https://suntong30.github.io/assets/pdf/TOS25_Exploiting_Multiple_Similarity_Spaces_for_Deduplication_of_Encrypted_Container_Images.pdf">paper</a>
         <a href="https://dl.acm.org/doi/10.1145/3725220">web</a>
-        <a href="https://github.com/suntong30/SimEnc">code</a>
+        <a href="https://github.com/suntong30/SimEnc"><img src="https://img.shields.io/github/stars/suntong30/SimEnc?style=social&amp;label=Code+Stars" alt="SimEnc Code Stars"></a>
       </div>
     </div>
     <h3 class="publication-title"><span class="publication-id">[J2]</span> <a href="https://dl.acm.org/doi/10.1145/3725220">Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images</a></h3>
@@ -230,9 +230,6 @@ I used to work on (and still build upon) the following topics:
     <div class="publication-ranks">
       <span class="publication-rank">CCF-A.</span>
       <span class="publication-rank">THCPL-A.</span>
-    </div>
-    <div class="publication-badges">
-      <a href="https://github.com/suntong30/SimEnc"><img src="https://img.shields.io/github/stars/suntong30/SimEnc?style=social&amp;label=Code+Stars" alt="SimEnc Code Stars"></a>
     </div>
   </article>
 </div>
@@ -245,7 +242,7 @@ I used to work on (and still build upon) the following topics:
       <div class="publication-links">
         <a href="https://suntong30.github.io/assets/pdf/atc24-sun.pdf">paper</a>
         <a href="https://www.usenix.org/conference/atc24/presentation/sun">web</a>
-        <a href="https://github.com/suntong30/SimEnc">code</a>
+        <a href="https://github.com/suntong30/SimEnc"><img src="https://img.shields.io/github/stars/suntong30/SimEnc?style=social&amp;label=Code+Stars" alt="SimEnc Code Stars"></a>
         <a href="https://suntong30.github.io/assets/pdf/ATC24_SimEnc_slides.pdf">slides</a>
         <a href="https://www.youtube.com/watch?v=o6YZbeAey0k">video</a>
       </div>
@@ -261,7 +258,6 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-award-pill">Best Storage Related Paper</span>
     </div>
     <div class="publication-badges">
-      <a href="https://github.com/suntong30/SimEnc"><img src="https://img.shields.io/github/stars/suntong30/SimEnc?style=social&amp;label=Code+Stars" alt="SimEnc Code Stars"></a>
       <img src="/images/usenixbadges-available.png" alt="USENIX Artifact Available">
       <img src="/images/usenixbadges-functional.png" alt="USENIX Artifact Functional">
     </div>
@@ -273,7 +269,7 @@ I used to work on (and still build upon) the following topics:
       <div class="publication-links">
         <a href="https://suntong30.github.io/assets/pdf/TMC24_sdiff.pdf">paper</a>
         <a href="https://ieeexplore.ieee.org/document/10543054">web</a>
-        <a href="https://github.com/suntong30/sdiff">code</a>
+        <a href="https://github.com/suntong30/sdiff"><img src="https://img.shields.io/github/stars/suntong30/sdiff?style=social&amp;label=Code+Stars" alt="sdiff Code Stars"></a>
       </div>
     </div>
     <h3 class="publication-title"><span class="publication-id">[J1]</span> <a href="https://ieeexplore.ieee.org/document/10543054">Understanding Differencing Algorithms for Mobile Application Updates</a></h3>
@@ -283,9 +279,6 @@ I used to work on (and still build upon) the following topics:
     <div class="publication-ranks">
       <span class="publication-rank">CCF-A.</span>
       <span class="publication-rank">THCPL-A.</span>
-    </div>
-    <div class="publication-badges">
-      <a href="https://github.com/suntong30/sdiff"><img src="https://img.shields.io/github/stars/suntong30/sdiff?style=social&amp;label=Code+Stars" alt="sdiff Code Stars"></a>
     </div>
   </article>
 
