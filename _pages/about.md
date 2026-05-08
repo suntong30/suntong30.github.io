@@ -227,28 +227,6 @@ I used to work on (and still build upon) the following topics:
 
 ## 2024
 <div class="publication-list">
-  <article class="publication-card publication-card--journal">
-    <div class="publication-card__header">
-      <span class="publication-venue">IEEE TMC'24</span>
-      <div class="publication-links">
-        <a href="https://suntong30.github.io/assets/pdf/TMC24_sdiff.pdf">paper</a>
-        <a href="https://ieeexplore.ieee.org/document/10543054">web</a>
-        <a href="https://github.com/suntong30/sdiff">code</a>
-      </div>
-    </div>
-    <h3 class="publication-title"><span class="publication-id">[J1]</span> <a href="https://ieeexplore.ieee.org/document/10543054">Understanding Differencing Algorithms for Mobile Application Updates</a></h3>
-    <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Bowen Jiang, Lewei Jin, Wenzhao Zhang, Yi Gao, Zhendong Li, and Wei Dong*.</p>
-    <p class="publication-meta"><em>IEEE Transactions on Mobile Computing (TMC)</em>.</p>
-    <p class="publication-meta">IF=9.2(2025), JCR Q1.</p>
-    <div class="publication-ranks">
-      <span class="publication-rank">CCF-A.</span>
-      <span class="publication-rank">THCPL-A.</span>
-    </div>
-    <div class="publication-badges">
-      <a href="https://github.com/suntong30/sdiff"><img src="https://img.shields.io/github/stars/suntong30/sdiff?style=social&amp;label=Code+Stars" alt="sdiff Code Stars"></a>
-    </div>
-  </article>
-
   <article class="publication-card">
     <div class="publication-card__header">
       <span class="publication-venue">USENIX ATC'24</span>
@@ -274,6 +252,28 @@ I used to work on (and still build upon) the following topics:
       <a href="https://github.com/suntong30/SimEnc"><img src="https://img.shields.io/github/stars/suntong30/SimEnc?style=social&amp;label=Code+Stars" alt="SimEnc Code Stars"></a>
       <img src="/images/usenixbadges-available.png" alt="USENIX Artifact Available">
       <img src="/images/usenixbadges-functional.png" alt="USENIX Artifact Functional">
+    </div>
+  </article>
+  
+  <article class="publication-card publication-card--journal">
+    <div class="publication-card__header">
+      <span class="publication-venue">IEEE TMC'24</span>
+      <div class="publication-links">
+        <a href="https://suntong30.github.io/assets/pdf/TMC24_sdiff.pdf">paper</a>
+        <a href="https://ieeexplore.ieee.org/document/10543054">web</a>
+        <a href="https://github.com/suntong30/sdiff">code</a>
+      </div>
+    </div>
+    <h3 class="publication-title"><span class="publication-id">[J1]</span> <a href="https://ieeexplore.ieee.org/document/10543054">Understanding Differencing Algorithms for Mobile Application Updates</a></h3>
+    <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Bowen Jiang, Lewei Jin, Wenzhao Zhang, Yi Gao, Zhendong Li, and Wei Dong*.</p>
+    <p class="publication-meta"><em>IEEE Transactions on Mobile Computing (TMC)</em>.</p>
+    <p class="publication-meta">IF=9.2(2025), JCR Q1.</p>
+    <div class="publication-ranks">
+      <span class="publication-rank">CCF-A.</span>
+      <span class="publication-rank">THCPL-A.</span>
+    </div>
+    <div class="publication-badges">
+      <a href="https://github.com/suntong30/sdiff"><img src="https://img.shields.io/github/stars/suntong30/sdiff?style=social&amp;label=Code+Stars" alt="sdiff Code Stars"></a>
     </div>
   </article>
 
