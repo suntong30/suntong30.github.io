@@ -136,11 +136,15 @@ I used to work on (and still build upon) the following topics:
 ## 2026
 <div class="publication-list">
   <article class="publication-card">
-    <div class="publication-card__topline">
+    <div class="publication-card__header">
       <span class="publication-venue">ICML'26</span>
-      <span class="publication-id">[C5]</span>
+      <div class="publication-links">
+        <span>paper</span>
+        <span>web</span>
+        <span>code</span>
+      </div>
     </div>
-    <h3 class="publication-title">RTInfer: Exploiting Concurrency for Multiple Real-Time DNN Inference on Edge GPUs</h3>
+    <h3 class="publication-title"><span class="publication-id">[C5]</span> RTInfer: Exploiting Concurrency for Multiple Real-Time DNN Inference on Edge GPUs</h3>
     <p class="publication-authors">Renjie Li, <strong class="publication-me">Tong Sun</strong>, Yi Gao, and Wei Dong.</p>
     <p class="publication-meta"><em>Forty-third International Conference on Machine Learning (ICML), Seoul, South Korea. July 6-11, 2026</em>.</p>
     <p class="publication-meta">Acceptance Rate: 26.6% (6352 out of 23918).</p>
@@ -149,19 +153,17 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">THCPL-A.</span>
       <span class="publication-rank">CORE A*.</span>
     </div>
-    <div class="publication-links">
-      <span>paper</span>
-      <span>web</span>
-      <span>code</span>
-    </div>
   </article>
 
   <article class="publication-card">
-    <div class="publication-card__topline">
+    <div class="publication-card__header">
       <span class="publication-venue">IEEE TMC'26</span>
-      <span class="publication-id">[J3]</span>
+      <div class="publication-links">
+        <a href="https://ieeexplore.ieee.org/abstract/document/11482743">paper</a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11482743">web</a>
+      </div>
     </div>
-    <h3 class="publication-title">Efficient Incremental Updates for Encrypted Mobile Apps</h3>
+    <h3 class="publication-title"><span class="publication-id">[J3]</span> Efficient Incremental Updates for Encrypted Mobile Apps</h3>
     <p class="publication-authors">Lewei Jin, Kui Zhang, <strong class="publication-me">Tong Sun</strong>, Jiamei Lv, Yi Gao, and Wei Dong*.</p>
     <p class="publication-meta"><em>IEEE Transactions on Mobile Computing (TMC)</em>.</p>
     <p class="publication-meta">IF=9.2(2025), JCR Q1.</p>
@@ -169,21 +171,22 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">CCF-A.</span>
       <span class="publication-rank">THCPL-A.</span>
     </div>
-    <div class="publication-links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/11482743">paper</a>
-      <a href="https://ieeexplore.ieee.org/abstract/document/11482743">web</a>
-    </div>
   </article>
 </div>
 
 ## 2025
 <div class="publication-list">
   <article class="publication-card">
-    <div class="publication-card__topline">
+    <div class="publication-card__header">
       <span class="publication-venue">ACM CCS'25</span>
-      <span class="publication-id">[C4]</span>
+      <div class="publication-links">
+        <a href="https://dl.acm.org/doi/10.1145/3719027.3744798">paper</a>
+        <a href="https://dl.acm.org/doi/10.1145/3719027.3744798">web</a>
+        <a href="https://github.com/suntong30/TensorShield">code</a>
+        <span>slides</span>
+      </div>
     </div>
-    <h3 class="publication-title">TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE</h3>
+    <h3 class="publication-title"><span class="publication-id">[C4]</span> TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE</h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Bowen Jiang, Hailong Lin, Borui Li, Yixiao Teng, Yi Gao, and Wei Dong*.</p>
     <p class="publication-meta"><em>Proceedings of ACM Conference on Computer and Communications Security (CCS), October 13-17, 2025</em>.</p>
     <p class="publication-meta">Acceptance Rate: Cycle A 12.5% (102 out of 816), Cycle A AI sec track 11.8% (24 out of 204).</p>
@@ -191,12 +194,6 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">CCF-A.</span>
       <span class="publication-rank">THCPL-A.</span>
       <span class="publication-rank">CORE A*.</span>
-    </div>
-    <div class="publication-links">
-      <a href="https://dl.acm.org/doi/10.1145/3719027.3744798">paper</a>
-      <a href="https://dl.acm.org/doi/10.1145/3719027.3744798">web</a>
-      <a href="https://github.com/suntong30/TensorShield">code</a>
-      <span>slides</span>
     </div>
     <div class="publication-badges">
       <a href="https://github.com/suntong30/TensorShield"><img src="https://img.shields.io/github/stars/suntong30/TensorShield?style=social&amp;label=Code+Stars" alt="TensorShield Code Stars"></a>
@@ -207,21 +204,20 @@ I used to work on (and still build upon) the following topics:
   </article>
 
   <article class="publication-card">
-    <div class="publication-card__topline">
+    <div class="publication-card__header">
       <span class="publication-venue">ACM TOS'25</span>
-      <span class="publication-id">[J2]</span>
+      <div class="publication-links">
+        <a href="https://suntong30.github.io/assets/pdf/TOS25_Exploiting_Multiple_Similarity_Spaces_for_Deduplication_of_Encrypted_Container_Images.pdf">paper</a>
+        <a href="https://dl.acm.org/doi/10.1145/3725220">web</a>
+        <a href="https://github.com/suntong30/SimEnc">code</a>
+      </div>
     </div>
-    <h3 class="publication-title"><a href="https://dl.acm.org/doi/10.1145/3725220">Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images</a></h3>
+    <h3 class="publication-title"><span class="publication-id">[J2]</span> <a href="https://dl.acm.org/doi/10.1145/3725220">Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images</a></h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Bowen Jiang, Borui Li, Jiamei Lv, Yi Gao*, and Wei Dong*.</p>
     <p class="publication-meta"><em>ACM Transactions on Storage (TOS)</em>.</p>
     <div class="publication-ranks">
       <span class="publication-rank">CCF-A.</span>
       <span class="publication-rank">THCPL-A.</span>
-    </div>
-    <div class="publication-links">
-      <a href="https://suntong30.github.io/assets/pdf/TOS25_Exploiting_Multiple_Similarity_Spaces_for_Deduplication_of_Encrypted_Container_Images.pdf">paper</a>
-      <a href="https://dl.acm.org/doi/10.1145/3725220">web</a>
-      <a href="https://github.com/suntong30/SimEnc">code</a>
     </div>
     <div class="publication-badges">
       <a href="https://github.com/suntong30/SimEnc"><img src="https://img.shields.io/github/stars/suntong30/SimEnc?style=social&amp;label=Code+Stars" alt="SimEnc Code Stars"></a>
@@ -232,11 +228,15 @@ I used to work on (and still build upon) the following topics:
 ## 2024
 <div class="publication-list">
   <article class="publication-card">
-    <div class="publication-card__topline">
+    <div class="publication-card__header">
       <span class="publication-venue">IEEE TMC'24</span>
-      <span class="publication-id">[J1]</span>
+      <div class="publication-links">
+        <a href="https://suntong30.github.io/assets/pdf/TMC24_sdiff.pdf">paper</a>
+        <a href="https://ieeexplore.ieee.org/document/10543054">web</a>
+        <a href="https://github.com/suntong30/sdiff">code</a>
+      </div>
     </div>
-    <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/document/10543054">Understanding Differencing Algorithms for Mobile Application Updates</a></h3>
+    <h3 class="publication-title"><span class="publication-id">[J1]</span> <a href="https://ieeexplore.ieee.org/document/10543054">Understanding Differencing Algorithms for Mobile Application Updates</a></h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Bowen Jiang, Lewei Jin, Wenzhao Zhang, Yi Gao, Zhendong Li, and Wei Dong*.</p>
     <p class="publication-meta"><em>IEEE Transactions on Mobile Computing (TMC)</em>.</p>
     <p class="publication-meta">IF=9.2(2025), JCR Q1.</p>
@@ -244,22 +244,23 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">CCF-A.</span>
       <span class="publication-rank">THCPL-A.</span>
     </div>
-    <div class="publication-links">
-      <a href="https://suntong30.github.io/assets/pdf/TMC24_sdiff.pdf">paper</a>
-      <a href="https://ieeexplore.ieee.org/document/10543054">web</a>
-      <a href="https://github.com/suntong30/sdiff">code</a>
-    </div>
     <div class="publication-badges">
       <a href="https://github.com/suntong30/sdiff"><img src="https://img.shields.io/github/stars/suntong30/sdiff?style=social&amp;label=Code+Stars" alt="sdiff Code Stars"></a>
     </div>
   </article>
 
   <article class="publication-card">
-    <div class="publication-card__topline">
+    <div class="publication-card__header">
       <span class="publication-venue">USENIX ATC'24</span>
-      <span class="publication-id">[C3]</span>
+      <div class="publication-links">
+        <a href="https://suntong30.github.io/assets/pdf/atc24-sun.pdf">paper</a>
+        <a href="https://www.usenix.org/conference/atc24/presentation/sun">web</a>
+        <a href="https://github.com/suntong30/SimEnc">code</a>
+        <a href="https://suntong30.github.io/assets/pdf/ATC24_SimEnc_slides.pdf">slides</a>
+        <a href="https://www.youtube.com/watch?v=o6YZbeAey0k">video</a>
+      </div>
     </div>
-    <h3 class="publication-title"><a href="https://www.usenix.org/conference/atc24/presentation/sun">SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images</a></h3>
+    <h3 class="publication-title"><span class="publication-id">[C3]</span> <a href="https://www.usenix.org/conference/atc24/presentation/sun">SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images</a></h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Bowen Jiang, Borui Li, Jiamei Lv, Yi Gao*, and Wei Dong*.</p>
     <p class="publication-meta"><em>Proceedings of the 2024 USENIX Annual Technical Conference (USENIX ATC), Santa Clara, CA, USA. July 10–12</em>.</p>
     <p class="publication-meta">Acceptance Rate: 15.8% (77 out of 488). <strong class="publication-award">Best Storage Related Paper (3/77)</strong></p>
@@ -269,13 +270,6 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">CORE A.</span>
       <span class="publication-award-pill">Best Storage Related Paper</span>
     </div>
-    <div class="publication-links">
-      <a href="https://suntong30.github.io/assets/pdf/atc24-sun.pdf">paper</a>
-      <a href="https://www.usenix.org/conference/atc24/presentation/sun">web</a>
-      <a href="https://github.com/suntong30/SimEnc">code</a>
-      <a href="https://suntong30.github.io/assets/pdf/ATC24_SimEnc_slides.pdf">slides</a>
-      <a href="https://www.youtube.com/watch?v=o6YZbeAey0k">video</a>
-    </div>
     <div class="publication-badges">
       <a href="https://github.com/suntong30/SimEnc"><img src="https://img.shields.io/github/stars/suntong30/SimEnc?style=social&amp;label=Code+Stars" alt="SimEnc Code Stars"></a>
       <img src="/images/usenixbadges-available.png" alt="USENIX Artifact Available">
@@ -284,11 +278,15 @@ I used to work on (and still build upon) the following topics:
   </article>
 
   <article class="publication-card">
-    <div class="publication-card__topline">
+    <div class="publication-card__header">
       <span class="publication-venue">ACM/IEEE IPSN'24</span>
-      <span class="publication-id">[C2]</span>
+      <div class="publication-links">
+        <a href="https://suntong30.github.io/assets/pdf/IPSN24_dTEE.pdf">paper</a>
+        <a href="https://ieeexplore.ieee.org/document/10577323">web</a>
+        <a href="https://suntong30.github.io/assets/pdf/IPSN24_dTEE_slides.pdf">slides</a>
+      </div>
     </div>
-    <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/document/10577323">dTEE: A Declarative Approach to Secure IoT Applications Using TrustZone</a></h3>
+    <h3 class="publication-title"><span class="publication-id">[C2]</span> <a href="https://ieeexplore.ieee.org/document/10577323">dTEE: A Declarative Approach to Secure IoT Applications Using TrustZone</a></h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Borui Li, Yixiao Teng, Yi Gao, and Wei Dong*.</p>
     <p class="publication-meta"><em>Proceedings of the 23rd ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN), Hong Kong, China. May 13-16</em>.</p>
     <p class="publication-meta">Acceptance Rate: 21.5% (20 out of 93).</p>
@@ -297,19 +295,17 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">THCPL-A.</span>
       <span class="publication-rank">CORE A*.</span>
     </div>
-    <div class="publication-links">
-      <a href="https://suntong30.github.io/assets/pdf/IPSN24_dTEE.pdf">paper</a>
-      <a href="https://ieeexplore.ieee.org/document/10577323">web</a>
-      <a href="https://suntong30.github.io/assets/pdf/IPSN24_dTEE_slides.pdf">slides</a>
-    </div>
   </article>
 
   <article class="publication-card">
-    <div class="publication-card__topline">
+    <div class="publication-card__header">
       <span class="publication-venue">IEEE INFOCOM'24</span>
-      <span class="publication-id">[C1]</span>
+      <div class="publication-links">
+        <a href="https://suntong30.github.io/assets/pdf/INFOCOM24_MDiffPatch.pdf">paper</a>
+        <a href="https://ieeexplore.ieee.org/document/10621326">web</a>
+      </div>
     </div>
-    <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/document/10621326">Exploiting Multiple Similarity Spaces for Efficient and Flexible Incremental Update of Mobile Apps</a></h3>
+    <h3 class="publication-title"><span class="publication-id">[C1]</span> <a href="https://ieeexplore.ieee.org/document/10621326">Exploiting Multiple Similarity Spaces for Efficient and Flexible Incremental Update of Mobile Apps</a></h3>
     <p class="publication-authors">Lewei Jin, Wei Dong*, Bowen Jiang, <strong class="publication-me">Tong Sun</strong>, and Yi Gao*.</p>
     <p class="publication-meta"><em>Proceedings of IEEE Conference on Computer Communications (INFOCOM), Vancouver, Canada. May 20-23</em>.</p>
     <p class="publication-meta">Acceptance Rate: 19.6% (256 out of 1307).</p>
@@ -317,10 +313,6 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">CCF-A.</span>
       <span class="publication-rank">THCPL-A.</span>
       <span class="publication-rank">CORE A*.</span>
-    </div>
-    <div class="publication-links">
-      <a href="https://suntong30.github.io/assets/pdf/INFOCOM24_MDiffPatch.pdf">paper</a>
-      <a href="https://ieeexplore.ieee.org/document/10621326">web</a>
     </div>
   </article>
 </div>

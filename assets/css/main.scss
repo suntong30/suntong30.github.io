@@ -121,7 +121,7 @@ h1:before, .anchor:before {
 
 .publication-list {
     display: grid;
-    grid-template-columns: minmax(0, 1fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1rem;
     margin: .75rem 0 1.7rem 0;
 }
@@ -145,39 +145,41 @@ h1:before, .anchor:before {
     box-shadow: 0 10px 24px rgba(31, 38, 135, .13);
 }
 
-.publication-card__topline {
+.publication-card__header {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
-    gap: .5rem;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: .45rem .75rem;
 }
 
 .publication-venue {
     display: inline-flex;
     align-items: center;
-    min-height: 1.55rem;
-    padding: .1rem .55rem;
+    min-height: 1.6rem;
+    padding: .12rem .62rem;
     border: 1px solid rgba(189, 102, 109, .18);
     border-radius: 999px;
     background: rgba(189, 102, 109, .1);
     color: #9f4148;
-    font-size: .78em;
+    font-size: .86em;
     font-weight: 700;
     line-height: 1.2;
 }
 
 .publication-id {
-    color: #555;
-    font-size: .9em;
+    color: #BD666D;
+    font-size: .88em;
     font-weight: 700;
+    white-space: nowrap;
 }
 
 .page__content .publication-title {
-    margin: .55rem 0 .4rem 0;
+    margin: .55rem 0 .35rem 0;
     color: #1f2933;
-    font-size: 1rem;
+    font-size: .98rem;
     font-weight: 700;
-    line-height: 1.35;
+    line-height: 1.32;
 }
 
 .page__content .publication-title a {
@@ -191,10 +193,10 @@ h1:before, .anchor:before {
 
 .publication-authors,
 .publication-meta {
-    margin: .25rem 0;
+    margin: .22rem 0;
     color: #4a4f55;
-    font-size: .92em;
-    line-height: 1.5;
+    font-size: .88em;
+    line-height: 1.45;
 }
 
 .publication-me {
@@ -208,7 +210,7 @@ h1:before, .anchor:before {
     display: flex;
     flex-wrap: wrap;
     gap: .35rem;
-    margin-top: .65rem;
+    margin-top: .58rem;
 }
 
 .publication-rank {
@@ -245,19 +247,21 @@ h1:before, .anchor:before {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: .45rem;
-    margin-top: .7rem;
+    justify-content: flex-end;
+    gap: .3rem;
+    margin-top: 0;
+    flex: 1 1 10rem;
 }
 
 .publication-links a,
 .publication-links span {
     display: inline-flex;
     align-items: center;
-    min-height: 1.65rem;
-    padding: .12rem .55rem;
+    min-height: 1.45rem;
+    padding: .08rem .42rem;
     border: 1px solid #e2e5e9;
     border-radius: 999px;
-    font-size: .86em;
+    font-size: .78em;
     font-weight: 600;
     line-height: 1.2;
     text-decoration: none;
@@ -283,8 +287,8 @@ h1:before, .anchor:before {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: .45rem;
-    margin-top: .75rem;
+    gap: .35rem;
+    margin-top: .62rem;
 }
 
 .publication-badges a {
@@ -294,7 +298,7 @@ h1:before, .anchor:before {
 
 .publication-badges img {
     width: auto;
-    max-height: 40px;
+    max-height: 34px;
     margin: 0;
     border: 0;
     box-shadow: none;
@@ -302,7 +306,13 @@ h1:before, .anchor:before {
 }
 
 .publication-badges a:first-child img {
-    max-height: 20px;
+    max-height: 18px;
+}
+
+@media (max-width: 900px) {
+    .publication-list {
+        grid-template-columns: minmax(0, 1fr);
+    }
 }
 
 @media (max-width: 600px) {
@@ -310,10 +320,15 @@ h1:before, .anchor:before {
         padding: .9rem 1rem 1rem 1rem;
     }
 
-    .publication-card__topline,
+    .publication-card__header,
     .publication-links,
     .publication-ranks,
     .publication-badges {
         gap: .35rem;
+    }
+
+    .publication-links {
+        justify-content: flex-start;
+        flex-basis: 100%;
     }
 }
