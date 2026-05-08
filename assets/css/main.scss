@@ -111,7 +111,7 @@ h1:before, .anchor:before {
 .publication-note {
     margin: 0 0 .35rem 0;
     color: #4a4a4a;
-    font-size: .92em;
+    font-size: .96em;
     line-height: 1.5;
 }
 
@@ -172,13 +172,13 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 .publication-venue {
     display: inline-flex;
     align-items: center;
-    min-height: 1.6rem;
-    padding: .12rem .62rem;
+    min-height: 1.68rem;
+    padding: .14rem .68rem;
     border: 1px solid rgba($publication-conference-color, .18);
     border-radius: 999px;
     background: rgba($publication-conference-color, .1);
     color: #9f4148;
-    font-size: .86em;
+    font-size: .92em;
     font-weight: 700;
     line-height: 1.2;
 }
@@ -197,7 +197,7 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 
 .publication-id {
     color: $publication-conference-color;
-    font-size: .88em;
+    font-size: .92em;
     font-weight: 700;
     white-space: nowrap;
 }
@@ -213,7 +213,7 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 .page__content .publication-title {
     margin: .55rem 0 .35rem 0;
     color: #1f2933;
-    font-size: .98rem;
+    font-size: 1.06rem;
     font-weight: 700;
     line-height: 1.32;
 }
@@ -239,7 +239,7 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 .publication-meta {
     margin: .22rem 0;
     color: #4a4f55;
-    font-size: .88em;
+    font-size: .93em;
     line-height: 1.45;
 }
 
@@ -260,12 +260,12 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 .publication-rank {
     display: inline-flex;
     align-items: center;
-    min-height: 1.45rem;
-    padding: .08rem .4rem;
+    min-height: 1.5rem;
+    padding: .1rem .45rem;
     border-radius: 5px;
     background: rgba($publication-conference-color, .1);
     color: $publication-conference-color;
-    font-size: .84em;
+    font-size: .9em;
     font-weight: 700;
     line-height: 1.2;
 }
@@ -287,12 +287,12 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 .publication-award-pill {
     display: inline-flex;
     align-items: center;
-    min-height: 1.45rem;
-    padding: .08rem .45rem;
+    min-height: 1.5rem;
+    padding: .1rem .5rem;
     border-radius: 5px;
     background: #1A1A1A;
     color: #FFD700;
-    font-size: .84em;
+    font-size: .9em;
     font-weight: 700;
     line-height: 1.2;
 }
@@ -311,11 +311,11 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 .publication-links span {
     display: inline-flex;
     align-items: center;
-    min-height: 1.45rem;
-    padding: .08rem .42rem;
+    min-height: 1.5rem;
+    padding: .1rem .48rem;
     border: 1px solid #e2e5e9;
     border-radius: 999px;
-    font-size: .78em;
+    font-size: .84em;
     font-weight: 600;
     line-height: 1.2;
     text-decoration: none;
