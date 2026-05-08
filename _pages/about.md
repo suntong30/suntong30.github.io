@@ -193,9 +193,6 @@ I used to work on (and still build upon) the following topics:
     <div class="publication-card__header">
       <span class="publication-venue">ACM CCS'25</span>
       <div class="publication-links">
-        <span class="publication-artifact-badge"><img src="/images/available.png" alt="Artifact Available"></span>
-        <span class="publication-artifact-badge"><img src="/images/functional.png" alt="Artifact Functional"></span>
-        <span class="publication-artifact-badge"><img src="/images/reproduced.png" alt="Artifact Reproduced"></span>
         <a href="https://dl.acm.org/doi/10.1145/3719027.3744798">paper</a>
         <a href="https://dl.acm.org/doi/10.1145/3719027.3744798">web</a>
         <a href="https://github.com/suntong30/TensorShield"><img src="https://img.shields.io/github/stars/suntong30/TensorShield?style=social&amp;label=Code+Stars" alt="TensorShield Code Stars"></a>
@@ -210,6 +207,11 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">CCF-A.</span>
       <span class="publication-rank">THCPL-A.</span>
       <span class="publication-rank">CORE A*.</span>
+    </div>
+    <div class="publication-badges">
+      <img src="/images/available.png" alt="Artifact Available">
+      <img src="/images/functional.png" alt="Artifact Functional">
+      <img src="/images/reproduced.png" alt="Artifact Reproduced">
     </div>
   </article>
 
@@ -238,8 +240,6 @@ I used to work on (and still build upon) the following topics:
     <div class="publication-card__header">
       <span class="publication-venue">USENIX ATC'24</span>
       <div class="publication-links">
-        <span class="publication-artifact-badge"><img src="/images/usenixbadges-available.png" alt="USENIX Artifact Available"></span>
-        <span class="publication-artifact-badge"><img src="/images/usenixbadges-functional.png" alt="USENIX Artifact Functional"></span>
         <a href="https://suntong30.github.io/assets/pdf/atc24-sun.pdf">paper</a>
         <a href="https://www.usenix.org/conference/atc24/presentation/sun">web</a>
         <a href="https://github.com/suntong30/SimEnc"><img src="https://img.shields.io/github/stars/suntong30/SimEnc?style=social&amp;label=Code+Stars" alt="SimEnc Code Stars"></a>
@@ -256,6 +256,10 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">THCPL-A.</span>
       <span class="publication-rank">CORE A.</span>
       <span class="publication-award-pill">Best Storage Related Paper</span>
+    </div>
+    <div class="publication-badges">
+      <img src="/images/usenixbadges-available.png" alt="USENIX Artifact Available">
+      <img src="/images/usenixbadges-functional.png" alt="USENIX Artifact Functional">
     </div>
   </article>
   
