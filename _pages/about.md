@@ -155,7 +155,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
 
-  <article class="publication-card">
+  <article class="publication-card publication-card--journal">
     <div class="publication-card__header">
       <span class="publication-venue">IEEE TMC'26</span>
       <div class="publication-links">
@@ -203,7 +203,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
 
-  <article class="publication-card">
+  <article class="publication-card publication-card--journal">
     <div class="publication-card__header">
       <span class="publication-venue">ACM TOS'25</span>
       <div class="publication-links">
@@ -227,7 +227,7 @@ I used to work on (and still build upon) the following topics:
 
 ## 2024
 <div class="publication-list">
-  <article class="publication-card">
+  <article class="publication-card publication-card--journal">
     <div class="publication-card__header">
       <span class="publication-venue">IEEE TMC'24</span>
       <div class="publication-links">

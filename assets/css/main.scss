@@ -119,6 +119,10 @@ h1:before, .anchor:before {
     margin-bottom: 1.2rem;
 }
 
+$publication-conference-color: #BD666D;
+$publication-journal-color: #0092ca;
+$publication-journal-dark-color: #004965;
+
 .publication-list {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -132,7 +136,7 @@ h1:before, .anchor:before {
     padding: 1rem 1.15rem 1.05rem 1.25rem;
     background: #fff;
     border: 1px solid #ececec;
-    border-left: 4px solid #BD666D;
+    border-left: 4px solid transparent;
     border-radius: 8px;
     box-shadow: 0 3px 10px rgba(31, 38, 135, .06);
     transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
@@ -141,8 +145,13 @@ h1:before, .anchor:before {
 .publication-card:hover {
     transform: translateY(-3px);
     border-color: #ead9dc;
-    border-left-color: #BD666D;
+    border-left-color: $publication-conference-color;
     box-shadow: 0 10px 24px rgba(31, 38, 135, .13);
+}
+
+.publication-card--journal:hover {
+    border-color: rgba($publication-journal-color, .24);
+    border-left-color: $publication-journal-color;
 }
 
 .publication-card__header {
@@ -158,20 +167,30 @@ h1:before, .anchor:before {
     align-items: center;
     min-height: 1.6rem;
     padding: .12rem .62rem;
-    border: 1px solid rgba(189, 102, 109, .18);
+    border: 1px solid rgba($publication-conference-color, .18);
     border-radius: 999px;
-    background: rgba(189, 102, 109, .1);
+    background: rgba($publication-conference-color, .1);
     color: #9f4148;
     font-size: .86em;
     font-weight: 700;
     line-height: 1.2;
 }
 
+.publication-card--journal .publication-venue {
+    border-color: rgba($publication-journal-color, .2);
+    background: rgba($publication-journal-color, .1);
+    color: $publication-journal-dark-color;
+}
+
 .publication-id {
-    color: #BD666D;
+    color: $publication-conference-color;
     font-size: .88em;
     font-weight: 700;
     white-space: nowrap;
+}
+
+.publication-card--journal .publication-id {
+    color: $publication-journal-color;
 }
 
 .page__content .publication-title {
@@ -188,7 +207,11 @@ h1:before, .anchor:before {
 }
 
 .page__content .publication-title a:hover {
-    color: #BD666D;
+    color: $publication-conference-color;
+}
+
+.page__content .publication-card--journal .publication-title a:hover {
+    color: $publication-journal-color;
 }
 
 .publication-authors,
@@ -219,11 +242,16 @@ h1:before, .anchor:before {
     min-height: 1.45rem;
     padding: .08rem .4rem;
     border-radius: 5px;
-    background: rgba(189, 102, 109, .1);
-    color: #BD666D;
+    background: rgba($publication-conference-color, .1);
+    color: $publication-conference-color;
     font-size: .84em;
     font-weight: 700;
     line-height: 1.2;
+}
+
+.publication-card--journal .publication-rank {
+    background: rgba($publication-journal-color, .1);
+    color: $publication-journal-color;
 }
 
 .publication-award {
@@ -273,9 +301,15 @@ h1:before, .anchor:before {
 }
 
 .publication-links a:hover {
-    border-color: rgba(189, 102, 109, .35);
-    background: rgba(189, 102, 109, .08);
-    color: #BD666D;
+    border-color: rgba($publication-conference-color, .35);
+    background: rgba($publication-conference-color, .08);
+    color: $publication-conference-color;
+}
+
+.publication-card--journal .publication-links a:hover {
+    border-color: rgba($publication-journal-color, .35);
+    background: rgba($publication-journal-color, .08);
+    color: $publication-journal-color;
 }
 
 .publication-links span {
