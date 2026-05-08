@@ -149,9 +149,9 @@ I used to work on (and still build upon) the following topics:
     <p class="publication-meta"><em>Forty-third International Conference on Machine Learning (ICML), Seoul, South Korea. July 6-11, 2026</em>.</p>
     <p class="publication-meta">Acceptance Rate: 26.6% (6352 out of 23918).</p>
     <div class="publication-ranks">
-      <span class="publication-rank">CCF-A.</span>
-      <span class="publication-rank">THCPL-A.</span>
-      <span class="publication-rank">CORE A*.</span>
+      <span class="publication-rank">CCF-A</span>
+      <span class="publication-rank">THCPL-A</span>
+      <span class="publication-rank">CORE A*</span>
     </div>
   </article>
 
@@ -168,8 +168,8 @@ I used to work on (and still build upon) the following topics:
     <p class="publication-meta"><em>IEEE Transactions on Mobile Computing (TMC)</em>.</p>
     <p class="publication-meta">IF=9.2(2025), JCR Q1.</p>
     <div class="publication-ranks">
-      <span class="publication-rank">CCF-A.</span>
-      <span class="publication-rank">THCPL-A.</span>
+      <span class="publication-rank">CCF-A</span>
+      <span class="publication-rank">THCPL-A</span>
     </div>
   </article>
 
@@ -204,9 +204,9 @@ I used to work on (and still build upon) the following topics:
     <p class="publication-meta"><em>Proceedings of ACM Conference on Computer and Communications Security (CCS), October 13-17, 2025</em>.</p>
     <p class="publication-meta">Acceptance Rate: Cycle A 12.5% (102 out of 816), Cycle A AI sec track 11.8% (24 out of 204).</p>
     <div class="publication-ranks">
-      <span class="publication-rank">CCF-A.</span>
-      <span class="publication-rank">THCPL-A.</span>
-      <span class="publication-rank">CORE A*.</span>
+      <span class="publication-rank">CCF-A</span>
+      <span class="publication-rank">THCPL-A</span>
+      <span class="publication-rank">CORE A*</span>
     </div>
     <div class="publication-badges">
       <img src="/images/available.png" alt="Artifact Available">
@@ -228,8 +228,8 @@ I used to work on (and still build upon) the following topics:
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Bowen Jiang, Borui Li, Jiamei Lv, Yi Gao*, and Wei Dong*.</p>
     <p class="publication-meta"><em>ACM Transactions on Storage (TOS)</em>.</p>
     <div class="publication-ranks">
-      <span class="publication-rank">CCF-A.</span>
-      <span class="publication-rank">THCPL-A.</span>
+      <span class="publication-rank">CCF-A</span>
+      <span class="publication-rank">THCPL-A</span>
     </div>
   </article>
 </div>
@@ -252,9 +252,9 @@ I used to work on (and still build upon) the following topics:
     <p class="publication-meta"><em>Proceedings of the 2024 USENIX Annual Technical Conference (USENIX ATC), Santa Clara, CA, USA. July 10–12</em>.</p>
     <p class="publication-meta">Acceptance Rate: 15.8% (77 out of 488). <strong class="publication-award">Best Storage Related Paper (3/77)</strong></p>
     <div class="publication-ranks">
-      <span class="publication-rank">CCF-A.</span>
-      <span class="publication-rank">THCPL-A.</span>
-      <span class="publication-rank">CORE A.</span>
+      <span class="publication-rank">CCF-A</span>
+      <span class="publication-rank">THCPL-A</span>
+      <span class="publication-rank">CORE A</span>
       <span class="publication-award-pill">Best Storage Related Paper</span>
     </div>
     <div class="publication-badges">
@@ -277,8 +277,8 @@ I used to work on (and still build upon) the following topics:
     <p class="publication-meta"><em>IEEE Transactions on Mobile Computing (TMC)</em>.</p>
     <p class="publication-meta">IF=9.2(2025), JCR Q1.</p>
     <div class="publication-ranks">
-      <span class="publication-rank">CCF-A.</span>
-      <span class="publication-rank">THCPL-A.</span>
+      <span class="publication-rank">CCF-A</span>
+      <span class="publication-rank">THCPL-A</span>
     </div>
   </article>
 
@@ -296,9 +296,9 @@ I used to work on (and still build upon) the following topics:
     <p class="publication-meta"><em>Proceedings of the 23rd ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN), Hong Kong, China. May 13-16</em>.</p>
     <p class="publication-meta">Acceptance Rate: 21.5% (20 out of 93).</p>
     <div class="publication-ranks">
-      <span class="publication-rank">CCF-B.</span>
-      <span class="publication-rank">THCPL-A.</span>
-      <span class="publication-rank">CORE A*.</span>
+      <span class="publication-rank">CCF-B</span>
+      <span class="publication-rank">THCPL-A</span>
+      <span class="publication-rank">CORE A*</span>
     </div>
   </article>
 
@@ -315,9 +315,9 @@ I used to work on (and still build upon) the following topics:
     <p class="publication-meta"><em>Proceedings of IEEE Conference on Computer Communications (INFOCOM), Vancouver, Canada. May 20-23</em>.</p>
     <p class="publication-meta">Acceptance Rate: 19.6% (256 out of 1307).</p>
     <div class="publication-ranks">
-      <span class="publication-rank">CCF-A.</span>
-      <span class="publication-rank">THCPL-A.</span>
-      <span class="publication-rank">CORE A*.</span>
+      <span class="publication-rank">CCF-A</span>
+      <span class="publication-rank">THCPL-A</span>
+      <span class="publication-rank">CORE A*</span>
     </div>
   </article>
 </div>
