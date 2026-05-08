@@ -46,15 +46,21 @@
         max-width: none;
         margin-left: 0;
         margin-right: 0;
-        padding-left: clamp(1rem, 2vw, 2rem);
+        padding-left: 0;
         padding-right: clamp(1rem, 2vw, 2rem);
     }
 
     .sidebar {
+        float: none;
+        position: fixed;
+        top: 5rem;
+        left: clamp(1rem, 2vw, 2rem);
         width: clamp(280px, 18vw, 360px);
+        max-height: calc(100vh - 6rem);
         margin-right: 0;
         margin-bottom: 0;
         padding-right: 0;
+        overflow-y: auto;
     }
 
     .page {
@@ -90,11 +96,14 @@
     .sidebar,
     .page {
         float: none;
+        position: static;
         width: 100%;
+        max-height: none;
         margin-left: 0;
         margin-right: 0;
         padding-left: 0;
         padding-right: 0;
+        overflow-y: visible;
     }
 
     .publication-list {
