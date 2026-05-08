@@ -195,7 +195,7 @@ I used to work on (and still build upon) the following topics:
       <div class="publication-links">
         <a href="https://dl.acm.org/doi/10.1145/3719027.3744798">paper</a>
         <a href="https://dl.acm.org/doi/10.1145/3719027.3744798">web</a>
-        <a href="https://github.com/suntong30/TensorShield">code</a>
+        <a href="https://github.com/suntong30/TensorShield"><img src="https://img.shields.io/github/stars/suntong30/TensorShield?style=social&amp;label=Code+Stars" alt="TensorShield Code Stars"></a>
         <span>slides</span>
       </div>
     </div>
@@ -207,9 +207,6 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">CCF-A.</span>
       <span class="publication-rank">THCPL-A.</span>
       <span class="publication-rank">CORE A*.</span>
-    </div>
-    <div class="publication-badges">
-      <a href="https://github.com/suntong30/TensorShield"><img src="https://img.shields.io/github/stars/suntong30/TensorShield?style=social&amp;label=Code+Stars" alt="TensorShield Code Stars"></a>
       <img src="/images/available.png" alt="Artifact Available">
       <img src="/images/functional.png" alt="Artifact Functional">
       <img src="/images/reproduced.png" alt="Artifact Reproduced">
