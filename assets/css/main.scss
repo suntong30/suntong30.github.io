@@ -40,6 +40,68 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+@media (min-width: 1025px) {
+    #main {
+        width: 100%;
+        max-width: none;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: clamp(1rem, 2vw, 2rem);
+        padding-right: clamp(1rem, 2vw, 2rem);
+    }
+
+    .sidebar {
+        width: clamp(280px, 18vw, 360px);
+        margin-right: 0;
+        margin-bottom: 0;
+        padding-right: 0;
+    }
+
+    .page {
+        float: none;
+        width: auto;
+        max-width: none;
+        margin-left: clamp(320px, 22vw, 400px);
+        margin-right: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .author__avatar {
+        text-align: center;
+    }
+
+    .author__avatar img {
+        max-width: 190px;
+    }
+
+    .author__urls-wrapper,
+    .author__urls {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1024px) {
+    #main {
+        width: 100%;
+        max-width: $site-container-width;
+    }
+
+    .sidebar,
+    .page {
+        float: none;
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .publication-list {
+        grid-template-columns: minmax(0, 1fr);
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
