@@ -207,6 +207,8 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">CCF-A.</span>
       <span class="publication-rank">THCPL-A.</span>
       <span class="publication-rank">CORE A*.</span>
+    </div>
+    <div class="publication-badges">
       <img src="/images/available.png" alt="Artifact Available">
       <img src="/images/functional.png" alt="Artifact Functional">
       <img src="/images/reproduced.png" alt="Artifact Reproduced">
