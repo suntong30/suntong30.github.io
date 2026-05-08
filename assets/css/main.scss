@@ -107,3 +107,213 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.publication-note {
+    margin: 0 0 .35rem 0;
+    color: #4a4a4a;
+    font-size: .92em;
+    line-height: 1.5;
+}
+
+.publication-rank-note {
+    margin-bottom: 1.2rem;
+}
+
+.publication-list {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+    margin: .75rem 0 1.7rem 0;
+}
+
+.publication-card {
+    position: relative;
+    overflow: hidden;
+    padding: 1rem 1.15rem 1.05rem 1.25rem;
+    background: #fff;
+    border: 1px solid #ececec;
+    border-left: 4px solid #BD666D;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(31, 38, 135, .06);
+    transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+}
+
+.publication-card:hover {
+    transform: translateY(-3px);
+    border-color: #ead9dc;
+    border-left-color: #BD666D;
+    box-shadow: 0 10px 24px rgba(31, 38, 135, .13);
+}
+
+.publication-card__topline {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .5rem;
+}
+
+.publication-venue {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.55rem;
+    padding: .1rem .55rem;
+    border: 1px solid rgba(189, 102, 109, .18);
+    border-radius: 999px;
+    background: rgba(189, 102, 109, .1);
+    color: #9f4148;
+    font-size: .78em;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.publication-id {
+    color: #555;
+    font-size: .9em;
+    font-weight: 700;
+}
+
+.page__content .publication-title {
+    margin: .55rem 0 .4rem 0;
+    color: #1f2933;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.35;
+}
+
+.page__content .publication-title a {
+    color: #1f2933;
+    text-decoration: none;
+}
+
+.page__content .publication-title a:hover {
+    color: #BD666D;
+}
+
+.publication-authors,
+.publication-meta {
+    margin: .25rem 0;
+    color: #4a4f55;
+    font-size: .92em;
+    line-height: 1.5;
+}
+
+.publication-me {
+    color: #111;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+}
+
+.publication-ranks {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .35rem;
+    margin-top: .65rem;
+}
+
+.publication-rank {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.45rem;
+    padding: .08rem .4rem;
+    border-radius: 5px;
+    background: rgba(189, 102, 109, .1);
+    color: #BD666D;
+    font-size: .84em;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.publication-award {
+    color: #C00000;
+}
+
+.publication-award-pill {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.45rem;
+    padding: .08rem .45rem;
+    border-radius: 5px;
+    background: #1A1A1A;
+    color: #FFD700;
+    font-size: .84em;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.publication-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .45rem;
+    margin-top: .7rem;
+}
+
+.publication-links a,
+.publication-links span {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.65rem;
+    padding: .12rem .55rem;
+    border: 1px solid #e2e5e9;
+    border-radius: 999px;
+    font-size: .86em;
+    font-weight: 600;
+    line-height: 1.2;
+    text-decoration: none;
+}
+
+.publication-links a {
+    background: #f7fafd;
+    color: #294b7a;
+}
+
+.publication-links a:hover {
+    border-color: rgba(189, 102, 109, .35);
+    background: rgba(189, 102, 109, .08);
+    color: #BD666D;
+}
+
+.publication-links span {
+    background: #f7f7f7;
+    color: #9a9a9a;
+}
+
+.publication-badges {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .45rem;
+    margin-top: .75rem;
+}
+
+.publication-badges a {
+    display: inline-flex;
+    align-items: center;
+}
+
+.publication-badges img {
+    width: auto;
+    max-height: 40px;
+    margin: 0;
+    border: 0;
+    box-shadow: none;
+    object-fit: contain;
+}
+
+.publication-badges a:first-child img {
+    max-height: 20px;
+}
+
+@media (max-width: 600px) {
+    .publication-card {
+        padding: .9rem 1rem 1rem 1rem;
+    }
+
+    .publication-card__topline,
+    .publication-links,
+    .publication-ranks,
+    .publication-badges {
+        gap: .35rem;
+    }
+}
