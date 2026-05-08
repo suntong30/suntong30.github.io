@@ -62,12 +62,8 @@ I work on **systems and security for AIoT**, with a focus on **system software f
 
 I’m currently working on the following directions:
 - **Generative safe OS with confidential computing support for IoT** — Toward automatically constructing a secure-by-default OS and toolchain for TEE-enabled IoT devices.
-  - **LLM-assisted secure application development:** frameworks that help developers build TEE-based secure IoT applications correctly.
-    - [[IPSN'24, dTEE]](https://ieeexplore.ieee.org/document/10577323)
-
-- **Real-time, cloud–edge–end collaborative confidential AI inference** — Key techniques for low-latency and privacy-preserving inference on IoT devices with TEE support.
-  - [[CCS'25, TensorShield]](https://dl.acm.org/doi/10.1145/3719027.3744798)
-  - [[ICML'26, RTInfer]]()
+  - **LLM-assisted secure application development:** frameworks that help developers build TEE-based secure IoT applications correctly [[IPSN'24, dTEE]](https://ieeexplore.ieee.org/document/10577323).
+- **Real-time, cloud–edge–end collaborative confidential AI inference** — Key techniques for low-latency and privacy-preserving inference on IoT devices with TEE support [[CCS'25, TensorShield]](https://dl.acm.org/doi/10.1145/3719027.3744798) [[ICML'26, RTInfer]]().
 
 I used to work on (and still build upon) the following topics:
 - **Delta compression / differencing algorithms for software updates**
