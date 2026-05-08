@@ -207,11 +207,11 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">CCF-A</span>
       <span class="publication-rank">THCPL-A</span>
       <span class="publication-rank">CORE A*</span>
-    </div>
-    <div class="publication-badges">
-      <img src="/images/available.png" alt="Artifact Available">
-      <img src="/images/functional.png" alt="Artifact Functional">
-      <img src="/images/reproduced.png" alt="Artifact Reproduced">
+      <span class="publication-rank-badges">
+        <img src="/images/available.png" alt="Artifact Available">
+        <img src="/images/functional.png" alt="Artifact Functional">
+        <img src="/images/reproduced.png" alt="Artifact Reproduced">
+      </span>
     </div>
   </article>
 
@@ -255,11 +255,13 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">CCF-A</span>
       <span class="publication-rank">THCPL-A</span>
       <span class="publication-rank">CORE A</span>
-      <span class="publication-award-pill">Best Storage Related Paper</span>
+      <span class="publication-rank-badges">
+        <img src="/images/usenixbadges-available.png" alt="USENIX Artifact Available">
+        <img src="/images/usenixbadges-functional.png" alt="USENIX Artifact Functional">
+      </span>
     </div>
-    <div class="publication-badges">
-      <img src="/images/usenixbadges-available.png" alt="USENIX Artifact Available">
-      <img src="/images/usenixbadges-functional.png" alt="USENIX Artifact Functional">
+    <div class="publication-award-row">
+      <span class="publication-award-pill">Best Storage Related Paper</span>
     </div>
   </article>
   

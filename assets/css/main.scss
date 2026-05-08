@@ -324,6 +324,7 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 .publication-ranks {
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
     gap: .35rem;
     margin-top: .58rem;
 }
@@ -355,6 +356,14 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
     color: #C00000;
 }
 
+.publication-award-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .35rem;
+    margin-top: .4rem;
+}
+
 .publication-award-pill {
     display: inline-flex;
     align-items: center;
@@ -366,6 +375,22 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
     font-size: .9em;
     font-weight: 700;
     line-height: 1.2;
+}
+
+.publication-rank-badges {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .3rem;
+}
+
+.publication-rank-badges img {
+    width: auto;
+    max-height: 30px;
+    margin: 0;
+    border: 0;
+    box-shadow: none;
+    object-fit: contain;
 }
 
 .publication-links {
@@ -460,6 +485,7 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
     .publication-card__header,
     .publication-links,
     .publication-ranks,
+    .publication-award-row,
     .publication-badges {
         gap: .35rem;
     }
@@ -467,5 +493,9 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
     .publication-links {
         justify-content: flex-start;
         flex-basis: 100%;
+    }
+
+    .publication-rank-badges img {
+        max-height: 26px;
     }
 }
