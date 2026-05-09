@@ -616,9 +616,32 @@ I used to work on (and still build upon) the following topics:
   - B.E. in Electronic and Information Engineering
 
 # 💬 Invited Talks
-- *2025.10*, [ACM CCS'25 - Machine Learning and Security #2 Session] TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE, Online.
-- *2024.07*, [USENIX ATC'24 - Security 1 Session] SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images, Santa Clara, USA. \| [\[video\]](https://www.youtube.com/watch?v=o6YZbeAey0k)
-- *2024.05*, [ACM/IEEE IPSN'24 - Privacy/Security Session] dTEE: A Declarative Approach to Secure IoT Applications Using TrustZone, Hong Kong, China.
+<div class="talk-list">
+  <article class="talk-entry">
+    <div class="talk-entry__header">
+      <time class="talk-date">2025.10</time>
+      <span class="talk-venue">ACM CCS'25 · Machine Learning and Security #2 Session</span>
+    </div>
+    <h3 class="talk-title">TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE</h3>
+    <p class="talk-location">Online</p>
+  </article>
+  <article class="talk-entry">
+    <div class="talk-entry__header">
+      <time class="talk-date">2024.07</time>
+      <span class="talk-venue">USENIX ATC'24 · Security 1 Session</span>
+    </div>
+    <h3 class="talk-title">SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images</h3>
+    <p class="talk-location">Santa Clara, USA <a class="talk-link-chip" href="https://www.youtube.com/watch?v=o6YZbeAey0k">video</a></p>
+  </article>
+  <article class="talk-entry">
+    <div class="talk-entry__header">
+      <time class="talk-date">2024.05</time>
+      <span class="talk-venue">ACM/IEEE IPSN'24 · Privacy/Security Session</span>
+    </div>
+    <h3 class="talk-title">dTEE: A Declarative Approach to Secure IoT Applications Using TrustZone</h3>
+    <p class="talk-location">Hong Kong, China</p>
+  </article>
+</div>
 
 # 🧱 Patents
 - Zhendong Li, Wei Dong, Lewei Jin, **Tong Sun**, Jia Chang. 数据更新的方法、装置、设备及计算机可读存储介质[P]. 中国专利: CN2023108756139. 2025.01.14. (已公开)

@@ -198,6 +198,9 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 $service-color: #b7791f;
 $service-bg: rgba(255, 248, 230, .8);
 $service-border-color: rgba(183, 121, 31, .24);
+$talk-color: #475569;
+$talk-bg: rgba(71, 85, 105, .08);
+$talk-border-color: rgba(71, 85, 105, .2);
 
 .publication-list {
     display: grid;
@@ -726,6 +729,87 @@ $service-border-color: rgba(183, 121, 31, .24);
 .page__content .honor-link-chip:hover {
     background: rgba($info-color, .16);
     color: darken($info-color, 8%);
+    text-decoration: none;
+}
+
+.talk-list {
+    display: grid;
+    gap: .85rem;
+    margin: .75rem 0 1.7rem 0;
+}
+
+.talk-entry {
+    padding: .95rem 1.05rem 1rem 1.05rem;
+    background: #fff;
+    border: 1px solid #ececec;
+    border-left: 4px solid rgba($talk-color, .34);
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(31, 38, 135, .06);
+    transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+}
+
+.talk-entry:hover {
+    transform: translateY(-3px);
+    border-color: $talk-border-color;
+    border-left-color: $talk-color;
+    box-shadow: 0 10px 24px rgba(31, 38, 135, .13);
+}
+
+.talk-entry__header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .45rem;
+    margin-bottom: .55rem;
+}
+
+.talk-date,
+.talk-venue,
+.page__content .talk-link-chip {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.42rem;
+    padding: .1rem .46rem;
+    border-radius: 5px;
+    background: $talk-bg;
+    color: $talk-color;
+    font-size: .9rem;
+    font-weight: 700;
+    line-height: 1.2;
+    text-decoration: none;
+}
+
+.talk-date {
+    white-space: nowrap;
+}
+
+.talk-venue {
+    max-width: 100%;
+}
+
+.page__content .talk-title {
+    margin: 0;
+    color: #2f3337;
+    font-size: 1.04rem;
+    font-weight: 700;
+    line-height: 1.38;
+}
+
+.page__content .talk-location {
+    margin: .3rem 0 0 0;
+    color: #5b626b;
+    font-size: .95rem;
+    line-height: 1.42;
+}
+
+.page__content .talk-link-chip {
+    margin-left: .35rem;
+    white-space: nowrap;
+}
+
+.page__content .talk-link-chip:hover {
+    background: rgba($talk-color, .14);
+    color: darken($talk-color, 8%);
     text-decoration: none;
 }
 
