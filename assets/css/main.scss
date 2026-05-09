@@ -195,6 +195,9 @@ $publication-journal-color: #0092ca;
 $publication-journal-dark-color: #004965;
 $publication-chinese-journal-color: #8a63d2;
 $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
+$service-color: #b7791f;
+$service-bg: rgba(255, 248, 230, .8);
+$service-border-color: rgba(183, 121, 31, .24);
 
 .publication-list {
     display: grid;
@@ -473,8 +476,9 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 
 .service-grid {
     display: grid;
-    grid-template-columns: minmax(0, 1fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1.05rem;
+    align-items: start;
     margin: .75rem 0 1.7rem 0;
 }
 
@@ -489,7 +493,7 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 
 .service-card:hover {
     transform: translateY(-3px);
-    border-color: rgba($info-color, .18);
+    border-color: $service-border-color;
     box-shadow: 0 10px 24px rgba(31, 38, 135, .13);
 }
 
@@ -505,7 +509,7 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 }
 
 .service-card__title i {
-    color: $info-color;
+    color: $service-color;
     font-size: .95em;
 }
 
@@ -546,7 +550,7 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
     flex: 0 0 .38rem;
     margin-top: .48em;
     border-radius: 999px;
-    background: #98a2b3;
+    background: rgba($service-color, .42);
 }
 
 .service-entry__name {
@@ -562,8 +566,8 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
     min-height: 1.45rem;
     padding: .1rem .46rem;
     border-radius: 5px;
-    background: rgba($info-color, .1);
-    color: $info-color;
+    background: $service-bg;
+    color: $service-color;
     font-size: .9em;
     font-weight: 700;
     line-height: 1.2;
