@@ -393,18 +393,12 @@ I used to work on (and still build upon) the following topics:
     </div>
 
     <div class="service-section">
-      <h4 class="service-section__title">Conference</h4>
+      <h4 class="service-section__title">Conference / External</h4>
       <div class="service-list">
         <div class="service-entry">
           <span class="service-entry__name">IEEE HPCC</span>
           <span class="service-entry__year">2024</span>
         </div>
-      </div>
-    </div>
-
-    <div class="service-section">
-      <h4 class="service-section__title">External</h4>
-      <div class="service-list">
         <div class="service-entry">
           <span class="service-entry__name">ICML</span>
           <span class="service-entry__year">2026</span>
