@@ -321,11 +321,87 @@ I used to work on (and still build upon) the following topics:
 </div>
 
 # 🔍 Academic Services
-- **Technical Program Committee**: ACM EuroSys 2026 (Shadow), IEEE DIKW 2025
-- **Program Committee for Artifact Evaluation**: USENIX OSDI 2025-2026, USENIX ATC 2025, USENIX FAST 2026, IEEE S&P 2026, ACM CCS 2025-2026, USENIX Security 2026
-- **Journal Reviewer**: IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Internet of Things (TIOT), The Journal of Supercomputing (TJS), International Journal of Data Science and Analytics (IJDSA), Scientific Reports
-- **Conference Reviewer**: IEEE HPCC 2024
-- **External Reviewer**: ICML 2026, ACM Transactions on Privacy and Security (TOPS), IEEE Transactions on Parallel and Distributed Systems (TPDS), ACM TheWebConf/WWW 2024-2026, Chinese Journal of Computers, IEEE MASS 2023-2025
+<div class="service-grid">
+  <section class="service-card">
+    <h3 class="service-card__title"><i class="fas fa-users"></i> Technical Program Committee</h3>
+    <div class="service-list">
+      <details class="service-entry">
+        <summary>ACM EuroSys</summary>
+        <div class="service-entry__years"><span>2026 (Shadow)</span></div>
+      </details>
+      <details class="service-entry">
+        <summary>IEEE DIKW</summary>
+        <div class="service-entry__years"><span>2025</span></div>
+      </details>
+    </div>
+  </section>
+
+  <section class="service-card">
+    <h3 class="service-card__title"><i class="fas fa-clipboard-check"></i> Artifact Evaluation Committee</h3>
+    <div class="service-list">
+      <details class="service-entry">
+        <summary>USENIX OSDI</summary>
+        <div class="service-entry__years"><span>2025-2026</span></div>
+      </details>
+      <details class="service-entry">
+        <summary>USENIX ATC</summary>
+        <div class="service-entry__years"><span>2025</span></div>
+      </details>
+      <details class="service-entry">
+        <summary>USENIX FAST</summary>
+        <div class="service-entry__years"><span>2026</span></div>
+      </details>
+      <details class="service-entry">
+        <summary>IEEE S&amp;P</summary>
+        <div class="service-entry__years"><span>2026</span></div>
+      </details>
+      <details class="service-entry">
+        <summary>ACM CCS</summary>
+        <div class="service-entry__years"><span>2025-2026</span></div>
+      </details>
+      <details class="service-entry">
+        <summary>USENIX Security</summary>
+        <div class="service-entry__years"><span>2026</span></div>
+      </details>
+    </div>
+  </section>
+
+  <section class="service-card">
+    <h3 class="service-card__title"><i class="fas fa-book-open"></i> Journal Reviewer</h3>
+    <div class="service-list">
+      <div class="service-entry service-entry--plain">IEEE Transactions on Knowledge and Data Engineering (TKDE)</div>
+      <div class="service-entry service-entry--plain">ACM Transactions on Internet of Things (TIOT)</div>
+      <div class="service-entry service-entry--plain">The Journal of Supercomputing (TJS)</div>
+      <div class="service-entry service-entry--plain">International Journal of Data Science and Analytics (IJDSA)</div>
+      <div class="service-entry service-entry--plain">Scientific Reports (Sci. Rep.)</div>
+    </div>
+  </section>
+
+  <section class="service-card">
+    <h3 class="service-card__title"><i class="fas fa-user-check"></i> Conference / External Reviewer</h3>
+    <div class="service-list">
+      <details class="service-entry">
+        <summary>IEEE HPCC</summary>
+        <div class="service-entry__years"><span>2024</span></div>
+      </details>
+      <details class="service-entry">
+        <summary>ICML</summary>
+        <div class="service-entry__years"><span>2026</span></div>
+      </details>
+      <div class="service-entry service-entry--plain">ACM Transactions on Privacy and Security (TOPS)</div>
+      <div class="service-entry service-entry--plain">IEEE Transactions on Parallel and Distributed Systems (TPDS)</div>
+      <details class="service-entry">
+        <summary>ACM The Web Conference (WWW)</summary>
+        <div class="service-entry__years"><span>2024-2026</span></div>
+      </details>
+      <div class="service-entry service-entry--plain">Chinese Journal of Computers</div>
+      <details class="service-entry">
+        <summary>IEEE MASS</summary>
+        <div class="service-entry__years"><span>2023-2025</span></div>
+      </details>
+    </div>
+  </section>
+</div>
 
 # 💰 Grants
 - PI, Research on Efficient Confidential Inference for Large Models with Cloud-Edge Collaboration, NSFC Grant No. 625B2167 **<u>国家自然科学基金青年学生基础研究项目(博士研究生)</u>**, 2026.01~2027.12.

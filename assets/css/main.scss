@@ -471,8 +471,123 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
     max-height: 18px;
 }
 
+.service-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+    margin: .75rem 0 1.7rem 0;
+}
+
+.service-card {
+    padding: 1rem 1.15rem 1.05rem 1.15rem;
+    background: #fff;
+    border: 1px solid #ececec;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(31, 38, 135, .06);
+    transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba($info-color, .18);
+    box-shadow: 0 10px 24px rgba(31, 38, 135, .13);
+}
+
+.page__content .service-card__title {
+    display: flex;
+    align-items: center;
+    gap: .45rem;
+    margin: 0 0 .75rem 0;
+    color: #1f2933;
+    font-size: 1.08rem;
+    font-weight: 700;
+    line-height: 1.25;
+}
+
+.service-card__title i {
+    color: $info-color;
+    font-size: .95em;
+}
+
+.service-list {
+    display: grid;
+    gap: .42rem;
+}
+
+.service-entry {
+    color: #4a4f55;
+    font-size: .94em;
+    line-height: 1.35;
+}
+
+.service-entry summary {
+    display: flex;
+    align-items: center;
+    gap: .42rem;
+    cursor: pointer;
+    list-style: none;
+}
+
+.service-entry summary::-webkit-details-marker {
+    display: none;
+}
+
+.service-entry summary::before {
+    content: "\f0da";
+    color: #98a2b3;
+    font-family: "Font Awesome 5 Free";
+    font-size: .78em;
+    font-weight: 900;
+    line-height: 1;
+    transition: transform .2s ease, color .2s ease;
+}
+
+.service-entry[open] summary::before {
+    color: $info-color;
+    transform: rotate(90deg);
+}
+
+.service-entry--plain {
+    display: flex;
+    align-items: center;
+    gap: .42rem;
+}
+
+.service-entry--plain::before {
+    content: "";
+    width: .34rem;
+    height: .34rem;
+    flex: 0 0 .34rem;
+    border-radius: 999px;
+    background: #98a2b3;
+}
+
+.service-entry__years {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .3rem;
+    margin: .36rem 0 .08rem 1.18rem;
+}
+
+.service-entry__years span {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.35rem;
+    padding: .08rem .42rem;
+    border-radius: 5px;
+    background: rgba($info-color, .1);
+    color: $info-color;
+    font-size: .86em;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
 @media (max-width: 900px) {
     .publication-list {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .service-grid {
         grid-template-columns: minmax(0, 1fr);
     }
 }
@@ -497,5 +612,9 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 
     .publication-rank-badges img {
         max-height: 26px;
+    }
+
+    .service-card {
+        padding: .9rem 1rem 1rem 1rem;
     }
 }
