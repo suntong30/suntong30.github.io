@@ -436,7 +436,54 @@ I used to work on (and still build upon) the following topics:
       </div>
     </div>
     <h3 class="grant-card__title">Research on Efficient Confidential Inference for Large Models with Cloud-Edge Collaboration</h3>
-    <p class="grant-card__subtitle">国家自然科学基金青年学生基础研究项目(博士研究生)</p>
+    <p class="grant-card__subtitle">国家自然科学基金青年学生基础研究项目(博士研究生), 项目负责人</p>
+  </article>
+
+   <article class="grant-card">
+    <div class="grant-card__header">
+      <span class="grant-role">Participant</span>
+      <div class="grant-card__meta">
+        <span>NSFC Grant No. 92582114</span>
+        <span>2026.01~2028.12</span>
+      </div>
+    </div>
+    <h3 class="grant-card__title">Principles and Construction Methods for Ubiquitous and Trusted IoT Operating System</h3>
+    <p class="grant-card__subtitle">国家自然科学基金重大研究计划培育项目, 主要成员/p>
+  </article>
+
+  <article class="grant-card">
+    <div class="grant-card__header">
+      <span class="grant-role">Participant</span>
+      <div class="grant-card__meta">
+        <span>NSFC Grant No. 62272407</span>
+        <span>2023.01~2026.12</span>
+      </div>
+    </div>
+    <h3 class="grant-card__title">Research on IoT Interaction Technologies Driven by Elastic Edge Intelligence</h3>
+    <p class="grant-card__subtitle">国家自然科学基金面上项目, 主要成员/p>
+  </article>
+
+  <article class="grant-card">
+    <div class="grant-card__header">
+      <span class="grant-role">Participant</span>
+      <div class="grant-card__meta">
+        <span>No. 2023C01033</span>
+        <span>2023.01~2024.12</span>
+      </div>
+    </div>
+    <h3 class="grant-card__title">Research and Application Demonstration of Key Technologies for Low-Power IoT Real-Time Communication Protocols for Large-Scale Dense Deployment</h3>
+    <p class="grant-card__subtitle">浙江省科技厅“尖兵”“领雁”研发攻关计划项目, 主要成员</p>
+  </article>
+
+  <article class="grant-card">
+    <div class="grant-card__header">
+      <span class="grant-role">Participant</span>
+      <div class="grant-card__meta">
+        <span>2022.09~2023.11</span>
+      </div>
+    </div>
+    <h3 class="grant-card__title">Over-The-Air Differencing Algorithm Optimization Technology</h3>
+    <p class="grant-card__subtitle">浙江大学-华为合作项目, 主要成员/p>
   </article>
 </div>
 
@@ -569,6 +616,7 @@ I used to work on (and still build upon) the following topics:
   - B.E. in Electronic and Information Engineering
 
 # 💬 Invited Talks
+- *2025.10*, [ACM CCS'25 - Machine Learning and Security #2 Session] TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE, Taipei, China.
 - *2024.07*, [USENIX ATC'24 - Security 1 Session] SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images, Santa Clara, USA. \| [\[video\]](https://www.youtube.com/watch?v=o6YZbeAey0k)
 - *2024.05*, [ACM/IEEE IPSN'24 - Privacy/Security Session] dTEE: A Declarative Approach to Secure IoT Applications Using TrustZone, Hong Kong, China.
 
