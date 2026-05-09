@@ -616,7 +616,7 @@ I used to work on (and still build upon) the following topics:
   - B.E. in Electronic and Information Engineering
 
 # 💬 Invited Talks
-- *2025.10*, [ACM CCS'25 - Machine Learning and Security #2 Session] TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE, Taipei, China.
+- *2025.10*, [ACM CCS'25 - Machine Learning and Security #2 Session] TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE, Online.
 - *2024.07*, [USENIX ATC'24 - Security 1 Session] SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images, Santa Clara, USA. \| [\[video\]](https://www.youtube.com/watch?v=o6YZbeAey0k)
 - *2024.05*, [ACM/IEEE IPSN'24 - Privacy/Security Session] dTEE: A Declarative Approach to Secure IoT Applications Using TrustZone, Hong Kong, China.
 
