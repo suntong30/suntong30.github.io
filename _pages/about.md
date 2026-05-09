@@ -448,7 +448,7 @@ I used to work on (and still build upon) the following topics:
       </div>
     </div>
     <h3 class="grant-card__title">Principles and Construction Methods for Ubiquitous and Trusted IoT Operating System</h3>
-    <p class="grant-card__subtitle">国家自然科学基金重大研究计划培育项目, 主要成员/p>
+    <p class="grant-card__subtitle">国家自然科学基金重大研究计划培育项目, 主要成员</p>
   </article>
 
   <article class="grant-card">
@@ -460,7 +460,7 @@ I used to work on (and still build upon) the following topics:
       </div>
     </div>
     <h3 class="grant-card__title">Research on IoT Interaction Technologies Driven by Elastic Edge Intelligence</h3>
-    <p class="grant-card__subtitle">国家自然科学基金面上项目, 主要成员/p>
+    <p class="grant-card__subtitle">国家自然科学基金面上项目, 主要成员</p>
   </article>
 
   <article class="grant-card">
@@ -483,7 +483,7 @@ I used to work on (and still build upon) the following topics:
       </div>
     </div>
     <h3 class="grant-card__title">Over-The-Air Differencing Algorithm Optimization Technology</h3>
-    <p class="grant-card__subtitle">浙江大学-华为合作项目, 主要成员/p>
+    <p class="grant-card__subtitle">浙江大学-华为合作项目, 主要成员</p>
   </article>
 </div>
 
