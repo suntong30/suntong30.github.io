@@ -327,44 +327,44 @@ I used to work on (and still build upon) the following topics:
     <div class="service-section">
       <h4 class="service-section__title">Technical Program Committee</h4>
       <div class="service-list">
-        <details class="service-entry">
-          <summary>ACM EuroSys</summary>
-          <div class="service-entry__years"><span>2026 (Shadow)</span></div>
-        </details>
-        <details class="service-entry">
-          <summary>IEEE DIKW</summary>
-          <div class="service-entry__years"><span>2025</span></div>
-        </details>
+        <div class="service-entry">
+          <span class="service-entry__name">ACM EuroSys</span>
+          <span class="service-entry__year">2026 (Shadow)</span>
+        </div>
+        <div class="service-entry">
+          <span class="service-entry__name">IEEE DIKW</span>
+          <span class="service-entry__year">2025</span>
+        </div>
       </div>
     </div>
 
     <div class="service-section">
       <h4 class="service-section__title">Artifact Evaluation</h4>
       <div class="service-list">
-        <details class="service-entry">
-          <summary>USENIX OSDI</summary>
-          <div class="service-entry__years"><span>2025-2026</span></div>
-        </details>
-        <details class="service-entry">
-          <summary>USENIX ATC</summary>
-          <div class="service-entry__years"><span>2025</span></div>
-        </details>
-        <details class="service-entry">
-          <summary>USENIX FAST</summary>
-          <div class="service-entry__years"><span>2026</span></div>
-        </details>
-        <details class="service-entry">
-          <summary>IEEE S&amp;P</summary>
-          <div class="service-entry__years"><span>2026</span></div>
-        </details>
-        <details class="service-entry">
-          <summary>ACM CCS</summary>
-          <div class="service-entry__years"><span>2025-2026</span></div>
-        </details>
-        <details class="service-entry">
-          <summary>USENIX Security</summary>
-          <div class="service-entry__years"><span>2026</span></div>
-        </details>
+        <div class="service-entry">
+          <span class="service-entry__name">USENIX OSDI</span>
+          <span class="service-entry__year">2025-2026</span>
+        </div>
+        <div class="service-entry">
+          <span class="service-entry__name">USENIX ATC</span>
+          <span class="service-entry__year">2025</span>
+        </div>
+        <div class="service-entry">
+          <span class="service-entry__name">USENIX FAST</span>
+          <span class="service-entry__year">2026</span>
+        </div>
+        <div class="service-entry">
+          <span class="service-entry__name">IEEE S&amp;P</span>
+          <span class="service-entry__year">2026</span>
+        </div>
+        <div class="service-entry">
+          <span class="service-entry__name">ACM CCS</span>
+          <span class="service-entry__year">2025-2026</span>
+        </div>
+        <div class="service-entry">
+          <span class="service-entry__name">USENIX Security</span>
+          <span class="service-entry__year">2026</span>
+        </div>
       </div>
     </div>
   </section>
@@ -374,42 +374,58 @@ I used to work on (and still build upon) the following topics:
     <div class="service-section">
       <h4 class="service-section__title">Journal</h4>
       <div class="service-list">
-        <div class="service-entry service-entry--plain">IEEE Transactions on Knowledge and Data Engineering (TKDE)</div>
-        <div class="service-entry service-entry--plain">ACM Transactions on Internet of Things (TIOT)</div>
-        <div class="service-entry service-entry--plain">The Journal of Supercomputing (TJS)</div>
-        <div class="service-entry service-entry--plain">International Journal of Data Science and Analytics (IJDSA)</div>
-        <div class="service-entry service-entry--plain">Scientific Reports (Sci. Rep.)</div>
+        <div class="service-entry service-entry--plain">
+          <span class="service-entry__name">IEEE Transactions on Knowledge and Data Engineering (TKDE)</span>
+        </div>
+        <div class="service-entry service-entry--plain">
+          <span class="service-entry__name">ACM Transactions on Internet of Things (TIOT)</span>
+        </div>
+        <div class="service-entry service-entry--plain">
+          <span class="service-entry__name">The Journal of Supercomputing (TJS)</span>
+        </div>
+        <div class="service-entry service-entry--plain">
+          <span class="service-entry__name">International Journal of Data Science and Analytics (IJDSA)</span>
+        </div>
+        <div class="service-entry service-entry--plain">
+          <span class="service-entry__name">Scientific Reports (Sci. Rep.)</span>
+        </div>
       </div>
     </div>
 
     <div class="service-section">
       <h4 class="service-section__title">Conference</h4>
       <div class="service-list">
-        <details class="service-entry">
-          <summary>IEEE HPCC</summary>
-          <div class="service-entry__years"><span>2024</span></div>
-        </details>
+        <div class="service-entry">
+          <span class="service-entry__name">IEEE HPCC</span>
+          <span class="service-entry__year">2024</span>
+        </div>
       </div>
     </div>
 
     <div class="service-section">
       <h4 class="service-section__title">External</h4>
       <div class="service-list">
-        <details class="service-entry">
-          <summary>ICML</summary>
-          <div class="service-entry__years"><span>2026</span></div>
-        </details>
-        <div class="service-entry service-entry--plain">ACM Transactions on Privacy and Security (TOPS)</div>
-        <div class="service-entry service-entry--plain">IEEE Transactions on Parallel and Distributed Systems (TPDS)</div>
-        <details class="service-entry">
-          <summary>ACM The Web Conference (WWW)</summary>
-          <div class="service-entry__years"><span>2024-2026</span></div>
-        </details>
-        <div class="service-entry service-entry--plain">Chinese Journal of Computers</div>
-        <details class="service-entry">
-          <summary>IEEE MASS</summary>
-          <div class="service-entry__years"><span>2023-2025</span></div>
-        </details>
+        <div class="service-entry">
+          <span class="service-entry__name">ICML</span>
+          <span class="service-entry__year">2026</span>
+        </div>
+        <div class="service-entry service-entry--plain">
+          <span class="service-entry__name">ACM Transactions on Privacy and Security (TOPS)</span>
+        </div>
+        <div class="service-entry service-entry--plain">
+          <span class="service-entry__name">IEEE Transactions on Parallel and Distributed Systems (TPDS)</span>
+        </div>
+        <div class="service-entry">
+          <span class="service-entry__name">ACM The Web Conference (WWW)</span>
+          <span class="service-entry__year">2024-2026</span>
+        </div>
+        <div class="service-entry service-entry--plain">
+          <span class="service-entry__name">Chinese Journal of Computers</span>
+        </div>
+        <div class="service-entry">
+          <span class="service-entry__name">IEEE MASS</span>
+          <span class="service-entry__year">2023-2025</span>
+        </div>
       </div>
     </div>
   </section>
