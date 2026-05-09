@@ -569,6 +569,94 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
     line-height: 1.2;
 }
 
+.honor-list {
+    margin: .75rem 0 1.7rem 0;
+    background: #fff;
+    border: 1px solid #ececec;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(31, 38, 135, .06);
+    overflow: hidden;
+}
+
+.honor-entry {
+    display: grid;
+    grid-template-columns: 5.6rem minmax(0, 1fr);
+    gap: .85rem;
+    padding: .78rem 1.05rem;
+    border-top: 1px solid #f0f2f5;
+}
+
+.honor-entry:first-child {
+    border-top: 0;
+}
+
+.honor-date {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    align-self: flex-start;
+    min-height: 1.55rem;
+    padding: .12rem .48rem;
+    border-radius: 5px;
+    background: rgba($info-color, .1);
+    color: $info-color;
+    font-size: .94rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.2;
+    white-space: nowrap;
+}
+
+.honor-body {
+    min-width: 0;
+}
+
+.page__content .honor-title {
+    margin: 0;
+    color: #2f3337;
+    font-size: 1.02rem;
+    font-weight: 700;
+    line-height: 1.38;
+}
+
+.page__content .honor-meta {
+    margin: .2rem 0 0 0;
+    color: #5b626b;
+    font-size: .94rem;
+    line-height: 1.42;
+}
+
+.honor-highlight {
+    font-weight: 800;
+}
+
+.honor-highlight--danger {
+    color: #C00000;
+}
+
+.honor-chip,
+.page__content .honor-link-chip {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.35rem;
+    margin-left: .35rem;
+    padding: .08rem .42rem;
+    border-radius: 5px;
+    background: rgba($info-color, .1);
+    color: $info-color;
+    font-size: .84em;
+    font-weight: 700;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+.page__content .honor-link-chip:hover {
+    background: rgba($info-color, .16);
+    color: darken($info-color, 8%);
+    text-decoration: none;
+}
+
 @media (max-width: 900px) {
     .publication-list {
         grid-template-columns: minmax(0, 1fr);
@@ -607,5 +695,16 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 
     .service-list {
         grid-template-columns: minmax(0, 1fr);
+    }
+
+    .honor-entry {
+        grid-template-columns: minmax(0, 1fr);
+        gap: .45rem;
+        padding: .82rem .95rem;
+    }
+
+    .honor-date {
+        justify-content: flex-start;
+        width: fit-content;
     }
 }

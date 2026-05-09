@@ -429,23 +429,126 @@ I used to work on (and still build upon) the following topics:
 - PI, Research on Efficient Confidential Inference for Large Models with Cloud-Edge Collaboration, NSFC Grant No. 625B2167 **<u>国家自然科学基金青年学生基础研究项目(博士研究生)</u>**, 2026.01~2027.12.
 
 # 🎖 Honors and Awards
-- *2025.12*: &nbsp;Youth Talent Support Program for PhD Students (**<u>中国科协青年科技人才培育工程博士生专项计划</u>**), China Association for Science and Technology, 2025
-- *2025.10*: &nbsp;Best Presentation Award, 21st PhD Innovation Forum, College of Computer Science, Zhejiang University (浙江大学计算机学院博士生创新论坛最佳讲者), 2025
-- *2025.10*: &nbsp;Outstanding Graduate Student Scholarship, Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，优秀研究生干部), 2025
-- *2024.11*: &nbsp;<b><u><font color="#333">National Scholarship</font></u></b> **(Award Rate: ～0.2% nation-wide)** (**<u>国家奖学金</u>**), Ministry of Education, China, 2024
-- *2024.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部), 2024
-- *2024.08*: &nbsp;One of the Three <b><u><font color="#C00000">Best Storage Related Papers</font></u></b> in USENIX ATC 2024
-- *2023.11*: &nbsp;Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部)，2023
-- *2022.06*: &nbsp;Zhejiang Province <b><u><font color="#333">Outstanding Graduate Award</font></u></b> (**<u>浙江省优秀毕业生</u>**)
-- *2022.06*: &nbsp;Hangzhou Dianzi University Outstanding Graduate Award (杭州电子科技大学优秀毕业生)
-- *2021.11*: &nbsp;<b><u><font color="#333">National Scholarship</font></u></b> **(Award Rate: ～0.2% nation-wide)** (**<u>国家奖学金</u>**), Ministry of Education, China, 2021
-- *2021.07*: &nbsp;<b><u><font color="#333">1st Prize</font></u></b> in the "10th Zhejiang Province Undergraduate Smart Car Contest" (第十届浙江省大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛)
-- *2021.05*: &nbsp;<b><u><font color="#333">Meritorious Winner</font></u></b> in the "Mathematical Contest In Modeling (MCM/ICM 2021)" (美国大学生数学建模竞赛M奖)
-- *2020.10*: &nbsp;<b><u><font color="#333">2nd Prize</font></u></b> in the "2020 Zhejiang Province Undergraduate Electronic Design Contest" (浙江省电子设计竞赛二等奖, 教育部全国大学生A类学科竞赛)
-- *2020.08*: &nbsp;<b><u><font color="#333">1st Prize</font></u></b> in the "15th National Undergraduate Smart Car Contest" (第十五届全国大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛) \| <b><a href="https://www.bilibili.com/video/BV1mi4y1u7Ga/?t=12245" style="color: #333;">\[video\]</a></b>
-- *2020.07*: &nbsp;<b><u><font color="#333">1st Prize</font></u></b> in the "9th Zhejiang Province Undergraduate Smart Car Contest" (第九届浙江省大学生智能汽车竞赛一等奖, 教育部全国大学生A类学科竞赛)
-- *2020.11*: &nbsp;<b><u><font color="#333">Zhejiang Province Government Scholarship</font></u></b> **(Award Rate: ～3% province-wide)** (**<u>浙江省政府奖学金</u>**), 2020 
-- *2019.11*: &nbsp;<b><u><font color="#333">Zhejiang Province Government Scholarship</font></u></b> **(Award Rate: ～3% province-wide)** (**<u>浙江省政府奖学金</u>**), 2019
+<div class="honor-list">
+  <article class="honor-entry">
+    <time class="honor-date">2025.12</time>
+    <div class="honor-body">
+      <p class="honor-title">Youth Talent Support Program for PhD Students</p>
+      <p class="honor-meta">中国科协青年科技人才培育工程博士生专项计划 · China Association for Science and Technology, 2025</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2025.10</time>
+    <div class="honor-body">
+      <p class="honor-title">Best Presentation Award</p>
+      <p class="honor-meta">21st PhD Innovation Forum, College of Computer Science, Zhejiang University · 浙江大学计算机学院博士生创新论坛最佳讲者, 2025</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2025.10</time>
+    <div class="honor-body">
+      <p class="honor-title">Outstanding Graduate Student Scholarship, Outstanding Graduate Student Cadre at Zhejiang University</p>
+      <p class="honor-meta">浙江大学优秀研究生，优秀研究生干部, 2025</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2024.11</time>
+    <div class="honor-body">
+      <p class="honor-title">National Scholarship <span class="honor-chip">Award Rate: ~0.2% nation-wide</span></p>
+      <p class="honor-meta">国家奖学金 · Ministry of Education, China, 2024</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2024.11</time>
+    <div class="honor-body">
+      <p class="honor-title">Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University</p>
+      <p class="honor-meta">浙江大学优秀研究生，五好研究生，优秀研究生干部, 2024</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2024.08</time>
+    <div class="honor-body">
+      <p class="honor-title">One of the Three <strong class="honor-highlight honor-highlight--danger">Best Storage Related Papers</strong> in USENIX ATC 2024</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2023.11</time>
+    <div class="honor-body">
+      <p class="honor-title">Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University</p>
+      <p class="honor-meta">浙江大学优秀研究生，五好研究生，优秀研究生干部, 2023</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2022.06</time>
+    <div class="honor-body">
+      <p class="honor-title">Zhejiang Province Outstanding Graduate Award</p>
+      <p class="honor-meta">浙江省优秀毕业生</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2022.06</time>
+    <div class="honor-body">
+      <p class="honor-title">Hangzhou Dianzi University Outstanding Graduate Award</p>
+      <p class="honor-meta">杭州电子科技大学优秀毕业生</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2021.11</time>
+    <div class="honor-body">
+      <p class="honor-title">National Scholarship <span class="honor-chip">Award Rate: ~0.2% nation-wide</span></p>
+      <p class="honor-meta">国家奖学金 · Ministry of Education, China, 2021</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2021.07</time>
+    <div class="honor-body">
+      <p class="honor-title">1st Prize in the "10th Zhejiang Province Undergraduate Smart Car Contest"</p>
+      <p class="honor-meta">第十届浙江省大学生智能汽车竞赛一等奖 · 教育部全国大学生A类学科竞赛</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2021.05</time>
+    <div class="honor-body">
+      <p class="honor-title">Meritorious Winner in the "Mathematical Contest In Modeling (MCM/ICM 2021)"</p>
+      <p class="honor-meta">美国大学生数学建模竞赛M奖</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2020.10</time>
+    <div class="honor-body">
+      <p class="honor-title">2nd Prize in the "2020 Zhejiang Province Undergraduate Electronic Design Contest"</p>
+      <p class="honor-meta">浙江省电子设计竞赛二等奖 · 教育部全国大学生A类学科竞赛</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2020.08</time>
+    <div class="honor-body">
+      <p class="honor-title">1st Prize in the "15th National Undergraduate Smart Car Contest" <a class="honor-link-chip" href="https://www.bilibili.com/video/BV1mi4y1u7Ga/?t=12245">video</a></p>
+      <p class="honor-meta">第十五届全国大学生智能汽车竞赛一等奖 · 教育部全国大学生A类学科竞赛</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2020.07</time>
+    <div class="honor-body">
+      <p class="honor-title">1st Prize in the "9th Zhejiang Province Undergraduate Smart Car Contest"</p>
+      <p class="honor-meta">第九届浙江省大学生智能汽车竞赛一等奖 · 教育部全国大学生A类学科竞赛</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2020.11</time>
+    <div class="honor-body">
+      <p class="honor-title">Zhejiang Province Government Scholarship <span class="honor-chip">Award Rate: ~3% province-wide</span></p>
+      <p class="honor-meta">浙江省政府奖学金, 2020</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2019.11</time>
+    <div class="honor-body">
+      <p class="honor-title">Zhejiang Province Government Scholarship <span class="honor-chip">Award Rate: ~3% province-wide</span></p>
+      <p class="honor-meta">浙江省政府奖学金, 2019</p>
+    </div>
+  </article>
+</div>
 
 # 📖 Educations
 - ![](/images/zju_logo.png){:height="22px" width="22px"} *2022.06 - Now*, Zhejiang University
