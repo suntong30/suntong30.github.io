@@ -569,6 +569,74 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
     line-height: 1.2;
 }
 
+.grant-list {
+    display: grid;
+    gap: 1rem;
+    margin: .75rem 0 1.7rem 0;
+}
+
+.grant-card {
+    padding: 1.05rem 1.15rem 1.1rem 1.15rem;
+    background: #fff;
+    border: 1px solid #ececec;
+    border-left: 4px solid rgba($publication-chinese-journal-color, .45);
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(31, 38, 135, .06);
+    transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+}
+
+.grant-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba($publication-chinese-journal-color, .28);
+    border-left-color: $publication-chinese-journal-color;
+    box-shadow: 0 10px 24px rgba(31, 38, 135, .13);
+}
+
+.grant-card__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: .7rem;
+    margin-bottom: .65rem;
+}
+
+.grant-role,
+.grant-card__meta span {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.45rem;
+    padding: .1rem .48rem;
+    border-radius: 5px;
+    background: $publication-chinese-journal-bg;
+    color: $publication-chinese-journal-color;
+    font-size: .9rem;
+    font-weight: 700;
+    line-height: 1.2;
+    white-space: nowrap;
+}
+
+.grant-card__meta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: .45rem;
+}
+
+.page__content .grant-card__title {
+    margin: 0;
+    color: #2f3337;
+    font-size: 1.08rem;
+    font-weight: 700;
+    line-height: 1.35;
+}
+
+.page__content .grant-card__subtitle {
+    margin: .35rem 0 0 0;
+    color: #5b626b;
+    font-size: .96rem;
+    line-height: 1.42;
+}
+
 .honor-list {
     margin: .75rem 0 1.7rem 0;
     background: #fff;
@@ -695,6 +763,19 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
 
     .service-list {
         grid-template-columns: minmax(0, 1fr);
+    }
+
+    .grant-card {
+        padding: .9rem 1rem 1rem 1rem;
+    }
+
+    .grant-card__header {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .grant-card__meta {
+        justify-content: flex-start;
     }
 
     .honor-entry {

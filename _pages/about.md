@@ -426,7 +426,19 @@ I used to work on (and still build upon) the following topics:
 </div>
 
 # 💰 Grants
-- PI, Research on Efficient Confidential Inference for Large Models with Cloud-Edge Collaboration, NSFC Grant No. 625B2167 **<u>国家自然科学基金青年学生基础研究项目(博士研究生)</u>**, 2026.01~2027.12.
+<div class="grant-list">
+  <article class="grant-card">
+    <div class="grant-card__header">
+      <span class="grant-role">PI</span>
+      <div class="grant-card__meta">
+        <span>NSFC Grant No. 625B2167</span>
+        <span>2026.01~2027.12</span>
+      </div>
+    </div>
+    <h3 class="grant-card__title">Research on Efficient Confidential Inference for Large Models with Cloud-Edge Collaboration</h3>
+    <p class="grant-card__subtitle">国家自然科学基金青年学生基础研究项目(博士研究生)</p>
+  </article>
+</div>
 
 # 🎖 Honors and Awards
 <div class="honor-list">
