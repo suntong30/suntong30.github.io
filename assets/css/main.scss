@@ -514,6 +514,20 @@ $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
     gap: .42rem;
 }
 
+.service-section + .service-section {
+    margin-top: .85rem;
+    padding-top: .75rem;
+    border-top: 1px solid #f0f2f5;
+}
+
+.page__content .service-section__title {
+    margin: 0 0 .45rem 0;
+    color: #344054;
+    font-size: .95rem;
+    font-weight: 700;
+    line-height: 1.25;
+}
+
 .service-entry {
     color: #4a4f55;
     font-size: .94em;
