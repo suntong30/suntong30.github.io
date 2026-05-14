@@ -98,6 +98,8 @@ I used to work on (and still build upon) the following topics:
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>2026.05:</em> 🎉🎉 Our work <strong>IoTRAGuarder</strong> is <b><font color="blue">accepted</font></b> to <strong>USENIX Security 2026</strong>. Thanks to all collaborators! See you in Baltimore.</li>
+  <li><em>2026.05:</em> 🎉🎉 Our work <strong>"IoT Confidential Computing"（物联网机密感知计算)</strong> is <b><font color="blue">accepted</font></b> to <strong>Computing Magazine of the CCF（中国计算机学会通讯《计算》)</strong>.</li> 
   <li><em>2026.05:</em> 😃 Our work <strong>RTInfer</strong> is <b><font color="blue">accepted</font></b> to <strong>ICML 2026</strong>, congrats to Renjie! See you in Seoul.</li>
   <li><em>2026.04:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX OSDI 2026</strong>.</li>
   <li><em>2026.04:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>ACM CCS 2026</strong>.</li>
@@ -133,6 +135,26 @@ I used to work on (and still build upon) the following topics:
 <div class="publication-list">
   <article class="publication-card">
     <div class="publication-card__header">
+      <span class="publication-venue">USENIX Security'26</span>
+      <div class="publication-links">
+        <span>paper</span>
+        <span>web</span>
+        <span>code</span>
+      </div>
+    </div>
+    <h3 class="publication-title"><span class="publication-id">[C5]</span> Securing Retrieval-Augmented Code Generation via Contextual Knowledge Injection: A Case for Embedded IoT Applications</h3>
+    <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Jingyi Su, Yi Gao, and Wei Dong.</p>
+    <p class="publication-meta"><em>The 35th USENIX Security Symposium (USENIX Security), Baltimore, MD, USA. August 12-14, 2026</em>.</p>
+    <p class="publication-meta">Acceptance Rate: TBD.</p>
+    <div class="publication-ranks">
+      <span class="publication-rank">CCF-A</span>
+      <span class="publication-rank">THCPL-A</span>
+      <span class="publication-rank">CORE A*</span>
+    </div>
+  </article>
+  
+  <article class="publication-card">
+    <div class="publication-card__header">
       <span class="publication-venue">ICML'26</span>
       <div class="publication-links">
         <span>paper</span>
@@ -149,6 +171,19 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">THCPL-A</span>
       <span class="publication-rank">CORE A*</span>
     </div>
+  </article>
+
+  <article class="publication-card publication-card--chinese-journal">
+    <div class="publication-card__header">
+      <span class="publication-venue">CCCF'26</span>
+      <div class="publication-links">
+        <span>paper</span>
+        <span>web</span>
+      </div>
+    </div>
+    <h3 class="publication-title"><span class="publication-id">[J4]</span> 物联网机密感知计算</h3>
+    <p class="publication-authors">董玮, <strong class="publication-me">孙桐</strong>, 吕嘉美, 陈纯.</p>
+    <p class="publication-meta"><em>Computing Magazine of the CCF（中国计算机学会通讯《计算》）</em>.</p>
   </article>
 
   <article class="publication-card publication-card--journal">
@@ -169,18 +204,6 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
 
-  <article class="publication-card publication-card--chinese-journal">
-    <div class="publication-card__header">
-      <span class="publication-venue">CCCF'26</span>
-      <div class="publication-links">
-        <span>paper</span>
-        <span>web</span>
-      </div>
-    </div>
-    <h3 class="publication-title"><span class="publication-id">[J4]</span> 物联网机密感知计算</h3>
-    <p class="publication-authors">董玮, <strong class="publication-me">孙桐</strong>, 吕嘉美, 陈纯.</p>
-    <p class="publication-meta"><em>Computing Magazine of the CCF（中国计算机学会通讯《计算》）</em>.</p>
-  </article>
 </div>
 
 ## 2025
