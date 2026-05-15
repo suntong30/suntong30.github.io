@@ -142,10 +142,10 @@ I used to work on (and still build upon) the following topics:
         <span>code</span>
       </div>
     </div>
-    <h3 class="publication-title"><span class="publication-id">[C5]</span> Securing Retrieval-Augmented Code Generation via Contextual Knowledge Injection: A Case for Embedded IoT Applications</h3>
+    <h3 class="publication-title"><span class="publication-id">[C6]</span> Securing Retrieval-Augmented Code Generation via Contextual Knowledge Injection: A Case for Embedded IoT Applications</h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Jingyi Su, Yi Gao, and Wei Dong.</p>
     <p class="publication-meta"><em>The 35th USENIX Security Symposium (USENIX Security), Baltimore, MD, USA. August 12-14, 2026</em>.</p>
-    <p class="publication-meta">Acceptance Rate: TBD.</p>
+    <p class="publication-meta">Acceptance Rate: 12.6% (198 out of 1573).</p>
     <div class="publication-ranks">
       <span class="publication-rank">CCF-A</span>
       <span class="publication-rank">THCPL-A</span>
