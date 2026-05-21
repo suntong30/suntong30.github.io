@@ -177,8 +177,8 @@ I used to work on (and still build upon) the following topics:
     <div class="publication-card__header">
       <span class="publication-venue">CCCF'26</span>
       <div class="publication-links">
-        <span>paper</span>
-        <span>web</span>
+        <a href="https://dl.ccf.org.cn/article/articleDetail.html?id=8036350383491072&type=xhtx_thesis">paper</a>
+        <a href="https://dl.ccf.org.cn/article/articleDetail.html?id=8036350383491072&type=xhtx_thesis">web</a>
       </div>
     </div>
     <h3 class="publication-title"><span class="publication-id">[J4]</span> 物联网机密感知计算</h3>
