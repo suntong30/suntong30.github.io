@@ -183,7 +183,7 @@ I used to work on (and still build upon) the following topics:
     </div>
     <h3 class="publication-title"><span class="publication-id">[J4]</span> 物联网机密感知计算</h3>
     <p class="publication-authors">董玮, <strong class="publication-me">孙桐</strong>, 吕嘉美, 陈纯.</p>
-    <p class="publication-meta"><em>Computing Magazine of the CCF（中国计算机学会通讯《计算》）</em>.</p>
+    <p class="publication-meta"><em>Computing Magazine of the CCF（中国计算机学会通讯《计算》), 2026, 2(5): 71−78</em>.</p>
   </article>
 
   <article class="publication-card publication-card--journal">
@@ -550,7 +550,7 @@ I used to work on (and still build upon) the following topics:
   <article class="honor-entry">
     <time class="honor-date">2024.08</time>
     <div class="honor-body">
-      <p class="honor-title">One of the Three <strong class="honor-highlight honor-highlight--danger">Best Storage Related Papers</strong> in USENIX ATC 2024</p>
+      <p class="honor-title">One of the <strong class="honor-highlight honor-highlight--danger">Best Storage Related Papers</strong> in USENIX ATC 2024</p>
     </div>
   </article>
   <article class="honor-entry">
