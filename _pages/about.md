@@ -98,6 +98,7 @@ I used to work on (and still build upon) the following topics:
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>2026.06:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>NDSS 2027</strong>.</li>
   <li><em>2026.05:</em> 🎉🎉 Our work <strong>IoTRAGuarder</strong> is <b><font color="blue">accepted</font></b> to <strong>USENIX Security 2026</strong>. Thanks to all collaborators! See you in Baltimore.</li>
   <li><em>2026.05:</em> 🎉🎉 Our work <strong>"IoT Confidential Computing"（物联网机密感知计算)</strong> is <b><font color="blue">accepted</font></b> to <strong>Computing Magazine of the CCF（中国计算机学会通讯《计算》)</strong>.</li> 
   <li><em>2026.05:</em> 😃 Our work <strong>RTInfer</strong> is <b><font color="blue">accepted</font></b> to <strong>ICML 2026</strong>, congrats to Renjie! See you in Seoul.</li>
@@ -269,7 +270,7 @@ I used to work on (and still build upon) the following topics:
     <h3 class="publication-title"><span class="publication-id">[C3]</span> <a href="https://www.usenix.org/conference/atc24/presentation/sun">SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images</a></h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Bowen Jiang, Borui Li, Jiamei Lv, Yi Gao*, and Wei Dong*.</p>
     <p class="publication-meta"><em>Proceedings of the 2024 USENIX Annual Technical Conference (USENIX ATC), Santa Clara, CA, USA. July 10–12</em>.</p>
-    <p class="publication-meta">Acceptance Rate: 15.8% (77 out of 488). <strong class="publication-award">Best Storage Related Paper (6/77)</strong></p>
+    <p class="publication-meta">Acceptance Rate: 15.8% (77 out of 488). <strong class="publication-award">Best Storage Related Paper</strong></p>
     <div class="publication-ranks">
       <span class="publication-rank">CCF-A</span>
       <span class="publication-rank">THCPL-A</span>
@@ -387,6 +388,10 @@ I used to work on (and still build upon) the following topics:
         <div class="service-entry">
           <span class="service-entry__name">USENIX Security</span>
           <span class="service-entry__year">2026</span>
+        </div>
+        <div class="service-entry">
+          <span class="service-entry__name">NDSS</span>
+          <span class="service-entry__year">2027</span>
         </div>
       </div>
     </div>
