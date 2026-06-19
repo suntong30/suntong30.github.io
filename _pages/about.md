@@ -98,6 +98,7 @@ I used to work on (and still build upon) the following topics:
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>2026.06:</em> 😃 Invited to serve on the <b><font color="blue">PC</font></b> of <strong>USENIX Security 2027</strong>.</li>
   <li><em>2026.06:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>NDSS 2027</strong>.</li>
   <li><em>2026.05:</em> 🎉🎉 Our work <strong>IoTRAGuarder</strong> is <b><font color="blue">accepted</font></b> to <strong>USENIX Security 2026</strong>. Thanks to all collaborators! See you in Baltimore.</li>
   <li><em>2026.05:</em> 🎉🎉 Our work <strong>"IoT Confidential Computing"（物联网机密感知计算)</strong> is <b><font color="blue">accepted</font></b> to <strong>Computing Magazine of the CCF（中国计算机学会通讯《计算》)</strong>.</li> 
@@ -351,6 +352,10 @@ I used to work on (and still build upon) the following topics:
     <div class="service-section">
       <h4 class="service-section__title">Technical Program Committee</h4>
       <div class="service-list">
+        <div class="service-entry">
+          <span class="service-entry__name">USENIX Security</span>
+          <span class="service-entry__year">2027</span>
+        </div>
         <div class="service-entry">
           <span class="service-entry__name">ACM EuroSys</span>
           <span class="service-entry__year">2026 (Shadow)</span>
