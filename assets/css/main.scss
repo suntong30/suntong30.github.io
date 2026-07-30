@@ -54,7 +54,7 @@
         float: none;
         position: fixed;
         top: 5rem;
-        left: max(1rem, calc((100vw - #{$x-large}) / 2 + 1rem));
+        left: clamp(1rem, calc((100vw - #{$x-large}) / 2 + 1rem), 100vw);
         width: clamp(280px, 18vw, 360px);
         max-height: calc(100vh - 6rem);
         margin-right: 0;
