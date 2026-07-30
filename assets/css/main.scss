@@ -43,18 +43,18 @@
 @media (min-width: 1025px) {
     #main {
         width: 100%;
-        max-width: none;
-        margin-left: 0;
-        margin-right: 0;
-        padding-left: 0;
-        padding-right: clamp(1rem, 2vw, 2rem);
+        max-width: $x-large;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 1rem;
+        padding-right: 1rem;
     }
 
     .sidebar {
         float: none;
         position: fixed;
         top: 5rem;
-        left: clamp(1rem, 2vw, 2rem);
+        left: max(1rem, calc((100vw - #{$x-large}) / 2 + 1rem));
         width: clamp(280px, 18vw, 360px);
         max-height: calc(100vh - 6rem);
         margin-right: 0;
