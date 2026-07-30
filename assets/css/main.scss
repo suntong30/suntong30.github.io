@@ -334,38 +334,20 @@ $talk-border-color: rgba(71, 85, 105, .2);
 
 .publication-list {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1rem;
-    margin: .75rem 0 1.7rem 0;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0;
+    margin: .55rem 0 1.8rem 0;
 }
 
 .publication-card {
     position: relative;
     overflow: hidden;
-    padding: 1rem 1.15rem 1.05rem 1.25rem;
-    background: #fff;
-    border: 1px solid #ececec;
-    border-left: 4px solid transparent;
-    border-radius: 8px;
-    box-shadow: 0 3px 10px rgba(31, 38, 135, .06);
-    transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
-}
-
-.publication-card:hover {
-    transform: translateY(-3px);
-    border-color: #ead9dc;
-    border-left-color: $publication-conference-color;
-    box-shadow: 0 10px 24px rgba(31, 38, 135, .13);
-}
-
-.publication-card--journal:hover {
-    border-color: rgba($publication-journal-color, .24);
-    border-left-color: $publication-journal-color;
-}
-
-.publication-card--chinese-journal:hover {
-    border-color: rgba($publication-chinese-journal-color, .24);
-    border-left-color: $publication-chinese-journal-color;
+    padding: 1.15rem 0 1.2rem;
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #e6e8eb;
+    border-radius: 0;
+    box-shadow: none;
 }
 
 .publication-card__header {
@@ -944,10 +926,6 @@ $talk-border-color: rgba(71, 85, 105, .2);
 }
 
 @media (max-width: 900px) {
-    .publication-list {
-        grid-template-columns: minmax(0, 1fr);
-    }
-
     .service-grid {
         grid-template-columns: minmax(0, 1fr);
     }
@@ -976,7 +954,7 @@ $talk-border-color: rgba(71, 85, 105, .2);
     }
 
     .publication-card {
-        padding: .9rem 1rem 1rem 1rem;
+        padding: 1rem 0 1.05rem;
     }
 
     .publication-card__header,
