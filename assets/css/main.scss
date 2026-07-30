@@ -202,6 +202,136 @@ $talk-color: #475569;
 $talk-bg: rgba(71, 85, 105, .08);
 $talk-border-color: rgba(71, 85, 105, .2);
 
+.publication-toolbar {
+    display: none;
+    align-items: center;
+    justify-content: space-between;
+    gap: .8rem 1.2rem;
+    margin: 1rem 0 .2rem;
+    padding: .78rem;
+    background: #f8f9fb;
+    border: 1px solid #e6e8ec;
+    border-radius: 10px;
+}
+
+.js .publication-toolbar {
+    display: flex;
+}
+
+.publication-view-tabs {
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: .25rem;
+    padding: .2rem;
+    background: #fff;
+    border: 1px solid #e2e5e9;
+    border-radius: 8px;
+}
+
+.publication-view-button {
+    min-height: 2.25rem;
+    padding: .35rem .82rem;
+    color: #59636f;
+    font: inherit;
+    font-size: .92rem;
+    font-weight: 700;
+    line-height: 1.2;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    border-radius: 6px;
+    transition: color .18s ease, background-color .18s ease, box-shadow .18s ease;
+}
+
+.publication-view-button:hover {
+    color: $publication-conference-color;
+    background: rgba($publication-conference-color, .07);
+}
+
+.publication-view-button.is-active {
+    color: #fff;
+    background: $publication-conference-color;
+    box-shadow: 0 3px 8px rgba($publication-conference-color, .22);
+}
+
+.publication-view-button:focus-visible,
+.publication-search input:focus-visible {
+    outline: 3px solid rgba($publication-conference-color, .24);
+    outline-offset: 2px;
+}
+
+.publication-search {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex: 0 1 21rem;
+    min-width: 14rem;
+    margin: 0;
+}
+
+.publication-search i {
+    position: absolute;
+    left: .78rem;
+    color: #87909a;
+    font-size: .86rem;
+    pointer-events: none;
+}
+
+.publication-search input {
+    width: 100%;
+    min-height: 2.65rem;
+    padding: .45rem .75rem .45rem 2.25rem;
+    color: #2f3337;
+    font: inherit;
+    font-size: .94rem;
+    line-height: 1.2;
+    background: #fff;
+    border: 1px solid #dfe3e8;
+    border-radius: 8px;
+    transition: border-color .18s ease, box-shadow .18s ease;
+}
+
+.publication-search input::placeholder {
+    color: #8a929d;
+}
+
+.publication-search input:focus {
+    border-color: rgba($publication-conference-color, .55);
+    box-shadow: 0 0 0 3px rgba($publication-conference-color, .08);
+}
+
+.page__content .publication-group__heading {
+    margin: 1.2rem 0 .65rem;
+    color: #344054;
+    font-size: 1.25rem;
+    line-height: 1.25;
+}
+
+.publication-group:first-child .publication-group__heading {
+    margin-top: .95rem;
+}
+
+.publication-empty {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: .25rem;
+    min-height: 10rem;
+    margin: 1rem 0 1.7rem;
+    padding: 1.5rem;
+    color: #69727d;
+    text-align: center;
+    background: #fafbfc;
+    border: 1px dashed #d9dde3;
+    border-radius: 8px;
+}
+
+.publication-empty strong {
+    color: #344054;
+    font-size: 1.02rem;
+}
+
 .publication-list {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -824,6 +954,27 @@ $talk-border-color: rgba(71, 85, 105, .2);
 }
 
 @media (max-width: 600px) {
+    .publication-toolbar {
+        align-items: stretch;
+        flex-direction: column;
+        padding: .65rem;
+    }
+
+    .publication-view-tabs {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        width: 100%;
+    }
+
+    .publication-view-button {
+        width: 100%;
+    }
+
+    .publication-search {
+        width: 100%;
+        min-width: 0;
+    }
+
     .publication-card {
         padding: .9rem 1rem 1rem 1rem;
     }

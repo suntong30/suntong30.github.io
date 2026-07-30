@@ -133,9 +133,24 @@ I used to work on (and still build upon) the following topics:
 <p class="publication-note">(*Corresponding Author)</p>
 <p class="publication-note publication-rank-note"><b>[CCF] <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">China Computer Federation Ranking</a>; [TH-CPL] <a href="https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf">Tsinghua-Computer Science Preferred List</a>; [CORE] <a href="https://portal.core.edu.au/conf-ranks/">CORE Conference Ranking</a></b></p>
 
-## 2026
+<div class="publication-browser" data-publication-browser>
+  <div class="publication-toolbar">
+    <div class="publication-view-tabs" role="tablist" aria-label="Group publications">
+      <button class="publication-view-button is-active" id="publication-view-year" type="button" role="tab" aria-selected="true" aria-controls="publication-results" data-publication-view="year">By Year</button>
+      <button class="publication-view-button" id="publication-view-venue" type="button" role="tab" aria-selected="false" aria-controls="publication-results" tabindex="-1" data-publication-view="venue">By Venue</button>
+    </div>
+    <label class="publication-search" for="publication-search">
+      <span class="screen-reader-text">Search publication titles</span>
+      <i class="fas fa-search" aria-hidden="true"></i>
+      <input id="publication-search" type="search" placeholder="Search titles" autocomplete="off" spellcheck="false">
+    </label>
+  </div>
+  <p class="screen-reader-text" id="publication-results-status" role="status" aria-live="polite"></p>
+  <div class="publication-results" id="publication-results" role="tabpanel" aria-labelledby="publication-view-year">
+
+<h2 class="publication-group__heading">2026</h2>
 <div class="publication-list">
-  <article class="publication-card">
+  <article class="publication-card" data-publication-card data-year="2026" data-type="conference">
     <div class="publication-card__header">
       <span class="publication-venue">USENIX Security'26</span>
       <div class="publication-links">
@@ -155,7 +170,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
   
-  <article class="publication-card">
+  <article class="publication-card" data-publication-card data-year="2026" data-type="conference">
     <div class="publication-card__header">
       <span class="publication-venue">ICML'26</span>
       <div class="publication-links">
@@ -175,7 +190,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
 
-  <article class="publication-card publication-card--chinese-journal">
+  <article class="publication-card publication-card--chinese-journal" data-publication-card data-year="2026" data-type="journal">
     <div class="publication-card__header">
       <span class="publication-venue">CCCF'26</span>
       <div class="publication-links">
@@ -188,7 +203,7 @@ I used to work on (and still build upon) the following topics:
     <p class="publication-meta"><em>Computing Magazine of the CCF（中国计算机学会通讯《计算》), 2026, 2(5): 71−78</em>.</p>
   </article>
 
-  <article class="publication-card publication-card--journal">
+  <article class="publication-card publication-card--journal" data-publication-card data-year="2026" data-type="journal">
     <div class="publication-card__header">
       <span class="publication-venue">IEEE TMC'26</span>
       <div class="publication-links">
@@ -208,9 +223,9 @@ I used to work on (and still build upon) the following topics:
 
 </div>
 
-## 2025
+<h2 class="publication-group__heading">2025</h2>
 <div class="publication-list">
-  <article class="publication-card">
+  <article class="publication-card" data-publication-card data-year="2025" data-type="conference">
     <div class="publication-card__header">
       <span class="publication-venue">ACM CCS'25</span>
       <div class="publication-links">
@@ -236,7 +251,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
 
-  <article class="publication-card publication-card--journal">
+  <article class="publication-card publication-card--journal" data-publication-card data-year="2025" data-type="journal">
     <div class="publication-card__header">
       <span class="publication-venue">ACM TOS'25</span>
       <div class="publication-links">
@@ -255,9 +270,9 @@ I used to work on (and still build upon) the following topics:
   </article>
 </div>
 
-## 2024
+<h2 class="publication-group__heading">2024</h2>
 <div class="publication-list">
-  <article class="publication-card">
+  <article class="publication-card" data-publication-card data-year="2024" data-type="conference">
     <div class="publication-card__header">
       <span class="publication-venue">USENIX ATC'24</span>
       <div class="publication-links">
@@ -286,7 +301,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
   
-  <article class="publication-card publication-card--journal">
+  <article class="publication-card publication-card--journal" data-publication-card data-year="2024" data-type="journal">
     <div class="publication-card__header">
       <span class="publication-venue">IEEE TMC'24</span>
       <div class="publication-links">
@@ -305,7 +320,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
 
-  <article class="publication-card">
+  <article class="publication-card" data-publication-card data-year="2024" data-type="conference">
     <div class="publication-card__header">
       <span class="publication-venue">ACM/IEEE IPSN'24</span>
       <div class="publication-links">
@@ -325,7 +340,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
 
-  <article class="publication-card">
+  <article class="publication-card" data-publication-card data-year="2024" data-type="conference">
     <div class="publication-card__header">
       <span class="publication-venue">IEEE INFOCOM'24</span>
       <div class="publication-links">
@@ -343,6 +358,8 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">CORE A*</span>
     </div>
   </article>
+</div>
+  </div>
 </div>
 
 # 🔍 Academic Services
