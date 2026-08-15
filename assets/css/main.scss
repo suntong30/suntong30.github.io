@@ -400,11 +400,26 @@ $talk-border-color: rgba(71, 85, 105, .2);
 }
 
 .page__content .publication-title {
+    display: flex;
+    align-items: baseline;
+    gap: .42rem;
     margin: .55rem 0 .35rem 0;
     color: #1f2933;
     font-size: 1.06rem;
     font-weight: 700;
     line-height: 1.32;
+}
+
+.publication-number {
+    flex: 0 0 2rem;
+    color: #454b54;
+    font-weight: 400;
+    text-align: right;
+}
+
+.publication-title__content {
+    display: block;
+    min-width: 0;
 }
 
 .page__content .publication-title a {
