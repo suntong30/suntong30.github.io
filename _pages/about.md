@@ -168,6 +168,9 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">CCF-A</span>
       <span class="publication-rank">THCPL-A</span>
       <span class="publication-rank">CORE A*</span>
+      <span class="publication-rank-badges">
+        <img src="/images/usenixbadges-available.png" alt="USENIX Artifact Available">
+      </span>
     </div>
   </article>
   
@@ -175,9 +178,10 @@ I used to work on (and still build upon) the following topics:
     <div class="publication-card__header">
       <span class="publication-venue">ICML'26</span>
       <div class="publication-links">
-        <span>paper</span>
-        <span>web</span>
-        <span>code</span>
+        <a href="https://openreview.net/pdf?id=8XC5ebkGII">paper</a>
+        <a href="https://openreview.net/pdf?id=8XC5ebkGII">web</a>
+        <a href="https://github.com/ELE-Jay/RTInfer"><img src="https://img.shields.io/github/stars/ELE-Jay/RTInfer?style=social&amp;label=Code+Stars" alt="RTInfer Code Stars"></a>
+        <span>slides</span>
       </div>
     </div>
     <h3 class="publication-title"><span class="publication-id">[C5]</span> RTInfer: Exploiting Concurrency for Multiple Real-Time DNN Inference on Edge GPUs</h3>
