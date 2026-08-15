@@ -62,8 +62,8 @@ I work on **systems and security for AIoT**, with a focus on **system software f
 
 I’m currently working on the following directions:
 - **Generative safe OS with confidential computing support for IoT** — Toward automatically constructing a secure-by-default OS and toolchain for TEE-enabled IoT devices.
-  - **LLM-assisted secure application development:** frameworks that help developers build TEE-based secure IoT applications correctly [[IPSN'24, dTEE]](https://ieeexplore.ieee.org/document/10577323).
-- **Real-time, cloud–edge–end collaborative confidential AI inference** — Key techniques for low-latency and privacy-preserving inference on IoT devices with TEE support [[CCS'25, TensorShield]](https://dl.acm.org/doi/10.1145/3719027.3744798) [[ICML'26, RTInfer]]().
+  - **LLM-assisted secure application development:** frameworks that help developers build TEE-based secure IoT applications correctly [[IPSN'24, dTEE]](https://ieeexplore.ieee.org/document/10577323), [[Security'26, IoTRAGuarder]](https://www.usenix.org/conference/usenixsecurity26/presentation/sun-tong).
+- **Real-time, cloud–edge–end collaborative confidential AI inference** — Key techniques for low-latency and privacy-preserving inference on IoT devices with TEE support [[CCS'25, TensorShield]](https://dl.acm.org/doi/10.1145/3719027.3744798) [[ICML'26, RTInfer]](https://openreview.net/pdf?id=8XC5ebkGII).
 
 I used to work on (and still build upon) the following topics:
 - **Delta compression / differencing algorithms for software updates**
@@ -154,9 +154,10 @@ I used to work on (and still build upon) the following topics:
     <div class="publication-card__header">
       <span class="publication-venue">USENIX Security'26</span>
       <div class="publication-links">
-        <span>paper</span>
-        <span>web</span>
-        <span>code</span>
+        <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/sun-tong">paper</a>
+        <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/sun-tong">web</a>
+        <a href="https://github.com/suntong30/IoTRAGuarder"><img src="https://img.shields.io/github/stars/suntong30/IoTRAGuarder?style=social&amp;label=Code+Stars" alt="IoTRAGuarder Code Stars"></a>
+        <span>slides</span>
       </div>
     </div>
     <h3 class="publication-title"><span class="publication-id">[C6]</span> Securing Retrieval-Augmented Code Generation via Contextual Knowledge Injection: A Case for Embedded IoT Applications</h3>
