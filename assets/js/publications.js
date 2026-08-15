@@ -27,18 +27,10 @@
 
       if (titleElement) {
         var numberElement = document.createElement("span");
-        var titleContentElement = document.createElement("span");
 
         numberElement.className = "publication-number";
         numberElement.textContent = cards.length - index + ".";
-        titleContentElement.className = "publication-title__content";
-
-        while (titleElement.firstChild) {
-          titleContentElement.appendChild(titleElement.firstChild);
-        }
-
-        titleElement.appendChild(numberElement);
-        titleElement.appendChild(titleContentElement);
+        card.insertBefore(numberElement, card.firstChild);
       }
 
       return {

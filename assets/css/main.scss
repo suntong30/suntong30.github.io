@@ -340,6 +340,9 @@ $talk-border-color: rgba(71, 85, 105, .2);
 }
 
 .publication-card {
+    display: grid;
+    grid-template-columns: 2rem minmax(0, 1fr);
+    column-gap: .65rem;
     position: relative;
     overflow: hidden;
     padding: 1.15rem 0 1.2rem;
@@ -350,7 +353,12 @@ $talk-border-color: rgba(71, 85, 105, .2);
     box-shadow: none;
 }
 
+.publication-card > * {
+    grid-column: 2;
+}
+
 .publication-card__header {
+    grid-row: 1;
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
@@ -400,9 +408,7 @@ $talk-border-color: rgba(71, 85, 105, .2);
 }
 
 .page__content .publication-title {
-    display: flex;
-    align-items: baseline;
-    gap: .42rem;
+    grid-row: 2;
     margin: .55rem 0 .35rem 0;
     color: #1f2933;
     font-size: 1.06rem;
@@ -411,15 +417,15 @@ $talk-border-color: rgba(71, 85, 105, .2);
 }
 
 .publication-number {
-    flex: 0 0 2rem;
+    grid-column: 1;
+    grid-row: 2;
+    align-self: start;
+    margin-top: .55rem;
     color: #454b54;
+    font-size: 1.06rem;
     font-weight: 400;
+    line-height: 1.32;
     text-align: right;
-}
-
-.publication-title__content {
-    display: block;
-    min-width: 0;
 }
 
 .page__content .publication-title a {
