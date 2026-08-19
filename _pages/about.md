@@ -674,6 +674,14 @@ I used to work on (and still build upon) the following topics:
 <div class="talk-list">
   <article class="talk-entry">
     <div class="talk-entry__header">
+      <time class="talk-date">2026.08</time>
+      <span class="talk-venue">USENIX Security'26 · Security and Privacy for Web, Mobile, and Emerging Technologies #1 Session</span>
+    </div>
+    <h3 class="talk-title">Securing Retrieval-Augmented Code Generation via Contextual Knowledge Injection: A Case for Embedded IoT Applications</h3>
+    <p class="talk-location">Baltimore, MD, USA (Presented by Yichao Xu on behalf of the authors)</p>
+  </article>
+  <article class="talk-entry">
+    <div class="talk-entry__header">
       <time class="talk-date">2025.10</time>
       <span class="talk-venue">ACM CCS'25 · Machine Learning and Security #2 Session</span>
     </div>
