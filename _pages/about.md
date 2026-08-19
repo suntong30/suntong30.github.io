@@ -157,7 +157,7 @@ I used to work on (and still build upon) the following topics:
         <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/sun-tong">paper</a>
         <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/sun-tong">web</a>
         <a href="https://github.com/suntong30/IoTRAGuarder"><img src="https://img.shields.io/github/stars/suntong30/IoTRAGuarder?style=social&amp;label=Code+Stars" alt="IoTRAGuarder Code Stars"></a>
-        <span>slides</span>
+        <a href="https://suntong30.github.io/assets/pdf/sec26_IoTRAGuarder.pdf">slides</a>
       </div>
     </div>
     <h3 class="publication-title"><span class="publication-id">[C6]</span> Securing Retrieval-Augmented Code Generation via Contextual Knowledge Injection: A Case for Embedded IoT Applications</h3>
@@ -181,7 +181,7 @@ I used to work on (and still build upon) the following topics:
         <a href="https://openreview.net/pdf?id=8XC5ebkGII">paper</a>
         <a href="https://openreview.net/pdf?id=8XC5ebkGII">web</a>
         <a href="https://github.com/ELE-Jay/RTInfer"><img src="https://img.shields.io/github/stars/ELE-Jay/RTInfer?style=social&amp;label=Code+Stars" alt="RTInfer Code Stars"></a>
-        <span>slides</span>
+        <a href="https://suntong30.github.io/assets/pdf/ICML26_RTInfer_poster.pdf">slides</a>
       </div>
     </div>
     <h3 class="publication-title"><span class="publication-id">[C5]</span> RTInfer: Exploiting Concurrency for Multiple Real-Time DNN Inference on Edge GPUs</h3>
@@ -210,7 +210,7 @@ I used to work on (and still build upon) the following topics:
 
   <article class="publication-card publication-card--journal" data-publication-card data-year="2026" data-type="journal">
     <div class="publication-card__header">
-      <span class="publication-venue">IEEE TMC'26</span>
+      <span class="publication-venue">IEEE TMC</span>
       <div class="publication-links">
         <a href="https://ieeexplore.ieee.org/abstract/document/11482743">paper</a>
         <a href="https://ieeexplore.ieee.org/abstract/document/11482743">web</a>
@@ -237,7 +237,7 @@ I used to work on (and still build upon) the following topics:
         <a href="https://dl.acm.org/doi/10.1145/3719027.3744798">paper</a>
         <a href="https://dl.acm.org/doi/10.1145/3719027.3744798">web</a>
         <a href="https://github.com/suntong30/TensorShield"><img src="https://img.shields.io/github/stars/suntong30/TensorShield?style=social&amp;label=Code+Stars" alt="TensorShield Code Stars"></a>
-        <span>slides</span>
+        <a href="https://suntong30.github.io/assets/pdf/CCS25_TensorShield_slides.pdf">slides</a>
       </div>
     </div>
     <h3 class="publication-title"><span class="publication-id">[C4]</span> TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE</h3>
@@ -258,7 +258,7 @@ I used to work on (and still build upon) the following topics:
 
   <article class="publication-card publication-card--journal" data-publication-card data-year="2025" data-type="journal">
     <div class="publication-card__header">
-      <span class="publication-venue">ACM TOS'25</span>
+      <span class="publication-venue">ACM TOS</span>
       <div class="publication-links">
         <a href="https://suntong30.github.io/assets/pdf/TOS25_Exploiting_Multiple_Similarity_Spaces_for_Deduplication_of_Encrypted_Container_Images.pdf">paper</a>
         <a href="https://dl.acm.org/doi/10.1145/3725220">web</a>
@@ -267,7 +267,7 @@ I used to work on (and still build upon) the following topics:
     </div>
     <h3 class="publication-title"><span class="publication-id">[J2]</span> <a href="https://dl.acm.org/doi/10.1145/3725220">Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images</a></h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Bowen Jiang, Borui Li, Jiamei Lv, Yi Gao*, and Wei Dong*.</p>
-    <p class="publication-meta"><em>ACM Transactions on Storage (TOS)</em>.</p>
+    <p class="publication-meta"><em>ACM Transactions on Storage (TOS), Volume 22, Issue 3, Article 26 (August 2026)</em>.</p>
     <div class="publication-ranks">
       <span class="publication-rank">CCF-A</span>
       <span class="publication-rank">THCPL-A</span>
@@ -308,7 +308,7 @@ I used to work on (and still build upon) the following topics:
   
   <article class="publication-card publication-card--journal" data-publication-card data-year="2024" data-type="journal">
     <div class="publication-card__header">
-      <span class="publication-venue">IEEE TMC'24</span>
+      <span class="publication-venue">IEEE TMC</span>
       <div class="publication-links">
         <a href="https://suntong30.github.io/assets/pdf/TMC24_sdiff.pdf">paper</a>
         <a href="https://ieeexplore.ieee.org/document/10543054">web</a>
@@ -317,7 +317,7 @@ I used to work on (and still build upon) the following topics:
     </div>
     <h3 class="publication-title"><span class="publication-id">[J1]</span> <a href="https://ieeexplore.ieee.org/document/10543054">Understanding Differencing Algorithms for Mobile Application Updates</a></h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Bowen Jiang, Lewei Jin, Wenzhao Zhang, Yi Gao, Zhendong Li, and Wei Dong*.</p>
-    <p class="publication-meta"><em>IEEE Transactions on Mobile Computing (TMC)</em>.</p>
+    <p class="publication-meta"><em>IEEE Transactions on Mobile Computing (TMC), vol. 23, no. 12, Dec. 2024</em>.</p>
     <p class="publication-meta">IF=9.2(2025), JCR Q1.</p>
     <div class="publication-ranks">
       <span class="publication-rank">CCF-A</span>
