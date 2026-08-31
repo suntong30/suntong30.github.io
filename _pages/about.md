@@ -149,6 +149,22 @@ I used to work on (and still build upon) the following topics:
   <p class="screen-reader-text" id="publication-results-status" role="status" aria-live="polite"></p>
   <div class="publication-results" id="publication-results" role="tabpanel" aria-labelledby="publication-view-year">
 
+<h2 class="publication-group__heading">2027</h2>
+<div class="publication-list">
+  <article class="publication-card" data-publication-card data-year="2027" data-type="conference">
+    <div class="publication-card__header">
+      <span class="publication-venue">ACM/IEEE SenSys'27</span>
+      <div class="publication-links">
+        <a href="https://sensys.acm.org/2027/">web</a>
+      </div>
+    </div>
+    <h3 class="publication-title"><span class="publication-id">[C7]</span> <a href="https://sensys27.hotcrp.com/paper/17">TrustDrive: A Hybrid Emulation Approach for Securing IoT Drivers with TrustZone</a></h3>
+    <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Hailong Lin, Jiamei Lv, Yi Gao, and Wei Dong.</p>
+    <p class="publication-meta"><em>ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys), Boulder, CO, USA. May 17-20, 2027</em>.</p>
+    <p class="publication-meta">Acceptance Rate: First Deadline 17.7% (43 conditionally accepted out of 243 submissions).</p>
+  </article>
+</div>
+
 <h2 class="publication-group__heading">2026</h2>
 <div class="publication-list">
   <article class="publication-card" data-publication-card data-year="2026" data-type="conference">
