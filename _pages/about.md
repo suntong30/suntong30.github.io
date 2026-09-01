@@ -161,7 +161,7 @@ I used to work on (and still build upon) the following topics:
     <h3 class="publication-title"><span class="publication-id">[C7]</span> <a href="https://sensys27.hotcrp.com/paper/17">TrustDrive: A Hybrid Emulation Approach for Securing IoT Drivers with TrustZone</a></h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Hailong Lin, Jiamei Lv, Yi Gao, and Wei Dong.</p>
     <p class="publication-meta"><em>ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys), Boulder, CO, USA. May 17-20, 2027</em>.</p>
-    <p class="publication-meta">Acceptance Rate: First Deadline 17.7% (43 conditionally accepted out of 243 submissions).</p>
+    <p class="publication-meta">Acceptance Rate (Cycle 1): 17.7% (43 conditionally accepted out of 243 submissions).</p>
   </article>
 </div>
 
