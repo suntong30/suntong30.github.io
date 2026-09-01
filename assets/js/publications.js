@@ -94,12 +94,31 @@
       return groups;
     }
 
+    function updatePublicationNumbers(groups, total) {
+      var nextNumber = total;
+
+      groups.forEach(function (group) {
+        group.items.forEach(function (publication) {
+          var numberElement = publication.card.querySelector(
+            ".publication-number"
+          );
+
+          if (numberElement) {
+            numberElement.textContent = nextNumber + ".";
+          }
+          nextNumber -= 1;
+        });
+      });
+    }
+
     function renderPublications() {
       var query = searchInput.value.trim().toLowerCase();
       var visiblePublications = publications.filter(function (publication) {
         return !query || publication.title.indexOf(query) !== -1;
       });
       var groups = groupPublications(visiblePublications);
+
+      updatePublicationNumbers(groups, visiblePublications.length);
 
       results.setAttribute("aria-busy", "true");
       results.innerHTML = "";
