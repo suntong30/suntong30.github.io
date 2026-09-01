@@ -63,6 +63,7 @@ I work on **systems and security for AIoT**, with a focus on **system software f
 I’m currently working on the following directions:
 - **Generative safe OS with confidential computing support for IoT** — Toward automatically constructing a secure-by-default OS and toolchain for TEE-enabled IoT devices.
   - **LLM-assisted secure application development:** frameworks that help developers build TEE-based secure IoT applications correctly [[IPSN'24, dTEE]](https://ieeexplore.ieee.org/document/10577323), [[Security'26, IoTRAGuarder]](https://www.usenix.org/conference/usenixsecurity26/presentation/sun-tong).
+  - **Trusted sensing:** tools that help developers build TEE-based secure drivers [[SenSys'27, TrustDrive]](https://sensys.acm.org/2027/index.html).
 - **Real-time, cloud–edge–end collaborative confidential AI inference** — Key techniques for low-latency and privacy-preserving inference on IoT devices with TEE support [[CCS'25, TensorShield]](https://dl.acm.org/doi/10.1145/3719027.3744798) [[ICML'26, RTInfer]](https://openreview.net/pdf?id=8XC5ebkGII).
 
 I used to work on (and still build upon) the following topics:
@@ -98,7 +99,7 @@ I used to work on (and still build upon) the following topics:
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li><em>2026.08:</em> 🎉🎉 Our work <strong>TrustDrive</strong> is <b><font color="blue">conditionally accepted</font></b> to <strong>ACM/IEEE SenSys 2027</strong>. Thanks to all collaborators! See you in Boulder, CO.</li>
+  <li><em>2026.08:</em> 🎉🎉 Our work <strong>TrustDrive</strong> is <b><font color="blue">conditionally accepted</font></b> to <strong>ACM SenSys 2027</strong>. Thanks to all collaborators! See you in Boulder, CO.</li>
   <li><em>2026.06:</em> 😃 Invited to serve on the <b><font color="blue">PC</font></b> of <strong>USENIX Security 2027</strong>.</li>
   <li><em>2026.06:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>NDSS 2027</strong>.</li>
   <li><em>2026.05:</em> 🎉🎉 Our work <strong>IoTRAGuarder</strong> is <b><font color="blue">accepted</font></b> to <strong>USENIX Security 2026</strong>. Thanks to all collaborators! See you in Baltimore.</li>
@@ -153,12 +154,12 @@ I used to work on (and still build upon) the following topics:
 <div class="publication-list">
   <article class="publication-card" data-publication-card data-year="2027" data-type="conference">
     <div class="publication-card__header">
-      <span class="publication-venue">ACM/IEEE SenSys'27</span>
+      <span class="publication-venue">ACM SenSys'27</span>
       <div class="publication-links">
         <a href="https://sensys.acm.org/2027/">web</a>
       </div>
     </div>
-    <h3 class="publication-title"><span class="publication-id">[C7]</span> <a href="https://sensys27.hotcrp.com/paper/17">TrustDrive: A Hybrid Emulation Approach for Securing IoT Drivers with TrustZone</a></h3>
+    <h3 class="publication-title"><span class="publication-id">[C7]</span> <a href="https://sensys.acm.org/2027/index.html">TrustDrive: A Hybrid Emulation Approach for Securing IoT Drivers with TrustZone</a></h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Hailong Lin, Jiamei Lv, Yi Gao, and Wei Dong.</p>
     <p class="publication-meta"><em>ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys), Boulder, CO, USA. May 17-20, 2027</em>.</p>
     <p class="publication-meta">Acceptance Rate (Cycle 1): 17.7% (43 conditionally accepted out of 243 submissions).</p>
