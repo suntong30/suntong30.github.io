@@ -195,6 +195,7 @@ $publication-journal-color: #0092ca;
 $publication-journal-dark-color: #004965;
 $publication-chinese-journal-color: #8a63d2;
 $publication-chinese-journal-bg: rgba(243, 232, 255, .45);
+$publication-text-size: .9375rem;
 $service-color: #b7791f;
 $service-bg: rgba(255, 248, 230, .8);
 $service-border-color: rgba(183, 121, 31, .24);
@@ -411,7 +412,7 @@ $talk-border-color: rgba(71, 85, 105, .2);
     grid-row: 2;
     margin: .55rem 0 .35rem 0;
     color: #1f2933;
-    font-size: 1.06rem;
+    font-size: $publication-text-size;
     font-weight: 700;
     line-height: 1.32;
 }
@@ -422,7 +423,7 @@ $talk-border-color: rgba(71, 85, 105, .2);
     align-self: start;
     margin-top: .55rem;
     color: #454b54;
-    font-size: 1.06rem;
+    font-size: $publication-text-size;
     font-weight: 400;
     line-height: 1.32;
     text-align: right;
@@ -445,11 +446,11 @@ $talk-border-color: rgba(71, 85, 105, .2);
     color: $publication-chinese-journal-color;
 }
 
-.publication-authors,
-.publication-meta {
+.page__content .publication-authors,
+.page__content .publication-meta {
     margin: .22rem 0;
     color: #4a4f55;
-    font-size: .93em;
+    font-size: $publication-text-size;
     line-height: 1.45;
 }
 
