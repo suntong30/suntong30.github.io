@@ -208,7 +208,7 @@ $talk-border-color: rgba(71, 85, 105, .2);
     justify-content: space-between;
     gap: .8rem 1.2rem;
     margin: 1rem 0 .2rem;
-    padding: .78rem;
+    padding: .4rem .65rem;
     background: #f8f9fb;
     border: 1px solid #e6e8ec;
     border-radius: 10px;
@@ -956,7 +956,7 @@ $talk-border-color: rgba(71, 85, 105, .2);
     .publication-toolbar {
         align-items: stretch;
         flex-direction: column;
-        padding: .65rem;
+        padding: .5rem;
     }
 
     .publication-view-tabs {
