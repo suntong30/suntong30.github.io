@@ -61,6 +61,7 @@ I work on **systems and security for AIoT**, with a focus on **system software f
 **Research Overview:**
 
 I’m currently working on the following directions:
+- **Embodied Agentic OS and Physical AI**
 - **Generative safe OS with confidential computing support for IoT** — Toward automatically constructing a secure-by-default OS and toolchain for TEE-enabled IoT devices.
   - **LLM-assisted secure application development:** frameworks that help developers build TEE-based secure IoT applications correctly [[IPSN'24, dTEE]](https://ieeexplore.ieee.org/document/10577323), [[Security'26, IoTRAGuarder]](https://www.usenix.org/conference/usenixsecurity26/presentation/sun-tong).
   - **Trusted sensing:** tools that help developers build TEE-based secure drivers [[SenSys'27, TrustDrive]](https://sensys.acm.org/2027/index.html).
