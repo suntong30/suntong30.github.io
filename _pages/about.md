@@ -163,6 +163,11 @@ I used to work on (and still build upon) the following topics:
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Hailong Lin, Jiamei Lv, Yi Gao, and Wei Dong.</p>
     <p class="publication-meta"><em>ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys), Boulder, CO, USA. May 17-20, 2027</em>.</p>
     <p class="publication-meta">Acceptance Rate (Cycle 1): 17.7% (43 conditionally accepted out of 243 submissions).</p>
+    <div class="publication-ranks">
+      <span class="publication-rank">CCF-B</span>
+      <span class="publication-rank">THCPL-A</span>
+      <span class="publication-rank">CORE A*</span>
+    </div>
   </article>
 </div>
 
