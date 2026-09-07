@@ -9,6 +9,7 @@
 
     var results = browser.querySelector("#publication-results");
     var searchInput = browser.querySelector("#publication-search");
+    var firstAuthorInput = browser.querySelector("#publication-first-author");
     var status = browser.querySelector("#publication-results-status");
     var tabs = Array.prototype.slice.call(
       browser.querySelectorAll("[data-publication-view]")
@@ -17,7 +18,9 @@
       browser.querySelectorAll("[data-publication-card]")
     );
 
-    if (!results || !searchInput || !tabs.length || !cards.length) {
+    if (
+      !results || !searchInput || !firstAuthorInput || !tabs.length || !cards.length
+    ) {
       return;
     }
 
@@ -37,7 +40,8 @@
         card: card,
         title: title.replace(/^\s*\[[^\]]+\]\s*/, "").trim().toLowerCase(),
         year: card.getAttribute("data-year") || "Other",
-        type: card.getAttribute("data-type") || "other"
+        type: card.getAttribute("data-type") || "other",
+        isFirstAuthor: card.getAttribute("data-first-author") === "true"
       };
     });
     var currentView = "year";
@@ -113,8 +117,12 @@
 
     function renderPublications() {
       var query = searchInput.value.trim().toLowerCase();
+      var firstAuthorOnly = firstAuthorInput.checked;
       var visiblePublications = publications.filter(function (publication) {
-        return !query || publication.title.indexOf(query) !== -1;
+        return (
+          (!firstAuthorOnly || publication.isFirstAuthor) &&
+          (!query || publication.title.indexOf(query) !== -1)
+        );
       });
       var groups = groupPublications(visiblePublications);
 
@@ -136,7 +144,9 @@
 
         emptyState.className = "publication-empty";
         emptyTitle.textContent = "No publications found.";
-        emptyHint.textContent = "Try another title keyword.";
+        emptyHint.textContent = firstAuthorOnly
+          ? "Try another title keyword or uncheck First Author only."
+          : "Try another title keyword.";
         emptyState.appendChild(emptyTitle);
         emptyState.appendChild(emptyHint);
         results.appendChild(emptyState);
@@ -146,7 +156,8 @@
       status.textContent =
         visiblePublications.length +
         (visiblePublications.length === 1 ? " publication" : " publications") +
-        " shown";
+        " shown" +
+        (firstAuthorOnly ? " (first author only)" : "");
     }
 
     function setView(view) {
@@ -185,6 +196,7 @@
     });
 
     searchInput.addEventListener("input", renderPublications);
+    firstAuthorInput.addEventListener("change", renderPublications);
     setView("year");
   }
 

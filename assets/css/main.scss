@@ -206,6 +206,7 @@ $talk-border-color: rgba(71, 85, 105, .2);
 .publication-toolbar {
     display: none;
     align-items: center;
+    flex-wrap: wrap;
     justify-content: space-between;
     gap: .8rem 1.2rem;
     margin: 1rem 0 .2rem;
@@ -256,9 +257,32 @@ $talk-border-color: rgba(71, 85, 105, .2);
 }
 
 .publication-view-button:focus-visible,
+.publication-author-filter input:focus-visible,
 .publication-search input:focus-visible {
     outline: 3px solid rgba($publication-conference-color, .24);
     outline-offset: 2px;
+}
+
+.publication-author-filter {
+    display: inline-flex;
+    align-items: center;
+    flex: 0 0 auto;
+    gap: .45rem;
+    min-height: 2.65rem;
+    margin: 0;
+    color: #59636f;
+    font-size: .92rem;
+    line-height: 1.2;
+    cursor: pointer;
+}
+
+.publication-author-filter input[type="checkbox"] {
+    flex: 0 0 auto;
+    width: 1rem;
+    height: 1rem;
+    margin: 0;
+    accent-color: $publication-conference-color;
+    box-shadow: none;
 }
 
 .publication-search {
@@ -971,6 +995,7 @@ $talk-border-color: rgba(71, 85, 105, .2);
     }
 
     .publication-search {
+        flex-basis: auto;
         width: 100%;
         min-width: 0;
     }

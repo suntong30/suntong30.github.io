@@ -142,6 +142,10 @@ I used to work on (and still build upon) the following topics:
       <button class="publication-view-button is-active" id="publication-view-year" type="button" role="tab" aria-selected="true" aria-controls="publication-results" data-publication-view="year">By Year</button>
       <button class="publication-view-button" id="publication-view-venue" type="button" role="tab" aria-selected="false" aria-controls="publication-results" tabindex="-1" data-publication-view="venue">By Venue</button>
     </div>
+    <label class="publication-author-filter" for="publication-first-author">
+      <input id="publication-first-author" type="checkbox" aria-controls="publication-results">
+      <span>First Author only</span>
+    </label>
     <label class="publication-search" for="publication-search">
       <span class="screen-reader-text">Search publication titles</span>
       <i class="fas fa-search" aria-hidden="true"></i>
@@ -153,7 +157,7 @@ I used to work on (and still build upon) the following topics:
 
 <h2 class="publication-group__heading">2027</h2>
 <div class="publication-list">
-  <article class="publication-card" data-publication-card data-year="2027" data-type="conference">
+  <article class="publication-card" data-publication-card data-year="2027" data-type="conference" data-first-author="true">
     <div class="publication-card__header">
       <span class="publication-venue">ACM SenSys'27</span>
       <div class="publication-links">
@@ -174,7 +178,7 @@ I used to work on (and still build upon) the following topics:
 
 <h2 class="publication-group__heading">2026</h2>
 <div class="publication-list">
-  <article class="publication-card" data-publication-card data-year="2026" data-type="conference">
+  <article class="publication-card" data-publication-card data-year="2026" data-type="conference" data-first-author="true">
     <div class="publication-card__header">
       <span class="publication-venue">USENIX Security'26</span>
       <div class="publication-links">
@@ -198,7 +202,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
   
-  <article class="publication-card" data-publication-card data-year="2026" data-type="conference">
+  <article class="publication-card" data-publication-card data-year="2026" data-type="conference" data-first-author="false">
     <div class="publication-card__header">
       <span class="publication-venue">ICML'26</span>
       <div class="publication-links">
@@ -219,7 +223,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
 
-  <article class="publication-card publication-card--chinese-journal" data-publication-card data-year="2026" data-type="journal">
+  <article class="publication-card publication-card--chinese-journal" data-publication-card data-year="2026" data-type="journal" data-first-author="false">
     <div class="publication-card__header">
       <span class="publication-venue">CCCF'26</span>
       <div class="publication-links">
@@ -232,7 +236,7 @@ I used to work on (and still build upon) the following topics:
     <p class="publication-meta"><em>Computing Magazine of the CCF（中国计算机学会通讯《计算》), 2026, 2(5): 71−78</em>.</p>
   </article>
 
-  <article class="publication-card publication-card--journal" data-publication-card data-year="2026" data-type="journal">
+  <article class="publication-card publication-card--journal" data-publication-card data-year="2026" data-type="journal" data-first-author="false">
     <div class="publication-card__header">
       <span class="publication-venue">IEEE TMC</span>
       <div class="publication-links">
@@ -254,7 +258,7 @@ I used to work on (and still build upon) the following topics:
 
 <h2 class="publication-group__heading">2025</h2>
 <div class="publication-list">
-  <article class="publication-card" data-publication-card data-year="2025" data-type="conference">
+  <article class="publication-card" data-publication-card data-year="2025" data-type="conference" data-first-author="true">
     <div class="publication-card__header">
       <span class="publication-venue">ACM CCS'25</span>
       <div class="publication-links">
@@ -280,7 +284,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
 
-  <article class="publication-card publication-card--journal" data-publication-card data-year="2025" data-type="journal">
+  <article class="publication-card publication-card--journal" data-publication-card data-year="2025" data-type="journal" data-first-author="true">
     <div class="publication-card__header">
       <span class="publication-venue">ACM TOS</span>
       <div class="publication-links">
@@ -301,7 +305,7 @@ I used to work on (and still build upon) the following topics:
 
 <h2 class="publication-group__heading">2024</h2>
 <div class="publication-list">
-  <article class="publication-card" data-publication-card data-year="2024" data-type="conference">
+  <article class="publication-card" data-publication-card data-year="2024" data-type="conference" data-first-author="true">
     <div class="publication-card__header">
       <span class="publication-venue">USENIX ATC'24</span>
       <div class="publication-links">
@@ -330,7 +334,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
   
-  <article class="publication-card publication-card--journal" data-publication-card data-year="2024" data-type="journal">
+  <article class="publication-card publication-card--journal" data-publication-card data-year="2024" data-type="journal" data-first-author="true">
     <div class="publication-card__header">
       <span class="publication-venue">IEEE TMC</span>
       <div class="publication-links">
@@ -349,7 +353,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
 
-  <article class="publication-card" data-publication-card data-year="2024" data-type="conference">
+  <article class="publication-card" data-publication-card data-year="2024" data-type="conference" data-first-author="true">
     <div class="publication-card__header">
       <span class="publication-venue">ACM/IEEE IPSN'24</span>
       <div class="publication-links">
@@ -369,7 +373,7 @@ I used to work on (and still build upon) the following topics:
     </div>
   </article>
 
-  <article class="publication-card" data-publication-card data-year="2024" data-type="conference">
+  <article class="publication-card" data-publication-card data-year="2024" data-type="conference" data-first-author="false">
     <div class="publication-card__header">
       <span class="publication-venue">IEEE INFOCOM'24</span>
       <div class="publication-links">
