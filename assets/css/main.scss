@@ -168,6 +168,61 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+$news-color: #8a63d2;
+
+.news-panel {
+    max-height: 350px;
+    overflow-y: auto;
+    margin: 0;
+    padding: 20px;
+    background: rgba(243, 232, 255, .4);
+    scrollbar-width: thin;
+    scrollbar-color: $news-color #e9ecef;
+
+    &::-webkit-scrollbar {
+        width: 8px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: #e9ecef;
+        border-radius: 4px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: $news-color;
+        border-radius: 4px;
+    }
+
+    &::-webkit-scrollbar-thumb:hover {
+        background: darken($news-color, 12%);
+    }
+}
+
+.page__content .news-timeline {
+    margin: 0 0 0 .2em;
+    padding: 0 0 0 1.4em;
+    border-left: 3px solid rgba($news-color, .18);
+    list-style: none;
+
+    > li {
+        position: relative;
+        padding-left: .6em;
+
+        &::before {
+            content: '';
+            position: absolute;
+            left: calc(-1.4em - 5px);
+            top: .52em;
+            width: 7px;
+            height: 7px;
+            border: 2px solid #f8fafc;
+            border-radius: 50%;
+            background: $news-color;
+            box-shadow: 0 0 0 1.5px $news-color;
+        }
+    }
+}
+
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;

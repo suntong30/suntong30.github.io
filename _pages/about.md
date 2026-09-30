@@ -78,28 +78,8 @@ I used to work on (and still build upon) the following topics:
 
 # 🔥 News
 
-<div style="max-height: 350px; overflow-y: auto; padding: 20px; background: rgba(243, 232, 256, 0.4); border-left: 4px solid #2c3e50; margin: 0px 0;">
-<style>
-  div::-webkit-scrollbar {
-    width: 8px;
-  }
-  div::-webkit-scrollbar-track {
-    background: #e9ecef;
-    border-radius: 4px;
-  }
-  div::-webkit-scrollbar-thumb {
-    background: #2c3e50;
-    border-radius: 4px;
-  }
-  div::-webkit-scrollbar-thumb:hover {
-    background: #1a252f;
-  }
-  div {
-    scrollbar-width: thin;
-    scrollbar-color: #2c3e50 #e9ecef;
-  }
-</style>
-<ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<div class="news-panel" role="region" aria-label="News" tabindex="0">
+<ul class="news-timeline" role="list">
   <li><em>2026.08:</em> 🎉🎉 Our work <strong>TrustDrive</strong> is <b><font color="blue">conditionally accepted</font></b> to <strong>ACM SenSys 2027</strong>. Thanks to all collaborators! See you in Boulder, CO.</li>
   <li><em>2026.06:</em> 😃 Invited to serve on the <b><font color="blue">PC</font></b> of <strong>USENIX Security 2027</strong>.</li>
   <li><em>2026.06:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>NDSS 2027</strong>.</li>
