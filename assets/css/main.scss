@@ -208,6 +208,20 @@ $news-color: #8a63d2;
         position: relative;
         padding-left: .6em;
 
+        > em:first-child {
+            display: inline-block;
+            font-style: normal;
+            font-size: .78em;
+            font-weight: 600;
+            color: $news-color;
+            background: rgba($news-color, .08);
+            padding: 1px 7px;
+            border-radius: 4px;
+            margin-right: 4px;
+            letter-spacing: .02em;
+            white-space: nowrap;
+        }
+
         &::before {
             content: '';
             position: absolute;

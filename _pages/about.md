@@ -80,35 +80,35 @@ I used to work on (and still build upon) the following topics:
 
 <div class="news-panel" role="region" aria-label="News" tabindex="0">
 <ul class="news-timeline" role="list">
-  <li><em>2026.08:</em> 🎉🎉 Our work <strong>TrustDrive</strong> is <b><font color="blue">conditionally accepted</font></b> to <strong>ACM SenSys 2027</strong>. Thanks to all collaborators! See you in Boulder, CO.</li>
-  <li><em>2026.06:</em> 😃 Invited to serve on the <b><font color="blue">PC</font></b> of <strong>USENIX Security 2027</strong>.</li>
-  <li><em>2026.06:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>NDSS 2027</strong>.</li>
-  <li><em>2026.05:</em> 🎉🎉 Our work <strong>IoTRAGuarder</strong> is <b><font color="blue">accepted</font></b> to <strong>USENIX Security 2026</strong>. Thanks to all collaborators! See you in Baltimore.</li>
-  <li><em>2026.05:</em> 🎉🎉 Our work <strong>"IoT Confidential Computing"（物联网机密感知计算)</strong> is <b><font color="blue">accepted</font></b> to <strong>Computing Magazine of the CCF（中国计算机学会通讯《计算》)</strong>.</li> 
-  <li><em>2026.05:</em> 😃 Our work <strong>RTInfer</strong> is <b><font color="blue">accepted</font></b> to <strong>ICML 2026</strong>, congrats to Renjie! See you in Seoul.</li>
-  <li><em>2026.04:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX OSDI 2026</strong>.</li>
-  <li><em>2026.04:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>ACM CCS 2026</strong>.</li>
-  <li><em>2026.04:</em> 😃 Our work <strong>EncDiffPatch</strong> is <b><font color="blue">accepted</font></b> to <strong>IEEE Transactions on Mobile Computing</strong>, congrats to Lewei!</li>
-  <li><em>2025.12:</em> 🏆 Selected into the China Association for Science and Technology (CAST) Youth Talent Support Program for PhD Students <b><font color="blue"> 中国科协青年科技人才培育工程博士生专项计划</font></b> !</li>
-  <li><em>2025.12:</em> 🏆 Received funding from the National Natural Science Foundation of China (NSFC) under the Youth Student Basic Research Program<b><font color="blue"> 国家自然科学基金博士生基金</font></b> !</li>
-  <li><em>2025.11:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX Security 2026</strong>.</li>
-  <li><em>2025.08:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>IEEE S&P (Oakland) 2026</strong>.</li>
-  <li><em>2025.06:</em> 😃 Invited to serve on the <b><font color="blue">Shadow PC</font></b> of <strong>ACM EuroSys 2026</strong>.</li>
-  <li><em>2025.05:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>ACM CCS 2025</strong>.</li>
-  <li><em>2025.05:</em> 🎉🎉 Our work <strong>TensorShield</strong> is <b><font color="blue">accepted</font></b> to <strong>ACM CCS 2025</strong>. Thanks to all collaborators! See you in Taipei.</li> 
-  <li><em>2025.05:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX FAST 2026</strong>.</li>
-  <li><em>2025.05:</em> 😃 Invited to serve on the <b><font color="blue">TPC</font></b> of <strong>IEEE DIKW 2025</strong>.</li>
-  <li><em>2025.05:</em> 😃 Invited to be the reviewer of <strong>International Journal of Data Science and Analytics</strong>.</li>
-  <li><em>2025.04:</em> 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX OSDI 2025</strong> and <strong>USENIX ATC 2025</strong>.</li>
-  <li><em>2025.03:</em> 🎉🎉 Our work <strong>SimEnc</strong> is selected as one of the <b><font color="#C00000">Best Storage Related Papers (6/77≈7.8%)</font></b> of USENIX ATC'24 for fast-track publication in <strong>ACM Transactions on Storage</strong>. Thanks to all collaborators!</li>
-  <li><em>2025.02:</em> 😃 Invited to be the reviewer of <strong>The Journal of Supercomputing</strong>. </li>
-  <li><em>2024.11:</em> 🏆 Received the <b><font color="blue">2024 National Scholarship</font></b>!</li>
-  <li><em>2024.09:</em> 😃 Invited to be the reviewer of <strong>IEEE HPCC 2024</strong>. </li>
-  <li><em>2024.09:</em> 😃 Invited to be the reviewer of <strong>IEEE Transactions on Knowledge and Data Engineering</strong>.</li>
-  <li><em>2024.05:</em> 🎉🎉 Our work <strong>sdiff</strong> is <b><font color="blue">accepted</font></b> to <strong>IEEE Transactions on Mobile Computing</strong>. Thanks to all collaborators!</li>
-  <li><em>2024.05:</em> 🎉🎉 Our work <strong>SimEnc</strong> is <b><font color="blue">accepted</font></b> to <strong>USENIX ATC 2024</strong>. Thanks to all collaborators! See you in Santa Clara.</li>
-  <li><em>2024.01:</em> 🎉🎉 Our work <strong>dTEE</strong> is <b><font color="blue">accepted</font></b> to <strong>ACM/IEEE IPSN 2024</strong>. Thanks to all collaborators! See you in Hong Kong.</li>
-  <li><em>2023.12:</em> 😃 Our work <strong>MDiffPatch</strong> is <b><font color="blue">accepted</font></b> to <strong>IEEE INFOCOM 2024</strong>, congrats to Lewei!</li>
+  <li><em>2026.08</em>: 🎉🎉 Our work <strong>TrustDrive</strong> is <b><font color="blue">conditionally accepted</font></b> to <strong>ACM SenSys 2027</strong>. Thanks to all collaborators! See you in Boulder, CO.</li>
+  <li><em>2026.06</em>: 😃 Invited to serve on the <b><font color="blue">PC</font></b> of <strong>USENIX Security 2027</strong>.</li>
+  <li><em>2026.06</em>: 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>NDSS 2027</strong>.</li>
+  <li><em>2026.05</em>: 🎉🎉 Our work <strong>IoTRAGuarder</strong> is <b><font color="blue">accepted</font></b> to <strong>USENIX Security 2026</strong>. Thanks to all collaborators! See you in Baltimore.</li>
+  <li><em>2026.05</em>: 🎉🎉 Our work <strong>"IoT Confidential Computing"（物联网机密感知计算)</strong> is <b><font color="blue">accepted</font></b> to <strong>Computing Magazine of the CCF（中国计算机学会通讯《计算》)</strong>.</li>
+  <li><em>2026.05</em>: 😃 Our work <strong>RTInfer</strong> is <b><font color="blue">accepted</font></b> to <strong>ICML 2026</strong>, congrats to Renjie! See you in Seoul.</li>
+  <li><em>2026.04</em>: 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX OSDI 2026</strong>.</li>
+  <li><em>2026.04</em>: 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>ACM CCS 2026</strong>.</li>
+  <li><em>2026.04</em>: 😃 Our work <strong>EncDiffPatch</strong> is <b><font color="blue">accepted</font></b> to <strong>IEEE Transactions on Mobile Computing</strong>, congrats to Lewei!</li>
+  <li><em>2025.12</em>: 🏆 Selected into the China Association for Science and Technology (CAST) Youth Talent Support Program for PhD Students <b><font color="blue"> 中国科协青年科技人才培育工程博士生专项计划</font></b> !</li>
+  <li><em>2025.12</em>: 🏆 Received funding from the National Natural Science Foundation of China (NSFC) under the Youth Student Basic Research Program<b><font color="blue"> 国家自然科学基金博士生基金</font></b> !</li>
+  <li><em>2025.11</em>: 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX Security 2026</strong>.</li>
+  <li><em>2025.08</em>: 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>IEEE S&P (Oakland) 2026</strong>.</li>
+  <li><em>2025.06</em>: 😃 Invited to serve on the <b><font color="blue">Shadow PC</font></b> of <strong>ACM EuroSys 2026</strong>.</li>
+  <li><em>2025.05</em>: 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>ACM CCS 2025</strong>.</li>
+  <li><em>2025.05</em>: 🎉🎉 Our work <strong>TensorShield</strong> is <b><font color="blue">accepted</font></b> to <strong>ACM CCS 2025</strong>. Thanks to all collaborators! See you in Taipei.</li>
+  <li><em>2025.05</em>: 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX FAST 2026</strong>.</li>
+  <li><em>2025.05</em>: 😃 Invited to serve on the <b><font color="blue">TPC</font></b> of <strong>IEEE DIKW 2025</strong>.</li>
+  <li><em>2025.05</em>: 😃 Invited to be the reviewer of <strong>International Journal of Data Science and Analytics</strong>.</li>
+  <li><em>2025.04</em>: 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>USENIX OSDI 2025</strong> and <strong>USENIX ATC 2025</strong>.</li>
+  <li><em>2025.03</em>: 🎉🎉 Our work <strong>SimEnc</strong> is selected as one of the <b><font color="#C00000">Best Storage Related Papers (6/77≈7.8%)</font></b> of USENIX ATC'24 for fast-track publication in <strong>ACM Transactions on Storage</strong>. Thanks to all collaborators!</li>
+  <li><em>2025.02</em>: 😃 Invited to be the reviewer of <strong>The Journal of Supercomputing</strong>. </li>
+  <li><em>2024.11</em>: 🏆 Received the <b><font color="blue">2024 National Scholarship</font></b>!</li>
+  <li><em>2024.09</em>: 😃 Invited to be the reviewer of <strong>IEEE HPCC 2024</strong>. </li>
+  <li><em>2024.09</em>: 😃 Invited to be the reviewer of <strong>IEEE Transactions on Knowledge and Data Engineering</strong>.</li>
+  <li><em>2024.05</em>: 🎉🎉 Our work <strong>sdiff</strong> is <b><font color="blue">accepted</font></b> to <strong>IEEE Transactions on Mobile Computing</strong>. Thanks to all collaborators!</li>
+  <li><em>2024.05</em>: 🎉🎉 Our work <strong>SimEnc</strong> is <b><font color="blue">accepted</font></b> to <strong>USENIX ATC 2024</strong>. Thanks to all collaborators! See you in Santa Clara.</li>
+  <li><em>2024.01</em>: 🎉🎉 Our work <strong>dTEE</strong> is <b><font color="blue">accepted</font></b> to <strong>ACM/IEEE IPSN 2024</strong>. Thanks to all collaborators! See you in Hong Kong.</li>
+  <li><em>2023.12</em>: 😃 Our work <strong>MDiffPatch</strong> is <b><font color="blue">accepted</font></b> to <strong>IEEE INFOCOM 2024</strong>, congrats to Lewei!</li>
 </ul>
 </div>
   
