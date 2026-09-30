@@ -872,6 +872,7 @@ $talk-border-color: rgba(71, 85, 105, .2);
 }
 
 .honor-list {
+    position: relative;
     margin: .75rem 0 1.7rem 0;
     background: #fff;
     border: 1px solid #ececec;
@@ -880,11 +881,21 @@ $talk-border-color: rgba(71, 85, 105, .2);
     overflow: hidden;
 }
 
+.honor-list::before {
+    content: '';
+    position: absolute;
+    top: .78rem;
+    bottom: .78rem;
+    left: 1.45rem;
+    width: 3px;
+    background: rgba($info-color, .18);
+}
+
 .honor-entry {
     display: grid;
-    grid-template-columns: 5.6rem minmax(0, 1fr);
+    grid-template-columns: max-content minmax(0, 1fr);
     gap: .85rem;
-    padding: .78rem 1.05rem;
+    padding: .78rem 1.05rem .78rem 3.6rem;
     border-top: 1px solid #f0f2f5;
 }
 
@@ -893,20 +904,36 @@ $talk-border-color: rgba(71, 85, 105, .2);
 }
 
 .honor-date {
+    position: relative;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    align-self: flex-start;
-    min-height: 1.55rem;
-    padding: .12rem .48rem;
-    border-radius: 5px;
-    background: rgba($info-color, .1);
+    align-self: start;
+    justify-self: start;
+    padding: 1px 7px;
+    border-radius: 4px;
+    background: rgba($info-color, .08);
     color: $info-color;
-    font-size: .94rem;
+    font-size: .78em;
     font-style: normal;
-    font-weight: 700;
-    line-height: 1.2;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: .02em;
     white-space: nowrap;
+}
+
+.honor-date::before {
+    content: '';
+    position: absolute;
+    left: calc(-2.15rem - 2px);
+    top: 50%;
+    width: 7px;
+    height: 7px;
+    border: 2px solid #f8fafc;
+    border-radius: 50%;
+    background: $info-color;
+    box-shadow: 0 0 0 1.5px $info-color;
+    transform: translateY(-50%);
 }
 
 .honor-body {
@@ -1114,11 +1141,16 @@ $talk-border-color: rgba(71, 85, 105, .2);
     .honor-entry {
         grid-template-columns: minmax(0, 1fr);
         gap: .45rem;
-        padding: .82rem .95rem;
+        padding: .82rem .95rem .82rem 3.6rem;
     }
 
     .honor-date {
         justify-content: flex-start;
         width: fit-content;
+    }
+
+    .honor-chip {
+        max-width: calc(100% - .35rem);
+        white-space: normal;
     }
 }
