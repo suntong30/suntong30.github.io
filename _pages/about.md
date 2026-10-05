@@ -80,6 +80,7 @@ I used to work on (and still build upon) the following topics:
 
 <div class="news-panel" role="region" aria-label="News" tabindex="0">
 <ul class="news-timeline" role="list">
+  <li><em>2026.09</em>: 😃 Selected as a candidate for the <strong>Chu Kochen Scholarship</strong>.</li>
   <li><em>2026.08</em>: 🎉🎉 Our work <strong>TrustDrive</strong> is <b><font color="blue">conditionally accepted</font></b> to <strong>ACM SenSys 2027</strong>. Thanks to all collaborators! See you in Boulder, CO.</li>
   <li><em>2026.06</em>: 😃 Invited to serve on the <b><font color="blue">PC</font></b> of <strong>USENIX Security 2027</strong>.</li>
   <li><em>2026.06</em>: 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>NDSS 2027</strong>.</li>
