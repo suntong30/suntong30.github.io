@@ -145,7 +145,7 @@ I used to work on (and still build upon) the following topics:
         <a href="https://sensys.acm.org/2027/">web</a>
       </div>
     </div>
-    <h3 class="publication-title"><span class="publication-id">[C7]</span> <a href="https://sensys.acm.org/2027/index.html">TrustDrive: A Hybrid Emulation Approach for Securing IoT Drivers with TrustZone</a></h3>
+    <h3 class="publication-title"><span class="publication-id">[C8]</span> <a href="https://sensys.acm.org/2027/index.html">TrustDrive: A Hybrid Emulation Approach for Securing IoT Drivers with TrustZone</a></h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Hailong Lin, Jiamei Lv, Yi Gao, and Wei Dong.</p>
     <p class="publication-meta"><em>ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys), Boulder, CO, USA. May 17-20, 2027</em>.</p>
     <p class="publication-meta">Acceptance Rate (Cycle 1): 17.7% (43 conditionally accepted out of 243 submissions).</p>
@@ -169,7 +169,7 @@ I used to work on (and still build upon) the following topics:
         <a href="https://suntong30.github.io/assets/pdf/sec26_IoTRAGuarder.pdf">slides</a>
       </div>
     </div>
-    <h3 class="publication-title"><span class="publication-id">[C6]</span> Securing Retrieval-Augmented Code Generation via Contextual Knowledge Injection: A Case for Embedded IoT Applications</h3>
+    <h3 class="publication-title"><span class="publication-id">[C7]</span> Securing Retrieval-Augmented Code Generation via Contextual Knowledge Injection: A Case for Embedded IoT Applications</h3>
     <p class="publication-authors"><strong class="publication-me">Tong Sun</strong>, Jingyi Su, Yi Gao, and Wei Dong.</p>
     <p class="publication-meta"><em>The 35th USENIX Security Symposium (USENIX Security), Baltimore, MD, USA. August 12-14, 2026</em>.</p>
     <p class="publication-meta"> Acceptance Rate: Cycle B 12.5% (196 out of 1569).</p>
@@ -193,7 +193,7 @@ I used to work on (and still build upon) the following topics:
         <a href="https://suntong30.github.io/assets/pdf/ICML26_RTInfer_poster.pdf">slides</a>
       </div>
     </div>
-    <h3 class="publication-title"><span class="publication-id">[C5]</span> RTInfer: Exploiting Concurrency for Multiple Real-Time DNN Inference on Edge GPUs</h3>
+    <h3 class="publication-title"><span class="publication-id">[C6]</span> RTInfer: Exploiting Concurrency for Multiple Real-Time DNN Inference on Edge GPUs</h3>
     <p class="publication-authors">Renjie Li, <strong class="publication-me">Tong Sun</strong>, Yi Gao, and Wei Dong.</p>
     <p class="publication-meta"><em>Forty-third International Conference on Machine Learning (ICML), Seoul, South Korea. July 6-11, 2026</em>.</p>
     <p class="publication-meta">Acceptance Rate: 26.6% (6352 out of 23918).</p>
@@ -202,6 +202,19 @@ I used to work on (and still build upon) the following topics:
       <span class="publication-rank">THCPL-A</span>
       <span class="publication-rank">CORE A*</span>
     </div>
+  </article>
+
+  <article class="publication-card" data-publication-card data-year="2026" data-type="conference" data-first-author="false">
+    <div class="publication-card__header">
+      <span class="publication-venue">ACM-TURC'26</span>
+      <div class="publication-links">
+        <a href="https://dl.acm.org/doi/pdf/10.1145/3833142.3833174">paper</a>
+        <a href="https://dl.acm.org/doi/10.1145/3833142.3833174">web</a>
+      </div>
+    </div>
+    <h3 class="publication-title"><span class="publication-id">[C5]</span> <a href="https://dl.acm.org/doi/10.1145/3833142.3833174">Wardrift: LLM-Assisted Static Analysis for TrustZone-Oriented IoT Application Hardening</a></h3>
+    <p class="publication-authors">Runlin Jiang, <strong class="publication-me">Tong Sun</strong>, Xiangping Zhai, Jiamei Lv, Yi Gao, and Wei Dong.</p>
+    <p class="publication-meta"><em>Proceedings of the ACM Turing Award Celebration Conference - China 2026 (ACM-TURC), Hangzhou, China, pp. 151–152, 2026</em>.</p>
   </article>
 
   <article class="publication-card publication-card--chinese-journal" data-publication-card data-year="2026" data-type="journal" data-first-author="false">
