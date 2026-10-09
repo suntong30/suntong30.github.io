@@ -567,6 +567,13 @@ I used to work on (and still build upon) the following topics:
 # 🎖 Honors and Awards
 <div class="honor-list">
   <article class="honor-entry">
+    <time class="honor-date">2026.10</time>
+    <div class="honor-body">
+      <p class="honor-title">Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University</p>
+      <p class="honor-meta">浙江大学优秀研究生，五好研究生，优秀研究生干部, 2026</p>
+    </div>
+  </article>
+  <article class="honor-entry">
     <time class="honor-date">2025.12</time>
     <div class="honor-body">
       <p class="honor-title">Youth Talent Support Program for PhD Students</p>
