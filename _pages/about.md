@@ -80,7 +80,8 @@ I used to work on (and still build upon) the following topics:
 
 <div class="news-panel" role="region" aria-label="News" tabindex="0">
 <ul class="news-timeline" role="list">
-  <li><em>2026.09</em>: 😃 Selected as a candidate for the <strong>Chu Kochen Scholarship</strong>.</li>
+  <li><em>2026.10</em>: 🏆 Received the <b><font color="blue">2026 National Scholarship</font></b>!</li>
+  <li><em>2026.09</em>: 🏆 Selected as a candidate for the <b><font color="blue">Chu Kochen Scholarship</font></b>.</li>
   <li><em>2026.08</em>: 🎉🎉 Our work <strong>TrustDrive</strong> is <b><font color="blue">conditionally accepted</font></b> to <strong>ACM SenSys 2027</strong>. Thanks to all collaborators! See you in Boulder, CO.</li>
   <li><em>2026.06</em>: 😃 Invited to serve on the <b><font color="blue">PC</font></b> of <strong>USENIX Security 2027</strong>.</li>
   <li><em>2026.06</em>: 😃 Invited to serve on the <b><font color="blue">AEC</font></b> of <strong>NDSS 2027</strong>.</li>
@@ -566,6 +567,20 @@ I used to work on (and still build upon) the following topics:
 
 # 🎖 Honors and Awards
 <div class="honor-list">
+  <article class="honor-entry">
+    <time class="honor-date">2026.10</time>
+    <div class="honor-body">
+      <p class="honor-title">National Scholarship <span class="honor-chip">Award Rate: ~0.2% nation-wide</span></p>
+      <p class="honor-meta">国家奖学金 · Ministry of Education, China, 2026</p>
+    </div>
+  </article>
+  <article class="honor-entry">
+    <time class="honor-date">2026.10</time>
+    <div class="honor-body">
+      <p class="honor-title">Chu Kochen Scholarship Candidate</p>
+      <p class="honor-meta">竺可桢奖学金候选人 · Zhejiang University, China, 2026</p>
+    </div>
+  </article>
   <article class="honor-entry">
     <time class="honor-date">2026.10</time>
     <div class="honor-body">
