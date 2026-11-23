@@ -444,6 +444,10 @@ I used to work on (and still build upon) the following topics:
           <span class="service-entry__name">NDSS</span>
           <span class="service-entry__year">2027</span>
         </div>
+        <div class="service-entry">
+          <span class="service-entry__name">ACM/IEEE SenSys</span>
+          <span class="service-entry__year">2027</span>
+        </div>
       </div>
     </div>
   </section>
